@@ -1,0 +1,2501 @@
+timestamp,user_age,user_gender,user_bmi,craving,primary_deficiency,secondary_deficiency,recommended_food,satisfaction_score,followed_recommendation,success
+2024-04-25 19:52:33.457117,35,M,30.7,Bread/Pasta,Iron,,Kale,5,0,0
+2024-05-21 19:52:33.457138,44,M,19.5,Sugary Foods,Sodium,Chromium,Brazil Nuts,10,1,1
+2023-11-27 19:52:33.457151,57,M,19.3,Ice,Vitamin C,,Sweet Potatoes,2,1,0
+2023-12-15 19:52:33.457162,75,F,20.9,Red Meat,Vitamin B,,Spinach,10,0,0
+2023-11-27 19:52:33.457175,35,M,21.4,Sugary Foods,Vitamin B12,Chromium,Salmon,3,0,0
+2023-12-05 19:52:33.457187,73,F,20.3,Red Meat,Magnesium,,Brazil Nuts,9,1,1
+2024-10-08 19:52:33.457199,29,F,24.9,Bread/Pasta,Vitamin B,Chromium,Spinach,4,1,0
+2024-05-07 19:52:33.457211,42,F,31.7,Citrus Fruits,Vitamin C,Potassium,Oranges,9,1,1
+2024-06-24 19:52:33.457223,75,M,32.1,Fatty Foods,Magnesium,Vitamin B12,Brazil Nuts,3,0,0
+2024-06-05 19:52:33.457235,63,M,22.8,Salty Foods,Sodium,Potassium,Oranges,9,1,1
+2024-08-24 19:52:33.457247,69,M,30.8,Red Meat,Vitamin B12,Magnesium,Spinach,8,1,1
+2024-06-13 19:52:33.457259,18,F,27.6,Citrus Fruits,Magnesium,Iron,Kale,6,1,0
+2024-08-01 19:52:33.457269,43,M,27.1,Salty Foods,Sodium,,Almonds,5,1,0
+2024-04-26 19:52:33.457280,22,M,20.4,Chocolate,Vitamin B12,,Salmon,4,0,0
+2024-09-09 19:52:33.457294,75,F,21.9,Fatty Foods,Zinc,Sodium,Brazil Nuts,6,1,0
+2023-12-26 19:52:33.457306,34,M,19.8,Salty Foods,Sodium,Iron,Brazil Nuts,10,1,1
+2024-02-16 19:52:33.457317,23,F,26.6,Red Meat,Zinc,,Brazil Nuts,3,1,0
+2024-01-11 19:52:33.457328,30,F,34.4,Bread/Pasta,Chromium,Vitamin B12,Eggs,4,1,0
+2024-03-27 19:52:33.457340,29,M,29.9,Red Meat,Iron,Vitamin C,Dark Chocolate,1,1,0
+2024-09-30 19:52:33.457353,32,F,31.1,Citrus Fruits,Magnesium,Calcium,Spinach,7,1,1
+2024-06-08 19:52:33.457363,58,M,34.4,Red Meat,Zinc,,Brazil Nuts,10,1,1
+2024-01-10 19:52:33.457375,22,M,32.2,Salty Foods,Iron,Vitamin B12,Kale,2,1,0
+2024-02-22 19:52:33.457388,25,M,31.8,Bread/Pasta,Vitamin C,Sodium,Sweet Potatoes,1,1,0
+2024-04-07 19:52:33.457400,57,M,23.9,Sugary Foods,Magnesium,Potassium,Bananas,10,1,1
+2023-12-26 19:52:33.457412,61,F,29.2,Citrus Fruits,Vitamin B12,Zinc,Eggs,9,1,1
+2024-08-28 19:52:33.457424,41,M,23.0,Citrus Fruits,Vitamin C,Potassium,Sweet Potatoes,2,1,0
+2024-01-12 19:52:33.457435,57,M,32.0,Bread/Pasta,Iron,,Quinoa,8,1,1
+2024-10-04 19:52:33.457445,22,M,23.4,Red Meat,Sodium,,Eggs,2,1,0
+2024-09-20 19:52:33.457456,39,F,20.5,Chocolate,Magnesium,,Almonds,5,1,0
+2024-02-03 19:52:33.457468,67,M,25.2,Bread/Pasta,Vitamin B12,Vitamin B,Eggs,8,0,0
+2024-08-14 19:52:33.457479,31,F,21.6,Ice,Potassium,,Sweet Potatoes,4,1,0
+2024-08-04 19:52:33.457490,41,M,31.7,Ice,Vitamin B12,Potassium,Oranges,5,1,0
+2024-07-01 19:52:33.457502,48,M,34.1,Bread/Pasta,Chromium,Magnesium,Quinoa,2,1,0
+2024-04-23 19:52:33.457515,22,F,28.7,Chocolate,Calcium,Chromium,Oranges,5,1,0
+2024-09-29 19:52:33.457526,23,M,31.7,Ice,Zinc,,Brazil Nuts,9,1,1
+2024-09-17 19:52:33.457538,43,F,22.3,Bread/Pasta,Vitamin C,Zinc,Brazil Nuts,10,1,1
+2024-05-09 19:52:33.457548,41,M,23.1,Sugary Foods,Calcium,,Almonds,4,1,0
+2024-03-06 19:52:33.457559,46,F,34.6,Bread/Pasta,Magnesium,,Spinach,4,1,0
+2024-04-26 19:52:33.457571,18,F,26.4,Fatty Foods,Vitamin B,Potassium,Oranges,2,1,0
+2024-06-15 19:52:33.457583,28,F,26.1,Salty Foods,Chromium,Vitamin B,Kale,7,0,0
+2024-02-19 19:52:33.457594,31,M,21.9,Red Meat,Iron,,Eggs,2,0,0
+2024-08-28 19:52:33.457604,41,M,19.2,Red Meat,Magnesium,,Quinoa,5,1,0
+2024-10-26 19:52:33.457618,64,M,19.3,Ice,Vitamin B12,Vitamin C,Brazil Nuts,2,1,0
+2024-06-17 19:52:33.457631,65,F,20.0,Citrus Fruits,Sodium,Calcium,Greek Yogurt,9,1,1
+2024-08-27 19:52:33.457643,42,M,28.4,Ice,Sodium,Vitamin B,Spinach,4,0,0
+2024-06-11 19:52:33.457655,44,F,28.7,Salty Foods,Potassium,Vitamin B,Oranges,10,0,0
+2024-03-31 19:52:33.457665,54,M,33.2,Red Meat,Vitamin B12,,Salmon,5,1,0
+2024-11-07 19:52:33.457676,37,F,22.5,Fatty Foods,Vitamin B12,Zinc,Brazil Nuts,1,1,0
+2024-01-18 19:52:33.457689,21,M,19.8,Sugary Foods,Chromium,Zinc,Spinach,4,1,0
+2024-05-06 19:52:33.457700,18,F,19.9,Bread/Pasta,Sodium,,Avocado,1,0,0
+2024-04-20 19:52:33.457711,23,F,22.2,Salty Foods,Zinc,Iron,Eggs,7,1,1
+2024-08-25 19:52:33.457722,23,F,18.9,Bread/Pasta,Potassium,Iron,Sweet Potatoes,10,1,1
+2024-04-29 19:52:33.457733,53,M,19.9,Sugary Foods,Vitamin B,,Spinach,8,1,1
+2024-09-02 19:52:33.457744,30,M,22.8,Chocolate,Vitamin B,Calcium,Greek Yogurt,8,1,1
+2024-07-06 19:52:33.457756,50,M,32.5,Salty Foods,Zinc,Vitamin B,Spinach,1,1,0
+2024-02-27 19:52:33.457768,74,M,32.2,Ice,Potassium,Zinc,Kale,2,1,0
+2024-04-30 19:52:33.457779,37,M,32.6,Fatty Foods,Iron,,Quinoa,9,1,1
+2024-01-19 19:52:33.457789,34,F,35.0,Red Meat,Magnesium,,Bananas,3,1,0
+2024-02-28 19:52:33.457799,66,F,28.9,Citrus Fruits,Vitamin B,,Spinach,4,1,0
+2024-11-11 19:52:33.457811,42,F,22.6,Salty Foods,Sodium,Calcium,Sardines,9,0,0
+2024-10-06 19:52:33.457823,55,M,32.8,Salty Foods,Potassium,Vitamin C,Bananas,7,1,1
+2024-03-18 19:52:33.457834,46,F,21.3,Red Meat,Potassium,,Oranges,4,0,0
+2024-05-12 19:52:33.457846,74,M,26.9,Citrus Fruits,Iron,Zinc,Dark Chocolate,6,1,0
+2024-06-28 19:52:33.457858,59,M,29.8,Ice,Iron,Zinc,Spinach,2,1,0
+2024-07-15 19:52:33.457868,21,F,22.6,Ice,Zinc,,Brazil Nuts,5,0,0
+2024-11-14 19:52:33.457879,39,M,21.0,Chocolate,Vitamin B12,,Salmon,1,0,0
+2024-02-15 19:52:33.457891,69,M,30.3,Citrus Fruits,Vitamin B,Potassium,Bananas,8,1,1
+2023-12-11 19:52:33.457902,58,F,27.5,Red Meat,Calcium,Vitamin C,Greek Yogurt,4,1,0
+2024-05-16 19:52:33.457915,23,M,34.0,Sugary Foods,Potassium,Chromium,Spinach,1,0,0
+2024-06-26 19:52:33.457927,71,F,30.0,Red Meat,Sodium,Potassium,Brazil Nuts,10,0,0
+2024-08-04 19:52:33.457941,64,M,21.6,Ice,Chromium,Vitamin B,Brazil Nuts,2,1,0
+2023-12-06 19:52:33.457953,40,F,24.7,Bread/Pasta,Chromium,Zinc,Brazil Nuts,2,1,0
+2024-01-09 19:52:33.457965,39,M,25.1,Red Meat,Magnesium,Sodium,Spinach,4,1,0
+2024-06-04 19:52:33.457976,37,M,31.7,Chocolate,Chromium,Calcium,Kale,4,1,0
+2023-12-28 19:52:33.457988,64,F,29.1,Chocolate,Potassium,Calcium,Avocado,10,1,1
+2024-03-05 19:52:33.458001,65,M,33.7,Bread/Pasta,Sodium,Chromium,Sweet Potatoes,5,1,0
+2024-05-04 19:52:33.458014,21,F,33.7,Red Meat,Magnesium,Calcium,Greek Yogurt,7,0,0
+2024-02-10 19:52:33.458028,36,F,21.4,Bread/Pasta,Vitamin C,Vitamin B,Oranges,9,1,1
+2023-12-23 19:52:33.458038,37,M,32.4,Sugary Foods,Vitamin B12,,Eggs,5,1,0
+2023-11-27 19:52:33.458049,25,M,23.7,Red Meat,Magnesium,Calcium,Brazil Nuts,7,0,0
+2024-07-11 19:52:33.458059,73,F,30.9,Citrus Fruits,Vitamin B12,,Salmon,7,1,1
+2024-05-18 19:52:33.458069,69,F,19.7,Salty Foods,Vitamin B12,,Salmon,8,0,0
+2024-07-31 19:52:33.458080,19,M,33.9,Sugary Foods,Iron,Sodium,Lentils,5,1,0
+2024-03-07 19:52:33.458091,28,M,23.2,Citrus Fruits,Iron,Vitamin B12,Dark Chocolate,1,1,0
+2024-09-22 19:52:33.458101,35,F,30.5,Salty Foods,Zinc,,Brazil Nuts,4,0,0
+2024-09-14 19:52:33.458112,53,F,29.7,Red Meat,Vitamin B12,,Salmon,10,0,0
+2024-10-10 19:52:33.458123,75,F,22.2,Sugary Foods,Potassium,Vitamin B12,Bananas,7,1,1
+2024-08-29 19:52:33.458136,31,M,33.0,Fatty Foods,Vitamin B,Sodium,Kale,2,1,0
+2024-08-29 19:52:33.458147,55,F,30.6,Chocolate,Potassium,Magnesium,Oranges,5,1,0
+2023-12-25 19:52:33.458160,69,F,26.4,Chocolate,Sodium,Zinc,Quinoa,4,1,0
+2024-10-19 19:52:33.458172,70,M,28.4,Citrus Fruits,Vitamin C,Chromium,Sweet Potatoes,6,1,0
+2024-07-02 19:52:33.458182,19,F,31.9,Chocolate,Iron,,Eggs,4,1,0
+2024-10-14 19:52:33.458194,74,M,26.4,Ice,Calcium,Sodium,Sardines,1,1,0
+2024-03-30 19:52:33.458206,66,F,22.8,Sugary Foods,Potassium,Chromium,Spinach,6,1,0
+2024-09-28 19:52:33.458218,35,M,21.4,Sugary Foods,Vitamin B12,Calcium,Almonds,7,1,1
+2024-06-02 19:52:33.458230,24,M,31.4,Red Meat,Calcium,Vitamin B,Kale,6,0,0
+2024-07-31 19:52:33.458241,46,F,26.0,Citrus Fruits,Potassium,,Avocado,1,1,0
+2023-12-19 19:52:33.458253,39,M,34.8,Citrus Fruits,Iron,,Quinoa,10,1,1
+2024-11-23 19:52:33.458265,59,M,30.5,Chocolate,Iron,Chromium,Dark Chocolate,10,1,1
+2024-11-09 19:52:33.458277,58,F,22.0,Salty Foods,Vitamin B12,Sodium,Eggs,8,1,1
+2024-02-24 19:52:33.458287,30,F,31.0,Bread/Pasta,Vitamin B,,Spinach,7,1,1
+2024-07-21 19:52:33.458300,67,M,21.3,Bread/Pasta,Calcium,Vitamin B12,Almonds,10,1,1
+2023-12-22 19:52:33.458311,27,M,19.2,Bread/Pasta,Sodium,Potassium,Bananas,2,0,0
+2024-02-17 19:52:33.458323,64,M,26.7,Sugary Foods,Vitamin C,Magnesium,Bananas,6,0,0
+2023-11-28 19:52:33.458333,44,M,31.8,Sugary Foods,Vitamin B12,,Salmon,7,1,1
+2024-10-25 19:52:33.458344,72,F,32.5,Red Meat,Iron,,Dark Chocolate,7,1,1
+2024-01-13 19:52:33.458357,54,F,28.0,Sugary Foods,Calcium,Zinc,Almonds,6,1,0
+2024-09-09 19:52:33.458368,41,F,20.6,Sugary Foods,Zinc,Potassium,Brazil Nuts,5,0,0
+2024-04-17 19:52:33.458380,43,M,32.5,Bread/Pasta,Potassium,Vitamin B12,Eggs,2,1,0
+2024-10-15 19:52:33.458391,61,F,28.2,Red Meat,Calcium,,Sardines,4,1,0
+2024-01-15 19:52:33.458405,18,M,28.1,Bread/Pasta,Sodium,Zinc,Greek Yogurt,9,1,1
+2024-08-26 19:52:33.458415,39,M,23.4,Sugary Foods,Potassium,,Bananas,3,1,0
+2024-06-14 19:52:33.458427,29,M,21.3,Ice,Magnesium,Sodium,Quinoa,5,1,0
+2024-03-23 19:52:33.458437,49,M,22.3,Red Meat,Vitamin B12,,Salmon,4,1,0
+2024-01-02 19:52:33.458449,37,M,19.9,Salty Foods,Potassium,Magnesium,Dark Chocolate,8,0,0
+2024-03-20 19:52:33.458460,72,M,33.5,Chocolate,Chromium,,Lentils,10,1,1
+2024-01-22 19:52:33.458472,38,F,32.0,Fatty Foods,Iron,Vitamin C,Kale,2,0,0
+2024-04-06 19:52:33.458482,75,M,20.2,Citrus Fruits,Vitamin C,,Sweet Potatoes,5,0,0
+2023-12-25 19:52:33.458495,34,F,31.0,Ice,Vitamin C,Calcium,Sweet Potatoes,3,1,0
+2024-03-05 19:52:33.458506,40,F,32.9,Citrus Fruits,Chromium,Sodium,Salmon,3,1,0
+2024-01-10 19:52:33.458516,67,F,21.1,Chocolate,Vitamin B,,Spinach,2,1,0
+2024-07-20 19:52:33.458528,30,M,19.2,Chocolate,Calcium,Vitamin B12,Oranges,6,1,0
+2024-09-15 19:52:33.458541,49,F,31.2,Citrus Fruits,Vitamin B12,Vitamin C,Oranges,4,1,0
+2024-09-10 19:52:33.458551,34,M,21.6,Bread/Pasta,Calcium,,Greek Yogurt,1,1,0
+2024-06-30 19:52:33.458562,68,F,30.6,Chocolate,Zinc,,Brazil Nuts,8,1,1
+2024-11-03 19:52:33.458573,55,M,23.5,Ice,Vitamin B,Zinc,Brazil Nuts,7,1,1
+2024-03-17 19:52:33.458585,36,M,29.5,Chocolate,Calcium,Iron,Lentils,2,1,0
+2024-01-09 19:52:33.458599,53,F,30.6,Red Meat,Vitamin C,,Oranges,9,1,1
+2024-07-06 19:52:33.458609,26,M,23.5,Bread/Pasta,Calcium,,Greek Yogurt,5,1,0
+2024-09-28 19:52:33.458621,45,M,19.5,Sugary Foods,Calcium,Chromium,Oranges,7,1,1
+2024-07-31 19:52:33.458634,44,M,20.0,Red Meat,Zinc,Iron,Kale,9,1,1
+2024-01-24 19:52:33.458644,41,M,22.7,Red Meat,Chromium,,Spinach,3,1,0
+2024-07-22 19:52:33.458655,45,M,19.3,Ice,Calcium,,Kale,1,1,0
+2024-07-06 19:52:33.458665,57,M,32.1,Chocolate,Potassium,,Avocado,6,0,0
+2024-08-04 19:52:33.458675,25,F,24.9,Sugary Foods,Sodium,,Dark Chocolate,7,1,1
+2024-09-30 19:52:33.458688,57,F,28.8,Chocolate,Potassium,Sodium,Greek Yogurt,7,1,1
+2024-11-07 19:52:33.458700,40,F,22.0,Red Meat,Magnesium,Vitamin B12,Eggs,9,0,0
+2024-09-20 19:52:33.458711,44,M,25.4,Chocolate,Vitamin C,Vitamin B12,Eggs,6,1,0
+2023-12-04 19:52:33.458722,42,F,29.0,Chocolate,Zinc,Vitamin B12,Eggs,5,0,0
+2024-03-08 19:52:33.458734,19,F,20.5,Salty Foods,Iron,Zinc,Eggs,8,1,1
+2024-03-18 19:52:33.458746,29,M,34.3,Chocolate,Iron,Sodium,Lentils,10,1,1
+2024-01-31 19:52:33.458756,22,M,25.2,Red Meat,Zinc,,Brazil Nuts,7,1,1
+2023-12-16 19:52:33.458769,63,F,19.2,Bread/Pasta,Vitamin B,Magnesium,Brazil Nuts,3,1,0
+2024-05-06 19:52:33.458781,44,M,31.1,Ice,Potassium,Calcium,Bananas,1,1,0
+2024-08-28 19:52:33.458793,55,F,24.7,Citrus Fruits,Potassium,Sodium,Avocado,8,1,1
+2024-10-21 19:52:33.458805,54,M,21.7,Chocolate,Iron,Zinc,Quinoa,8,1,1
+2023-11-28 19:52:33.458816,35,M,32.4,Bread/Pasta,Magnesium,Vitamin C,Quinoa,7,1,1
+2024-03-21 19:52:33.458828,20,F,29.9,Sugary Foods,Magnesium,Sodium,Brazil Nuts,6,1,0
+2023-12-23 19:52:33.458839,66,M,30.0,Ice,Potassium,,Oranges,4,1,0
+2024-11-21 19:52:33.458849,29,F,24.7,Sugary Foods,Magnesium,,Sweet Potatoes,4,1,0
+2024-10-04 19:52:33.458861,72,F,33.9,Salty Foods,Vitamin B,Chromium,Spinach,7,0,0
+2024-08-02 19:52:33.458871,58,M,20.2,Bread/Pasta,Vitamin B12,,Eggs,6,1,0
+2024-08-28 19:52:33.458882,74,M,34.6,Fatty Foods,Chromium,Vitamin B12,Salmon,3,1,0
+2024-05-30 19:52:33.458894,52,M,32.0,Fatty Foods,Magnesium,Iron,Lentils,9,1,1
+2024-11-15 19:52:33.458905,34,F,19.6,Fatty Foods,Calcium,Sodium,Almonds,3,1,0
+2024-01-06 19:52:33.458918,69,F,29.5,Fatty Foods,Calcium,Magnesium,Greek Yogurt,5,1,0
+2024-06-05 19:52:33.458929,71,M,31.5,Red Meat,Potassium,,Sweet Potatoes,4,0,0
+2024-09-30 19:52:33.458939,44,M,20.0,Citrus Fruits,Vitamin B,,Spinach,1,1,0
+2023-12-31 19:52:33.458951,53,M,30.6,Chocolate,Vitamin B,Chromium,Spinach,3,1,0
+2024-09-08 19:52:33.458963,66,M,20.2,Bread/Pasta,Calcium,Potassium,Avocado,10,0,0
+2024-06-20 19:52:33.458974,54,M,19.0,Bread/Pasta,Magnesium,Vitamin B12,Bananas,9,1,1
+2024-09-11 19:52:33.458986,49,F,23.0,Fatty Foods,Vitamin C,Zinc,Sweet Potatoes,3,1,0
+2023-12-07 19:52:33.458996,73,F,22.3,Salty Foods,Calcium,,Kale,5,0,0
+2024-05-28 19:52:33.459007,41,M,21.5,Fatty Foods,Calcium,Vitamin C,Sweet Potatoes,4,1,0
+2024-09-07 19:52:33.459018,63,F,26.8,Salty Foods,Potassium,,Avocado,1,1,0
+2024-11-01 19:52:33.459028,47,F,24.6,Fatty Foods,Zinc,,Brazil Nuts,1,1,0
+2024-05-29 19:52:33.459038,49,M,29.5,Chocolate,Calcium,,Almonds,10,1,1
+2024-01-15 19:52:33.459050,27,F,31.2,Bread/Pasta,Vitamin C,Chromium,Sweet Potatoes,9,1,1
+2024-10-09 19:52:33.459061,26,F,30.5,Fatty Foods,Magnesium,Zinc,Sweet Potatoes,1,1,0
+2024-05-05 19:52:33.459074,29,M,21.1,Chocolate,Potassium,Iron,Lentils,9,1,1
+2024-04-11 19:52:33.459084,57,F,32.3,Bread/Pasta,Vitamin C,,Sweet Potatoes,10,1,1
+2024-06-05 19:52:33.459096,26,M,20.2,Sugary Foods,Iron,Calcium,Sardines,2,1,0
+2024-09-07 19:52:33.459107,44,M,22.8,Ice,Iron,Vitamin B12,Quinoa,6,1,0
+2024-08-03 19:52:33.459120,38,M,34.4,Sugary Foods,Vitamin C,Potassium,Spinach,6,1,0
+2024-05-10 19:52:33.459130,45,M,29.5,Citrus Fruits,Chromium,,Bananas,3,1,0
+2024-06-01 19:52:33.459141,42,F,22.8,Salty Foods,Zinc,,Brazil Nuts,4,1,0
+2023-11-30 19:52:33.459152,20,M,22.5,Ice,Chromium,Sodium,Quinoa,8,1,1
+2024-08-18 19:52:33.459165,19,M,23.6,Sugary Foods,Zinc,Potassium,Avocado,1,1,0
+2024-08-28 19:52:33.459175,40,F,28.2,Fatty Foods,Zinc,,Brazil Nuts,7,1,1
+2024-10-31 19:52:33.459185,58,M,28.2,Citrus Fruits,Potassium,,Avocado,6,1,0
+2024-02-20 19:52:33.459195,61,F,21.6,Fatty Foods,Vitamin B12,,Eggs,10,1,1
+2024-01-21 19:52:33.459208,18,F,31.2,Citrus Fruits,Vitamin B12,Magnesium,Oranges,1,1,0
+2023-12-30 19:52:33.459220,50,M,30.2,Ice,Calcium,Vitamin B12,Greek Yogurt,3,1,0
+2024-04-16 19:52:33.459232,32,M,20.0,Chocolate,Vitamin B12,Chromium,Almonds,9,1,1
+2024-09-07 19:52:33.459244,32,M,33.3,Citrus Fruits,Iron,Sodium,Eggs,2,0,0
+2024-08-03 19:52:33.459257,57,M,19.7,Fatty Foods,Vitamin B12,Magnesium,Dark Chocolate,10,1,1
+2024-04-06 19:52:33.459269,33,F,22.9,Sugary Foods,Potassium,Sodium,Almonds,4,1,0
+2024-11-06 19:52:33.459281,57,F,24.9,Bread/Pasta,Chromium,Vitamin C,Kale,5,0,0
+2024-09-23 19:52:33.459293,37,F,28.3,Red Meat,Iron,Vitamin B,Quinoa,6,1,0
+2024-05-07 19:52:33.459305,20,M,32.0,Fatty Foods,Calcium,Vitamin C,Greek Yogurt,2,1,0
+2024-05-13 19:52:33.459316,56,M,33.7,Fatty Foods,Calcium,,Almonds,9,0,0
+2024-01-26 19:52:33.459326,50,F,31.4,Red Meat,Iron,,Lentils,9,1,1
+2024-03-17 19:52:33.459339,44,F,34.0,Bread/Pasta,Vitamin C,Iron,Kale,3,0,0
+2024-05-23 19:52:33.459350,21,F,34.7,Fatty Foods,Magnesium,Zinc,Dark Chocolate,10,1,1
+2024-07-05 19:52:33.459362,34,M,18.9,Citrus Fruits,Vitamin C,Chromium,Sweet Potatoes,1,1,0
+2024-07-13 19:52:33.459375,30,F,22.1,Citrus Fruits,Sodium,Calcium,Almonds,2,1,0
+2023-12-05 19:52:33.459386,64,M,31.5,Chocolate,Iron,Calcium,Sardines,3,1,0
+2024-02-22 19:52:33.459398,75,F,31.9,Citrus Fruits,Potassium,Vitamin C,Bananas,3,0,0
+2024-04-24 19:52:33.459408,47,M,32.5,Sugary Foods,Iron,,Lentils,8,1,1
+2023-12-12 19:52:33.459421,41,M,27.8,Sugary Foods,Vitamin B12,Potassium,Sweet Potatoes,2,1,0
+2024-04-30 19:52:33.459433,66,F,28.5,Chocolate,Chromium,Potassium,Avocado,4,1,0
+2024-04-07 19:52:33.459443,68,F,21.3,Ice,Chromium,,Eggs,10,0,0
+2024-07-17 19:52:33.459456,69,M,33.2,Salty Foods,Calcium,Vitamin C,Quinoa,8,1,1
+2024-06-22 19:52:33.459467,37,M,30.4,Red Meat,Vitamin C,Iron,Kale,9,1,1
+2024-11-10 19:52:33.459478,35,M,22.9,Bread/Pasta,Iron,Vitamin B,Eggs,4,1,0
+2024-09-15 19:52:33.459489,60,M,23.7,Sugary Foods,Vitamin C,,Sweet Potatoes,8,1,1
+2024-09-24 19:52:33.459500,23,M,19.2,Chocolate,Sodium,Magnesium,Sweet Potatoes,2,1,0
+2024-07-29 19:52:33.459512,51,F,33.6,Red Meat,Vitamin C,Calcium,Oranges,3,1,0
+2024-03-08 19:52:33.459523,44,M,29.9,Ice,Calcium,,Almonds,5,1,0
+2024-03-13 19:52:33.459534,24,M,19.6,Citrus Fruits,Vitamin B12,Iron,Quinoa,3,1,0
+2024-05-12 19:52:33.459547,73,M,28.6,Fatty Foods,Calcium,Vitamin C,Bananas,10,1,1
+2024-01-27 19:52:33.459559,39,M,18.8,Citrus Fruits,Iron,Vitamin C,Sweet Potatoes,1,1,0
+2024-02-23 19:52:33.459572,63,M,33.0,Red Meat,Potassium,Zinc,Brazil Nuts,8,1,1
+2024-08-02 19:52:33.459582,24,M,23.3,Chocolate,Sodium,,Sardines,2,1,0
+2024-08-30 19:52:33.459593,50,M,29.3,Red Meat,Vitamin B12,,Salmon,1,1,0
+2024-04-01 19:52:33.459605,18,F,21.2,Bread/Pasta,Magnesium,Calcium,Greek Yogurt,10,1,1
+2024-09-22 19:52:33.459615,42,F,30.6,Chocolate,Potassium,,Sweet Potatoes,8,0,0
+2024-04-28 19:52:33.459626,20,F,31.6,Citrus Fruits,Iron,Magnesium,Sweet Potatoes,6,1,0
+2024-01-27 19:52:33.459926,49,F,19.9,Salty Foods,Zinc,Magnesium,Brazil Nuts,10,1,1
+2024-02-27 19:52:33.459940,75,F,25.7,Bread/Pasta,Magnesium,Sodium,Spinach,9,1,1
+2024-06-20 19:52:33.459952,31,M,22.9,Sugary Foods,Zinc,Magnesium,Brazil Nuts,3,1,0
+2024-01-31 19:52:33.459964,43,F,34.8,Fatty Foods,Vitamin B12,Calcium,Almonds,4,1,0
+2024-07-19 19:52:33.459975,75,F,19.2,Red Meat,Vitamin C,Vitamin B12,Sweet Potatoes,9,0,0
+2024-04-26 19:52:33.459987,48,M,19.4,Red Meat,Potassium,Iron,Spinach,8,1,1
+2024-08-30 19:52:33.459998,40,M,29.3,Citrus Fruits,Iron,,Quinoa,2,0,0
+2024-04-06 19:52:33.460010,38,M,27.9,Red Meat,Zinc,Magnesium,Bananas,4,1,0
+2024-01-05 19:52:33.460022,53,M,19.0,Sugary Foods,Vitamin B12,Zinc,Eggs,8,1,1
+2024-10-02 19:52:33.460032,62,M,18.9,Citrus Fruits,Magnesium,,Brazil Nuts,3,1,0
+2023-12-21 19:52:33.460045,19,M,26.6,Chocolate,Vitamin B,Vitamin C,Eggs,1,0,0
+2024-10-12 19:52:33.460056,24,M,32.0,Chocolate,Sodium,,Greek Yogurt,1,1,0
+2024-03-21 19:52:33.460068,52,M,33.0,Citrus Fruits,Vitamin C,Chromium,Oranges,2,1,0
+2024-06-20 19:52:33.460078,42,F,28.7,Fatty Foods,Zinc,,Brazil Nuts,4,1,0
+2024-03-24 19:52:33.460090,58,F,29.4,Red Meat,Vitamin B12,Zinc,Kale,4,1,0
+2024-04-05 19:52:33.460101,19,F,22.0,Citrus Fruits,Calcium,,Greek Yogurt,4,1,0
+2024-10-13 19:52:33.460111,62,M,28.7,Citrus Fruits,Sodium,,Sardines,5,1,0
+2024-11-03 19:52:33.460121,71,M,27.9,Ice,Calcium,,Greek Yogurt,1,1,0
+2024-05-22 19:52:33.460133,48,F,30.7,Fatty Foods,Iron,Vitamin B12,Dark Chocolate,7,1,1
+2024-02-19 19:52:33.460144,71,F,25.7,Salty Foods,Magnesium,Vitamin B,Almonds,6,0,0
+2024-02-06 19:52:33.460154,60,M,28.8,Red Meat,Chromium,,Sardines,10,1,1
+2024-04-06 19:52:33.460166,42,F,26.2,Citrus Fruits,Potassium,Vitamin B12,Eggs,6,1,0
+2023-12-27 19:52:33.460176,74,F,25.4,Ice,Iron,,Lentils,5,1,0
+2024-05-17 19:52:33.460189,20,F,34.4,Salty Foods,Iron,Chromium,Spinach,7,1,1
+2024-07-09 19:52:33.460202,50,F,23.0,Chocolate,Chromium,Magnesium,Quinoa,1,0,0
+2024-07-03 19:52:33.460212,57,M,30.3,Chocolate,Magnesium,,Spinach,7,0,0
+2023-12-14 19:52:33.460224,18,M,27.3,Sugary Foods,Vitamin C,Magnesium,Spinach,1,1,0
+2024-10-02 19:52:33.460235,73,M,34.1,Citrus Fruits,Sodium,,Almonds,8,0,0
+2024-02-20 19:52:33.460246,53,M,32.7,Salty Foods,Magnesium,,Brazil Nuts,1,1,0
+2024-05-12 19:52:33.460256,61,F,26.1,Salty Foods,Vitamin B12,,Salmon,8,1,1
+2024-08-29 19:52:33.460267,25,F,27.1,Ice,Iron,,Spinach,4,0,0
+2024-06-26 19:52:33.460278,43,F,21.2,Bread/Pasta,Vitamin B,Magnesium,Quinoa,10,1,1
+2023-11-30 19:52:33.460289,45,F,33.9,Red Meat,Iron,Vitamin B12,Salmon,6,1,0
+2024-10-18 19:52:33.460300,45,M,29.7,Red Meat,Chromium,Sodium,Sardines,6,1,0
+2024-08-21 19:52:33.460313,19,F,31.2,Salty Foods,Potassium,Vitamin C,Sweet Potatoes,5,0,0
+2024-04-15 19:52:33.460323,43,F,22.5,Red Meat,Zinc,,Brazil Nuts,3,1,0
+2024-10-12 19:52:33.460335,66,M,19.8,Sugary Foods,Sodium,Vitamin B,Spinach,4,1,0
+2024-03-31 19:52:33.460345,34,F,29.0,Citrus Fruits,Potassium,,Oranges,8,1,1
+2024-01-18 19:52:33.460358,64,M,25.4,Red Meat,Magnesium,Vitamin B12,Dark Chocolate,9,1,1
+2024-05-23 19:52:33.460368,39,M,23.9,Ice,Magnesium,,Almonds,6,1,0
+2024-03-01 19:52:33.460380,18,M,34.9,Fatty Foods,Vitamin B12,Vitamin B,Salmon,10,0,0
+2024-02-20 19:52:33.460391,23,F,20.7,Bread/Pasta,Sodium,Magnesium,Almonds,1,0,0
+2023-12-09 19:52:33.460403,50,M,19.9,Ice,Calcium,Vitamin B12,Eggs,4,1,0
+2024-03-29 19:52:33.460415,73,F,31.8,Fatty Foods,Calcium,Vitamin C,Sardines,3,1,0
+2024-11-23 19:52:33.460425,28,M,19.9,Fatty Foods,Chromium,,Greek Yogurt,2,1,0
+2024-08-15 19:52:33.460438,66,F,27.2,Ice,Zinc,Chromium,Sweet Potatoes,2,0,0
+2024-11-01 19:52:33.460449,74,F,23.7,Bread/Pasta,Zinc,Magnesium,Bananas,6,0,0
+2024-03-01 19:52:33.460459,42,F,26.3,Chocolate,Calcium,,Sardines,1,1,0
+2024-01-12 19:52:33.460471,22,F,19.9,Red Meat,Chromium,Vitamin B12,Eggs,10,1,1
+2024-08-26 19:52:33.460483,52,M,27.3,Sugary Foods,Vitamin B12,Magnesium,Sweet Potatoes,9,1,1
+2024-07-17 19:52:33.460494,30,M,25.5,Bread/Pasta,Sodium,Zinc,Brazil Nuts,9,1,1
+2023-11-30 19:52:33.460509,44,M,33.1,Fatty Foods,Potassium,Sodium,Avocado,8,1,1
+2024-01-28 19:52:33.460520,70,M,20.9,Ice,Calcium,,Kale,8,1,1
+2024-02-23 19:52:33.460530,27,F,31.1,Red Meat,Vitamin B,,Spinach,2,1,0
+2024-07-13 19:52:33.460542,34,F,31.6,Sugary Foods,Chromium,Sodium,Almonds,10,1,1
+2024-04-05 19:52:33.460552,29,F,25.7,Salty Foods,Vitamin B,,Spinach,7,0,0
+2023-12-12 19:52:33.460564,26,M,27.3,Chocolate,Vitamin B12,Zinc,Salmon,4,1,0
+2024-06-25 19:52:33.460574,35,F,18.7,Citrus Fruits,Zinc,,Brazil Nuts,7,1,1
+2024-06-06 19:52:33.460585,19,M,31.4,Fatty Foods,Vitamin C,Sodium,Oranges,9,1,1
+2024-04-02 19:52:33.460596,43,M,29.3,Sugary Foods,Potassium,Zinc,Brazil Nuts,2,1,0
+2024-06-13 19:52:33.460609,49,F,23.6,Sugary Foods,Iron,,Lentils,4,1,0
+2024-09-25 19:52:33.460620,40,M,19.3,Red Meat,Magnesium,Zinc,Quinoa,5,1,0
+2024-08-13 19:52:33.460632,35,M,24.1,Salty Foods,Calcium,Potassium,Kale,7,1,1
+2024-08-28 19:52:33.460642,29,F,28.5,Chocolate,Calcium,,Greek Yogurt,7,1,1
+2024-09-27 19:52:33.460653,33,F,19.2,Fatty Foods,Vitamin B,Vitamin B12,Spinach,9,1,1
+2024-11-25 19:52:33.460665,54,F,31.2,Salty Foods,Iron,Vitamin B12,Eggs,9,1,1
+2024-10-14 19:52:33.460676,23,F,22.7,Bread/Pasta,Vitamin B12,Sodium,Eggs,8,1,1
+2024-08-28 19:52:33.460686,38,F,27.3,Bread/Pasta,Chromium,Zinc,Brazil Nuts,9,1,1
+2023-12-05 19:52:33.460697,57,F,30.5,Citrus Fruits,Chromium,,Quinoa,2,1,0
+2024-01-25 19:52:33.460708,59,F,27.8,Ice,Magnesium,Vitamin B12,Sweet Potatoes,2,0,0
+2024-08-30 19:52:33.460719,33,F,22.2,Chocolate,Magnesium,Vitamin B12,Almonds,10,1,1
+2023-12-11 19:52:33.460730,36,F,22.1,Red Meat,Iron,,Kale,3,0,0
+2024-01-10 19:52:33.460740,67,F,28.7,Ice,Vitamin B12,,Salmon,9,1,1
+2024-02-11 19:52:33.460750,67,F,27.9,Ice,Zinc,,Brazil Nuts,8,1,1
+2024-05-11 19:52:33.460761,47,M,31.1,Red Meat,Calcium,Zinc,Kale,2,1,0
+2024-02-23 19:52:33.460772,30,F,21.0,Sugary Foods,Potassium,Vitamin B12,Sweet Potatoes,6,1,0
+2024-05-05 19:52:33.460783,42,F,34.6,Chocolate,Zinc,,Brazil Nuts,7,1,1
+2024-08-02 19:52:33.460795,58,F,30.4,Sugary Foods,Vitamin B12,Sodium,Salmon,9,1,1
+2024-06-08 19:52:33.460806,34,F,24.0,Bread/Pasta,Magnesium,,Dark Chocolate,8,1,1
+2024-08-25 19:52:33.460818,50,M,30.7,Citrus Fruits,Zinc,Sodium,Sweet Potatoes,7,1,1
+2024-09-26 19:52:33.460831,55,M,29.1,Fatty Foods,Sodium,Vitamin B,Spinach,3,1,0
+2024-09-26 19:52:33.460844,29,F,21.2,Chocolate,Zinc,Iron,Brazil Nuts,8,1,1
+2024-11-13 19:52:33.460855,28,M,34.5,Chocolate,Vitamin C,Calcium,Sardines,10,0,0
+2023-12-19 19:52:33.460866,64,F,26.5,Sugary Foods,Magnesium,,Quinoa,9,0,0
+2024-10-13 19:52:33.460877,33,F,18.8,Chocolate,Vitamin B12,Zinc,Brazil Nuts,1,1,0
+2024-01-18 19:52:33.460888,50,M,18.9,Red Meat,Iron,Vitamin C,Lentils,7,1,1
+2024-01-28 19:52:33.460900,36,M,30.5,Sugary Foods,Vitamin C,Magnesium,Dark Chocolate,10,0,0
+2024-01-03 19:52:33.460913,56,F,32.6,Citrus Fruits,Potassium,Vitamin C,Sardines,1,1,0
+2024-10-10 19:52:33.460928,46,M,19.8,Red Meat,Vitamin C,,Oranges,5,1,0
+2024-06-06 19:52:33.460940,32,M,34.3,Ice,Iron,Sodium,Eggs,7,1,1
+2024-02-03 19:52:33.460950,26,M,25.1,Fatty Foods,Vitamin B,,Spinach,5,1,0
+2024-06-01 19:52:33.460961,30,M,20.6,Fatty Foods,Vitamin C,,Sweet Potatoes,4,0,0
+2024-05-30 19:52:33.460972,33,F,25.5,Sugary Foods,Iron,Magnesium,Kale,10,1,1
+2024-03-06 19:52:33.460985,46,F,19.5,Sugary Foods,Vitamin B,Zinc,Spinach,5,1,0
+2024-03-29 19:52:33.460996,68,F,33.5,Sugary Foods,Vitamin B12,Iron,Lentils,3,1,0
+2024-05-02 19:52:33.461007,73,F,20.5,Salty Foods,Sodium,Vitamin B12,Eggs,10,1,1
+2024-02-29 19:52:33.461018,39,M,22.3,Fatty Foods,Calcium,Vitamin B,Spinach,3,1,0
+2024-07-03 19:52:33.461030,68,F,22.5,Chocolate,Vitamin B12,Vitamin B,Eggs,8,1,1
+2023-12-02 19:52:33.461042,19,F,31.6,Bread/Pasta,Vitamin B,Vitamin B12,Sweet Potatoes,4,1,0
+2024-01-20 19:52:33.461055,68,M,28.9,Sugary Foods,Vitamin B,Vitamin B12,Eggs,7,1,1
+2023-11-30 19:52:33.461067,44,M,22.3,Ice,Vitamin B,Iron,Spinach,3,1,0
+2024-09-03 19:52:33.461078,52,M,33.5,Sugary Foods,Vitamin B12,Calcium,Kale,3,1,0
+2024-05-25 19:52:33.461089,47,F,33.0,Red Meat,Magnesium,Vitamin C,Oranges,5,1,0
+2024-08-16 19:52:33.461101,34,F,19.7,Sugary Foods,Vitamin B,Chromium,Spinach,8,1,1
+2024-11-13 19:52:33.461112,74,M,33.5,Ice,Magnesium,Calcium,Sweet Potatoes,3,1,0
+2024-04-08 19:52:33.461123,19,M,29.4,Salty Foods,Vitamin B,Chromium,Spinach,6,1,0
+2024-04-26 19:52:33.461134,73,F,31.4,Ice,Calcium,,Almonds,6,1,0
+2024-01-03 19:52:33.461144,48,F,34.8,Sugary Foods,Iron,,Eggs,2,1,0
+2024-07-25 19:52:33.461156,43,M,28.0,Salty Foods,Vitamin B,,Spinach,3,1,0
+2024-09-11 19:52:33.461166,30,M,24.2,Fatty Foods,Iron,,Dark Chocolate,5,1,0
+2024-11-15 19:52:33.461178,41,F,29.6,Fatty Foods,Calcium,Iron,Eggs,6,1,0
+2024-06-15 19:52:33.461190,62,M,31.7,Ice,Calcium,Potassium,Sweet Potatoes,10,0,0
+2024-11-20 19:52:33.461200,59,M,20.0,Citrus Fruits,Magnesium,,Almonds,10,0,0
+2024-02-07 19:52:33.461212,63,F,20.8,Bread/Pasta,Zinc,Iron,Almonds,3,1,0
+2024-04-25 19:52:33.461223,68,M,22.2,Ice,Zinc,Vitamin B12,Brazil Nuts,3,1,0
+2024-08-04 19:52:33.461235,66,M,22.4,Fatty Foods,Vitamin C,Magnesium,Oranges,2,1,0
+2024-03-24 19:52:33.461247,74,M,31.2,Citrus Fruits,Vitamin C,Magnesium,Quinoa,6,1,0
+2024-03-24 19:52:33.461257,74,M,34.7,Bread/Pasta,Vitamin C,,Oranges,1,1,0
+2023-12-14 19:52:33.461268,59,M,33.5,Red Meat,Vitamin C,,Sweet Potatoes,9,1,1
+2024-09-25 19:52:33.461278,43,F,30.7,Chocolate,Vitamin C,,Oranges,2,0,0
+2024-06-30 19:52:33.461289,52,F,28.2,Fatty Foods,Sodium,Chromium,Eggs,3,1,0
+2024-11-25 19:52:33.461300,24,F,19.3,Fatty Foods,Potassium,Chromium,Oranges,8,1,1
+2024-09-06 19:52:33.461311,20,F,31.6,Sugary Foods,Zinc,Iron,Quinoa,7,1,1
+2024-05-28 19:52:33.461324,52,F,21.0,Bread/Pasta,Calcium,Vitamin B12,Eggs,10,1,1
+2024-05-30 19:52:33.461336,75,F,24.9,Citrus Fruits,Vitamin B12,Sodium,Dark Chocolate,6,1,0
+2024-04-28 19:52:33.461347,64,M,27.4,Chocolate,Potassium,,Avocado,1,1,0
+2024-08-22 19:52:33.461359,67,M,33.6,Bread/Pasta,Calcium,Vitamin C,Almonds,4,1,0
+2023-12-24 19:52:33.461373,58,M,32.5,Chocolate,Vitamin C,Sodium,Sweet Potatoes,1,1,0
+2024-07-03 19:52:33.461384,39,F,31.5,Red Meat,Chromium,Vitamin B12,Eggs,8,1,1
+2024-05-27 19:52:33.461395,46,M,29.4,Ice,Iron,Zinc,Kale,3,1,0
+2024-09-12 19:52:33.461405,52,F,30.5,Red Meat,Vitamin B12,,Salmon,10,1,1
+2024-11-26 19:52:33.461416,29,F,20.1,Ice,Vitamin B,,Spinach,4,1,0
+2024-03-30 19:52:33.461427,59,M,21.2,Bread/Pasta,Zinc,Sodium,Brazil Nuts,6,1,0
+2024-08-31 19:52:33.461438,50,M,25.5,Salty Foods,Calcium,Potassium,Avocado,4,1,0
+2024-01-30 19:52:33.461451,46,M,21.2,Fatty Foods,Potassium,Vitamin B,Spinach,7,0,0
+2024-08-26 19:52:33.461462,75,M,26.8,Ice,Potassium,,Oranges,1,1,0
+2024-11-22 19:52:33.461473,24,F,24.5,Ice,Chromium,,Oranges,4,1,0
+2024-07-27 19:52:33.461484,19,F,31.2,Red Meat,Iron,,Kale,10,1,1
+2024-11-23 19:52:33.461496,40,M,27.5,Chocolate,Zinc,Vitamin C,Sweet Potatoes,10,0,0
+2024-03-02 19:52:33.461507,43,M,21.8,Bread/Pasta,Zinc,Iron,Dark Chocolate,8,0,0
+2024-01-30 19:52:33.461519,59,F,31.6,Citrus Fruits,Zinc,Iron,Dark Chocolate,7,0,0
+2024-02-07 19:52:33.461531,72,M,29.4,Chocolate,Vitamin C,Iron,Lentils,5,1,0
+2024-04-07 19:52:33.461542,71,F,27.1,Sugary Foods,Vitamin B12,Zinc,Salmon,8,1,1
+2024-03-18 19:52:33.461554,23,F,23.1,Sugary Foods,Calcium,Iron,Dark Chocolate,3,1,0
+2024-04-11 19:52:33.461567,36,M,21.7,Chocolate,Calcium,Iron,Sweet Potatoes,10,1,1
+2024-05-30 19:52:33.461579,74,M,30.3,Ice,Vitamin B12,Potassium,Oranges,10,1,1
+2024-10-31 19:52:33.461591,39,M,33.8,Ice,Iron,Vitamin B12,Salmon,3,1,0
+2024-02-11 19:52:33.461601,21,M,27.2,Salty Foods,Vitamin B,,Spinach,7,1,1
+2023-12-01 19:52:33.461613,60,F,30.7,Salty Foods,Zinc,Magnesium,Bananas,4,1,0
+2024-05-07 19:52:33.461625,28,F,25.4,Citrus Fruits,Vitamin B12,Vitamin C,Spinach,7,1,1
+2024-04-15 19:52:33.461636,40,M,21.7,Sugary Foods,Potassium,Magnesium,Bananas,7,1,1
+2024-10-26 19:52:33.461646,57,F,21.3,Chocolate,Chromium,,Salmon,4,1,0
+2023-12-13 19:52:33.461659,68,F,22.2,Fatty Foods,Calcium,Sodium,Quinoa,9,1,1
+2024-02-28 19:52:33.461671,27,F,28.5,Fatty Foods,Sodium,Vitamin B12,Eggs,3,1,0
+2024-11-25 19:52:33.461684,34,M,29.8,Red Meat,Sodium,Vitamin C,Oranges,1,1,0
+2024-03-30 19:52:33.461695,52,F,28.8,Sugary Foods,Potassium,Chromium,Bananas,6,1,0
+2024-10-14 19:52:33.461706,22,M,19.5,Chocolate,Vitamin B,,Spinach,3,1,0
+2024-02-24 19:52:33.461717,35,M,25.3,Salty Foods,Vitamin C,Chromium,Sweet Potatoes,6,1,0
+2024-06-26 19:52:33.461729,75,F,22.1,Ice,Vitamin C,Sodium,Greek Yogurt,6,1,0
+2024-07-11 19:52:33.461739,52,F,30.4,Citrus Fruits,Chromium,,Oranges,3,1,0
+2024-02-23 19:52:33.461749,63,M,34.9,Citrus Fruits,Vitamin B,,Spinach,3,0,0
+2024-05-12 19:52:33.461761,57,F,26.1,Sugary Foods,Iron,Zinc,Almonds,6,1,0
+2024-07-19 19:52:33.461771,41,M,29.9,Sugary Foods,Vitamin C,,Sweet Potatoes,10,0,0
+2024-02-09 19:52:33.461783,36,F,20.7,Red Meat,Vitamin B12,Potassium,Sweet Potatoes,2,1,0
+2024-10-07 19:52:33.461794,26,M,31.6,Red Meat,Magnesium,,Almonds,6,1,0
+2024-04-17 19:52:33.461806,69,F,23.4,Fatty Foods,Calcium,Chromium,Kale,9,1,1
+2024-05-18 19:52:33.461818,34,M,28.3,Citrus Fruits,Vitamin C,Vitamin B,Sweet Potatoes,6,1,0
+2024-02-04 19:52:33.461830,56,M,28.6,Salty Foods,Vitamin B12,Chromium,Dark Chocolate,2,1,0
+2024-02-24 19:52:33.461841,53,M,32.9,Chocolate,Potassium,Sodium,Oranges,10,1,1
+2024-01-15 19:52:33.461852,41,F,19.4,Chocolate,Iron,,Eggs,10,1,1
+2024-09-16 19:52:33.461864,55,F,32.8,Red Meat,Zinc,Sodium,Brazil Nuts,10,0,0
+2024-05-28 19:52:33.461875,65,M,33.8,Bread/Pasta,Magnesium,Iron,Lentils,5,1,0
+2024-07-26 19:52:33.461886,31,M,21.4,Red Meat,Calcium,Chromium,Almonds,7,0,0
+2024-03-01 19:52:33.461898,52,F,28.7,Ice,Vitamin B12,Potassium,Lentils,4,1,0
+2024-07-03 19:52:33.461910,34,M,25.3,Sugary Foods,Vitamin B,Potassium,Avocado,2,1,0
+2024-07-05 19:52:33.461922,29,F,24.7,Ice,Iron,Chromium,Quinoa,5,1,0
+2024-02-25 19:52:33.461933,27,M,33.8,Chocolate,Zinc,Vitamin B12,Salmon,1,1,0
+2024-10-12 19:52:33.461946,58,M,31.5,Sugary Foods,Potassium,Zinc,Bananas,9,1,1
+2024-08-25 19:52:33.461958,45,M,21.9,Bread/Pasta,Vitamin C,Chromium,Almonds,5,1,0
+2024-08-03 19:52:33.461969,51,M,19.9,Ice,Magnesium,,Quinoa,2,1,0
+2024-09-18 19:52:33.461981,30,M,30.9,Sugary Foods,Iron,Vitamin C,Quinoa,3,1,0
+2024-03-05 19:52:33.461991,71,M,21.8,Chocolate,Zinc,,Brazil Nuts,3,0,0
+2024-04-04 19:52:33.462002,54,M,19.7,Sugary Foods,Calcium,,Kale,8,0,0
+2024-10-18 19:52:33.462012,34,F,31.4,Citrus Fruits,Vitamin B12,,Eggs,10,0,0
+2023-12-30 19:52:33.462024,23,M,29.6,Sugary Foods,Calcium,Chromium,Greek Yogurt,2,1,0
+2024-10-07 19:52:33.462035,43,F,34.0,Bread/Pasta,Chromium,Vitamin B,Spinach,7,1,1
+2024-04-17 19:52:33.462047,66,F,27.4,Citrus Fruits,Vitamin B12,Iron,Dark Chocolate,6,1,0
+2024-09-13 19:52:33.462059,31,F,30.2,Ice,Potassium,Calcium,Bananas,5,1,0
+2023-11-28 19:52:33.462070,67,M,19.8,Fatty Foods,Vitamin B,,Spinach,3,0,0
+2024-02-08 19:52:33.462081,48,M,28.5,Citrus Fruits,Vitamin B12,Vitamin C,Sweet Potatoes,4,1,0
+2023-11-28 19:52:33.462091,24,F,26.8,Chocolate,Vitamin B,,Spinach,5,1,0
+2024-03-14 19:52:33.462102,75,F,28.5,Red Meat,Zinc,,Brazil Nuts,9,1,1
+2024-07-08 19:52:33.462114,26,F,30.9,Ice,Vitamin B12,Calcium,Sweet Potatoes,1,1,0
+2024-06-06 19:52:33.462126,56,M,19.3,Salty Foods,Iron,,Spinach,3,1,0
+2023-12-18 19:52:33.462136,45,M,25.3,Bread/Pasta,Iron,,Eggs,10,1,1
+2023-12-16 19:52:33.462147,51,F,32.5,Citrus Fruits,Zinc,Vitamin C,Sweet Potatoes,4,1,0
+2024-03-11 19:52:33.462158,38,M,23.9,Red Meat,Iron,,Dark Chocolate,6,1,0
+2024-05-02 19:52:33.462168,25,F,27.3,Bread/Pasta,Iron,,Spinach,6,1,0
+2024-02-26 19:52:33.462178,32,M,29.1,Citrus Fruits,Chromium,,Greek Yogurt,4,1,0
+2024-06-02 19:52:33.462190,54,F,24.6,Sugary Foods,Vitamin B,Sodium,Brazil Nuts,6,0,0
+2024-05-22 19:52:33.462201,39,F,30.4,Salty Foods,Iron,,Lentils,1,1,0
+2024-02-15 19:52:33.462212,75,F,33.4,Citrus Fruits,Calcium,Iron,Greek Yogurt,9,0,0
+2024-05-21 19:52:33.462223,64,M,29.4,Sugary Foods,Zinc,Vitamin B,Spinach,9,0,0
+2024-01-04 19:52:33.462233,55,F,24.8,Fatty Foods,Vitamin B12,,Eggs,10,1,1
+2024-03-27 19:52:33.462246,47,M,34.4,Red Meat,Vitamin C,Vitamin B,Oranges,1,1,0
+2024-01-21 19:52:33.462257,30,M,34.0,Ice,Zinc,,Brazil Nuts,5,0,0
+2024-04-27 19:52:33.462269,49,M,33.0,Fatty Foods,Potassium,Magnesium,Sweet Potatoes,2,1,0
+2024-06-11 19:52:33.462281,29,F,22.1,Red Meat,Vitamin C,Sodium,Sweet Potatoes,1,0,0
+2024-02-06 19:52:33.462293,54,F,34.3,Ice,Vitamin B,Vitamin C,Sweet Potatoes,4,0,0
+2024-07-18 19:52:33.462304,22,M,24.6,Sugary Foods,Magnesium,Potassium,Sweet Potatoes,7,1,1
+2024-10-30 19:52:33.462316,72,F,34.0,Ice,Iron,Sodium,Dark Chocolate,2,0,0
+2024-07-29 19:52:33.462329,32,M,33.7,Chocolate,Vitamin B12,Calcium,Greek Yogurt,7,0,0
+2024-10-28 19:52:33.462338,68,F,22.1,Sugary Foods,Chromium,,Kale,5,1,0
+2024-01-31 19:52:33.462349,38,M,31.2,Bread/Pasta,Calcium,,Almonds,1,1,0
+2023-12-20 19:52:33.462361,71,M,23.5,Red Meat,Vitamin B12,Sodium,Eggs,8,1,1
+2024-03-22 19:52:33.462371,21,F,26.7,Salty Foods,Sodium,,Eggs,2,1,0
+2024-06-11 19:52:33.462382,48,M,29.8,Fatty Foods,Zinc,Sodium,Brazil Nuts,1,0,0
+2024-10-05 19:52:33.462394,58,M,22.7,Citrus Fruits,Vitamin B12,Zinc,Eggs,9,0,0
+2024-05-08 19:52:33.462406,28,F,29.5,Red Meat,Iron,Potassium,Bananas,5,1,0
+2024-11-01 19:52:33.462418,74,M,19.7,Red Meat,Zinc,Potassium,Brazil Nuts,4,0,0
+2024-09-19 19:52:33.462431,45,F,28.5,Salty Foods,Vitamin C,Sodium,Sweet Potatoes,9,1,1
+2024-02-13 19:52:33.462442,51,F,20.8,Fatty Foods,Chromium,Vitamin C,Sweet Potatoes,6,1,0
+2024-06-23 19:52:33.462456,59,F,29.7,Ice,Chromium,,Sardines,5,1,0
+2024-05-21 19:52:33.462468,56,M,30.6,Chocolate,Iron,Chromium,Greek Yogurt,8,1,1
+2024-11-07 19:52:33.462478,21,M,31.5,Citrus Fruits,Iron,,Lentils,8,0,0
+2024-08-20 19:52:33.462490,23,F,26.7,Salty Foods,Vitamin B12,Sodium,Greek Yogurt,1,1,0
+2023-12-07 19:52:33.462503,27,M,26.6,Salty Foods,Vitamin B12,Chromium,Brazil Nuts,5,0,0
+2024-01-17 19:52:33.462515,42,M,21.2,Fatty Foods,Iron,Vitamin B,Quinoa,2,1,0
+2024-11-06 19:52:33.462527,35,M,29.1,Sugary Foods,Iron,Zinc,Kale,6,0,0
+2024-03-14 19:52:33.462537,71,M,32.3,Citrus Fruits,Iron,,Lentils,6,0,0
+2023-12-01 19:52:33.462549,59,M,24.2,Salty Foods,Calcium,Vitamin B,Almonds,7,1,1
+2023-12-07 19:52:33.462560,29,F,28.0,Sugary Foods,Calcium,Chromium,Kale,4,1,0
+2023-12-06 19:52:33.462571,57,F,26.4,Fatty Foods,Vitamin B,Sodium,Spinach,1,1,0
+2024-07-02 19:52:33.462582,46,F,18.8,Ice,Chromium,Vitamin B12,Eggs,8,1,1
+2024-07-31 19:52:33.462594,30,M,25.1,Sugary Foods,Potassium,Chromium,Eggs,7,1,1
+2023-12-25 19:52:33.462606,20,M,33.0,Ice,Potassium,Iron,Dark Chocolate,6,0,0
+2023-12-08 19:52:33.462617,39,F,28.7,Fatty Foods,Vitamin B12,Potassium,Avocado,2,1,0
+2024-04-19 19:52:33.462629,56,M,20.2,Fatty Foods,Iron,Zinc,Lentils,10,1,1
+2024-08-28 19:52:33.462640,18,M,31.0,Citrus Fruits,Iron,Vitamin B,Dark Chocolate,4,1,0
+2024-01-17 19:52:33.462652,59,F,26.2,Citrus Fruits,Vitamin C,Calcium,Sardines,3,0,0
+2023-11-30 19:52:33.462662,64,M,31.6,Red Meat,Zinc,,Brazil Nuts,6,1,0
+2024-10-12 19:52:33.462673,72,F,19.2,Bread/Pasta,Vitamin B12,Zinc,Salmon,3,1,0
+2024-01-14 19:52:33.462685,56,F,32.9,Chocolate,Vitamin B,Sodium,Spinach,5,1,0
+2024-03-23 19:52:33.462696,33,F,31.2,Sugary Foods,Vitamin C,Potassium,Sweet Potatoes,9,0,0
+2023-12-07 19:52:33.462706,20,M,18.9,Sugary Foods,Calcium,,Almonds,2,1,0
+2024-11-12 19:52:33.462716,47,F,30.9,Fatty Foods,Potassium,,Oranges,3,1,0
+2024-04-04 19:52:33.462726,59,M,19.1,Sugary Foods,Vitamin B,,Spinach,8,1,1
+2024-05-29 19:52:33.462737,29,F,19.5,Ice,Iron,Sodium,Kale,1,1,0
+2024-08-16 19:52:33.462748,43,M,32.1,Ice,Magnesium,Vitamin C,Dark Chocolate,1,1,0
+2024-08-24 19:52:33.462760,52,F,23.5,Ice,Magnesium,Chromium,Brazil Nuts,5,1,0
+2024-07-01 19:52:33.462772,58,F,28.4,Salty Foods,Vitamin C,Potassium,Sweet Potatoes,3,1,0
+2024-08-16 19:52:33.462783,66,M,29.8,Bread/Pasta,Vitamin C,Zinc,Sweet Potatoes,9,1,1
+2024-05-11 19:52:33.462794,62,F,27.9,Salty Foods,Iron,,Dark Chocolate,7,0,0
+2024-07-02 19:52:33.462805,38,M,25.9,Sugary Foods,Calcium,Vitamin C,Sweet Potatoes,8,1,1
+2023-12-02 19:52:33.462817,44,F,24.6,Citrus Fruits,Iron,Vitamin B,Dark Chocolate,10,1,1
+2024-11-19 19:52:33.462829,75,F,32.2,Salty Foods,Iron,Zinc,Brazil Nuts,5,0,0
+2024-11-03 19:52:33.462840,74,M,28.4,Fatty Foods,Vitamin B12,Chromium,Eggs,3,1,0
+2024-10-10 19:52:33.462853,56,F,27.7,Salty Foods,Sodium,Zinc,Spinach,10,1,1
+2024-04-02 19:52:33.462863,50,M,23.8,Ice,Vitamin B,,Spinach,1,1,0
+2024-08-07 19:52:33.462875,46,F,22.2,Red Meat,Chromium,Calcium,Sardines,4,0,0
+2024-07-23 19:52:33.462887,40,F,29.0,Citrus Fruits,Vitamin C,Vitamin B12,Eggs,10,1,1
+2024-05-31 19:52:33.462898,26,M,28.5,Fatty Foods,Magnesium,Zinc,Dark Chocolate,5,0,0
+2024-03-07 19:52:33.462909,57,M,21.8,Red Meat,Vitamin B12,Vitamin C,Eggs,9,1,1
+2024-01-16 19:52:33.462919,24,F,33.1,Bread/Pasta,Potassium,,Bananas,1,1,0
+2024-06-01 19:52:33.462932,44,M,33.9,Fatty Foods,Iron,Calcium,Dark Chocolate,6,1,0
+2024-02-24 19:52:33.462942,28,F,33.1,Citrus Fruits,Vitamin B,,Spinach,10,0,0
+2023-12-04 19:52:33.462954,32,F,24.7,Salty Foods,Zinc,Calcium,Greek Yogurt,9,0,0
+2024-03-22 19:52:33.462966,59,M,24.4,Bread/Pasta,Vitamin C,Vitamin B,Sweet Potatoes,8,1,1
+2024-08-18 19:52:33.462976,68,F,25.3,Bread/Pasta,Sodium,,Salmon,6,1,0
+2024-11-19 19:52:33.462989,25,M,20.0,Sugary Foods,Potassium,Iron,Kale,3,0,0
+2024-05-29 19:52:33.463001,45,M,34.7,Chocolate,Vitamin B,Vitamin B12,Eggs,6,0,0
+2024-09-21 19:52:33.463012,25,F,28.6,Sugary Foods,Magnesium,Potassium,Brazil Nuts,1,0,0
+2024-01-01 19:52:33.463023,60,M,25.6,Sugary Foods,Vitamin C,Vitamin B12,Sweet Potatoes,6,1,0
+2024-10-10 19:52:33.463034,18,F,33.1,Sugary Foods,Vitamin C,,Sweet Potatoes,9,1,1
+2024-10-26 19:52:33.463046,72,F,23.7,Red Meat,Zinc,Iron,Quinoa,3,1,0
+2024-09-27 19:52:33.463056,43,F,29.9,Ice,Vitamin B,,Spinach,8,1,1
+2024-06-22 19:52:33.463067,18,F,32.6,Citrus Fruits,Iron,,Dark Chocolate,1,1,0
+2024-11-18 19:52:33.463079,73,F,24.8,Red Meat,Vitamin B12,Potassium,Salmon,4,1,0
+2024-10-05 19:52:33.463091,35,F,27.5,Sugary Foods,Magnesium,Vitamin B,Brazil Nuts,9,0,0
+2024-10-25 19:52:33.463103,72,M,33.8,Sugary Foods,Magnesium,,Dark Chocolate,9,1,1
+2023-12-05 19:52:33.463114,41,F,29.0,Sugary Foods,Magnesium,Calcium,Almonds,7,0,0
+2024-10-30 19:52:33.463124,29,M,20.5,Fatty Foods,Sodium,,Sardines,6,1,0
+2024-06-22 19:52:33.463135,59,F,22.7,Sugary Foods,Iron,,Quinoa,5,0,0
+2024-05-08 19:52:33.463145,26,M,18.8,Red Meat,Chromium,,Brazil Nuts,8,0,0
+2024-09-16 19:52:33.463155,25,F,19.0,Salty Foods,Potassium,,Avocado,3,0,0
+2024-08-31 19:52:33.463165,47,M,29.9,Ice,Calcium,,Almonds,2,1,0
+2024-03-08 19:52:33.463177,46,F,34.9,Sugary Foods,Chromium,Vitamin B,Spinach,4,1,0
+2024-03-03 19:52:33.463188,53,F,22.2,Chocolate,Calcium,Sodium,Greek Yogurt,8,0,0
+2023-12-31 19:52:33.463198,63,F,31.4,Ice,Magnesium,,Sweet Potatoes,10,1,1
+2024-02-04 19:52:33.463211,49,F,20.3,Salty Foods,Iron,Vitamin C,Kale,6,1,0
+2024-09-21 19:52:33.463223,59,F,27.8,Chocolate,Zinc,Sodium,Bananas,3,0,0
+2024-11-20 19:52:33.463236,42,M,25.1,Fatty Foods,Sodium,Vitamin B,Spinach,3,1,0
+2024-06-12 19:52:33.463248,55,F,29.4,Citrus Fruits,Calcium,Vitamin C,Sweet Potatoes,10,1,1
+2023-12-14 19:52:33.463260,57,F,30.5,Ice,Iron,Magnesium,Sweet Potatoes,3,1,0
+2024-06-22 19:52:33.463271,60,F,23.4,Fatty Foods,Iron,Zinc,Dark Chocolate,7,1,1
+2024-01-03 19:52:33.463283,64,F,31.3,Fatty Foods,Magnesium,Chromium,Almonds,2,1,0
+2024-11-25 19:52:33.463294,57,F,34.3,Sugary Foods,Vitamin C,,Sweet Potatoes,8,1,1
+2024-09-16 19:52:33.463306,30,M,32.2,Sugary Foods,Chromium,Vitamin B12,Sweet Potatoes,4,0,0
+2023-12-30 19:52:33.463318,22,F,30.1,Ice,Zinc,Potassium,Avocado,5,0,0
+2024-06-04 19:52:33.463329,40,F,26.5,Citrus Fruits,Magnesium,Vitamin B12,Quinoa,7,1,1
+2024-10-09 19:52:33.463340,18,F,20.1,Ice,Magnesium,Vitamin B12,Quinoa,10,0,0
+2023-12-15 19:52:33.463350,31,F,33.3,Ice,Chromium,,Dark Chocolate,5,1,0
+2024-11-18 19:52:33.463362,35,M,30.6,Fatty Foods,Iron,Magnesium,Eggs,5,0,0
+2024-11-25 19:52:33.463373,65,F,25.1,Salty Foods,Magnesium,Vitamin B12,Sweet Potatoes,1,1,0
+2024-05-22 19:52:33.463385,54,F,31.0,Salty Foods,Vitamin B12,Vitamin B,Almonds,7,1,1
+2024-11-23 19:52:33.463396,57,F,24.8,Bread/Pasta,Iron,Sodium,Spinach,1,1,0
+2024-10-16 19:52:33.463408,59,F,34.8,Red Meat,Sodium,Magnesium,Quinoa,8,1,1
+2024-10-12 19:52:33.463427,61,F,25.0,Sugary Foods,Sodium,Zinc,Oranges,9,1,1
+2024-03-31 19:52:33.463438,66,M,20.7,Bread/Pasta,Calcium,,Almonds,4,1,0
+2024-04-13 19:52:33.463450,66,F,34.8,Ice,Vitamin B,Calcium,Avocado,2,1,0
+2024-11-01 19:52:33.463461,58,F,29.6,Salty Foods,Potassium,,Sweet Potatoes,6,1,0
+2024-07-11 19:52:33.463473,64,M,28.5,Fatty Foods,Iron,Calcium,Sweet Potatoes,4,0,0
+2024-05-05 19:52:33.463484,47,F,23.4,Citrus Fruits,Vitamin B,Vitamin B12,Eggs,3,1,0
+2024-03-17 19:52:33.463496,66,F,33.8,Citrus Fruits,Chromium,Magnesium,Quinoa,2,1,0
+2024-07-07 19:52:33.463509,54,F,34.9,Salty Foods,Vitamin B,,Spinach,6,1,0
+2024-06-27 19:52:33.463521,23,F,22.2,Red Meat,Vitamin B,Magnesium,Spinach,8,0,0
+2024-10-02 19:52:33.463532,43,M,21.5,Ice,Vitamin B,Sodium,Spinach,9,1,1
+2024-05-23 19:52:33.463542,26,F,26.4,Fatty Foods,Zinc,,Brazil Nuts,3,1,0
+2024-06-17 19:52:33.463553,42,F,27.2,Red Meat,Magnesium,,Almonds,7,1,1
+2024-06-26 19:52:33.463563,54,F,31.9,Chocolate,Vitamin B12,,Eggs,3,1,0
+2024-01-16 19:52:33.463575,31,M,21.9,Chocolate,Magnesium,Vitamin B12,Salmon,5,1,0
+2024-07-06 19:52:33.463586,26,F,31.3,Citrus Fruits,Vitamin C,,Oranges,2,1,0
+2024-11-04 19:52:33.463597,40,F,30.1,Salty Foods,Iron,,Dark Chocolate,5,1,0
+2024-11-06 19:52:33.463608,19,M,34.1,Fatty Foods,Calcium,Sodium,Greek Yogurt,8,1,1
+2024-09-27 19:52:33.463620,59,F,24.9,Salty Foods,Calcium,Vitamin B,Greek Yogurt,7,1,1
+2024-03-07 19:52:33.463632,56,F,28.1,Citrus Fruits,Vitamin C,Iron,Quinoa,7,0,0
+2024-10-13 19:52:33.463642,37,F,27.3,Chocolate,Chromium,,Avocado,3,1,0
+2023-12-01 19:52:33.463655,36,F,26.8,Bread/Pasta,Vitamin B,Zinc,Eggs,1,1,0
+2024-01-10 19:52:33.463666,71,F,30.1,Ice,Calcium,Magnesium,Quinoa,9,1,1
+2024-04-24 19:52:33.463678,40,F,29.6,Ice,Vitamin B12,Potassium,Salmon,6,1,0
+2024-10-12 19:52:33.463692,66,F,35.0,Bread/Pasta,Sodium,Vitamin B,Almonds,3,1,0
+2024-05-18 19:52:33.463703,52,M,27.7,Ice,Magnesium,Sodium,Brazil Nuts,6,1,0
+2023-12-27 19:52:33.463713,54,M,31.2,Ice,Vitamin C,,Sweet Potatoes,8,1,1
+2024-01-04 19:52:33.463724,39,F,30.0,Ice,Chromium,,Almonds,3,1,0
+2024-04-09 19:52:33.463736,71,F,27.2,Sugary Foods,Vitamin C,Chromium,Sweet Potatoes,8,1,1
+2024-10-29 19:52:33.463748,49,M,24.9,Bread/Pasta,Sodium,,Oranges,10,1,1
+2024-11-07 19:52:33.463758,59,M,22.7,Ice,Magnesium,,Quinoa,1,1,0
+2024-07-25 19:52:33.463769,54,M,18.9,Red Meat,Sodium,Iron,Eggs,10,1,1
+2024-02-07 19:52:33.463780,46,F,23.2,Red Meat,Magnesium,,Almonds,3,1,0
+2024-11-26 19:52:33.463791,60,M,28.3,Salty Foods,Calcium,Magnesium,Greek Yogurt,8,1,1
+2024-08-01 19:52:33.463801,35,M,31.8,Fatty Foods,Sodium,,Greek Yogurt,9,1,1
+2024-11-07 19:52:33.463814,28,M,28.6,Red Meat,Potassium,Vitamin B12,Salmon,1,1,0
+2024-03-26 19:52:33.463825,66,F,31.0,Sugary Foods,Magnesium,Calcium,Greek Yogurt,10,0,0
+2024-06-21 19:52:33.463835,75,M,27.7,Sugary Foods,Vitamin B12,,Eggs,1,1,0
+2024-11-05 19:52:33.463846,37,M,26.6,Citrus Fruits,Calcium,,Almonds,9,1,1
+2024-11-12 19:52:33.463868,36,F,27.1,Red Meat,Calcium,Magnesium,Brazil Nuts,6,1,0
+2024-03-19 19:52:33.463879,32,F,22.2,Chocolate,Magnesium,Vitamin B12,Quinoa,1,1,0
+2024-10-05 19:52:33.463890,67,F,19.4,Ice,Magnesium,,Dark Chocolate,3,1,0
+2024-11-15 19:52:33.463901,30,F,24.8,Citrus Fruits,Calcium,Chromium,Sardines,1,1,0
+2024-05-11 19:52:33.463912,74,M,27.8,Citrus Fruits,Calcium,Vitamin B,Spinach,4,0,0
+2024-11-03 19:52:33.463924,75,F,19.4,Fatty Foods,Magnesium,Vitamin B,Dark Chocolate,1,1,0
+2024-10-28 19:52:33.463934,42,M,31.2,Chocolate,Sodium,,Sardines,9,0,0
+2024-08-26 19:52:33.463947,23,M,29.6,Bread/Pasta,Vitamin B,Magnesium,Bananas,6,1,0
+2024-07-11 19:52:33.463958,21,F,22.1,Ice,Vitamin B12,Vitamin B,Eggs,10,0,0
+2024-07-17 19:52:33.463969,42,M,26.7,Red Meat,Calcium,Sodium,Almonds,4,1,0
+2024-06-11 19:52:33.463981,62,M,32.2,Red Meat,Chromium,Magnesium,Brazil Nuts,1,1,0
+2024-05-26 19:52:33.463991,26,F,23.2,Bread/Pasta,Iron,,Kale,5,1,0
+2024-05-11 19:52:33.464003,51,F,21.2,Citrus Fruits,Calcium,Vitamin C,Greek Yogurt,7,1,1
+2024-06-05 19:52:33.464013,63,F,30.7,Bread/Pasta,Zinc,,Brazil Nuts,8,0,0
+2024-09-05 19:52:33.464023,58,M,24.8,Sugary Foods,Calcium,,Greek Yogurt,1,0,0
+2024-11-19 19:52:33.464033,41,F,26.8,Ice,Calcium,,Greek Yogurt,3,1,0
+2024-06-13 19:52:33.464044,50,F,31.6,Chocolate,Sodium,Magnesium,Brazil Nuts,4,1,0
+2024-01-09 19:52:33.464056,48,F,19.1,Red Meat,Potassium,Magnesium,Spinach,8,1,1
+2024-10-18 19:52:33.464067,67,M,33.2,Salty Foods,Sodium,,Salmon,4,1,0
+2024-04-21 19:52:33.464079,73,F,29.8,Bread/Pasta,Vitamin B12,Chromium,Salmon,1,0,0
+2024-10-03 19:52:33.464090,60,M,22.9,Bread/Pasta,Vitamin C,,Sweet Potatoes,3,1,0
+2024-08-22 19:52:33.464101,45,M,32.1,Salty Foods,Chromium,Vitamin B12,Salmon,8,0,0
+2024-09-18 19:52:33.464114,31,F,26.4,Ice,Potassium,Sodium,Sweet Potatoes,10,0,0
+2023-12-11 19:52:33.464124,20,F,25.9,Bread/Pasta,Potassium,,Bananas,3,1,0
+2024-06-20 19:52:33.464135,35,F,18.7,Ice,Calcium,Zinc,Kale,1,1,0
+2024-01-29 19:52:33.464147,34,F,30.1,Fatty Foods,Calcium,Iron,Sweet Potatoes,5,0,0
+2024-01-06 19:52:33.464158,24,M,31.7,Citrus Fruits,Calcium,Vitamin B12,Eggs,6,0,0
+2024-05-24 19:52:33.464171,68,F,33.6,Bread/Pasta,Chromium,Potassium,Lentils,8,1,1
+2024-05-31 19:52:33.464182,47,M,25.8,Ice,Zinc,Vitamin B12,Salmon,6,0,0
+2024-11-23 19:52:33.464193,43,F,30.0,Ice,Vitamin B,Calcium,Kale,1,0,0
+2024-09-12 19:52:33.464204,47,M,27.9,Chocolate,Sodium,,Sardines,4,1,0
+2024-09-18 19:52:33.464215,46,F,33.3,Citrus Fruits,Calcium,Vitamin B12,Salmon,2,1,0
+2023-12-09 19:52:33.464226,65,F,25.4,Sugary Foods,Chromium,,Dark Chocolate,5,1,0
+2024-01-15 19:52:33.464238,39,F,28.5,Citrus Fruits,Vitamin B,Vitamin B12,Eggs,4,1,0
+2024-09-12 19:52:33.464250,22,M,27.9,Bread/Pasta,Vitamin B12,Potassium,Oranges,10,1,1
+2024-07-04 19:52:33.464262,42,F,24.0,Sugary Foods,Zinc,Chromium,Sweet Potatoes,3,1,0
+2024-03-22 19:52:33.464274,19,M,24.4,Chocolate,Sodium,Iron,Kale,10,0,0
+2024-02-17 19:52:33.464284,73,F,28.7,Red Meat,Vitamin B12,,Salmon,10,1,1
+2024-02-11 19:52:33.464294,39,F,31.2,Fatty Foods,Iron,,Eggs,6,1,0
+2024-09-20 19:52:33.464305,63,M,27.2,Fatty Foods,Potassium,,Oranges,9,1,1
+2024-09-12 19:52:33.464317,40,M,19.5,Red Meat,Zinc,Vitamin B12,Kale,1,1,0
+2023-12-17 19:52:33.464328,75,M,29.9,Ice,Vitamin B,,Spinach,5,0,0
+2024-08-08 19:52:33.464339,62,M,19.6,Chocolate,Chromium,Vitamin C,Oranges,10,0,0
+2024-04-27 19:52:33.464350,70,M,26.4,Sugary Foods,Iron,,Spinach,6,1,0
+2024-01-29 19:52:33.464360,54,F,29.0,Sugary Foods,Sodium,,Salmon,9,0,0
+2024-03-22 19:52:33.464371,23,F,33.7,Red Meat,Vitamin C,Sodium,Sweet Potatoes,3,1,0
+2024-04-21 19:52:33.464383,72,M,32.7,Salty Foods,Vitamin B12,Magnesium,Spinach,2,1,0
+2024-06-30 19:52:33.464396,21,F,19.7,Sugary Foods,Calcium,Vitamin C,Sardines,6,1,0
+2024-08-15 19:52:33.464408,50,F,24.1,Red Meat,Calcium,Magnesium,Sardines,2,1,0
+2024-08-24 19:52:33.464418,57,F,26.3,Ice,Vitamin B12,,Salmon,1,0,0
+2024-07-10 19:52:33.464429,27,M,30.2,Salty Foods,Vitamin B,,Spinach,4,0,0
+2024-02-17 19:52:33.464445,23,M,23.3,Red Meat,Potassium,Sodium,Bananas,9,1,1
+2024-02-23 19:52:33.464456,64,M,32.6,Sugary Foods,Iron,Sodium,Kale,9,1,1
+2024-04-23 19:52:33.464467,23,F,30.4,Salty Foods,Magnesium,Calcium,Quinoa,4,1,0
+2024-09-12 19:52:33.464479,23,M,29.3,Ice,Vitamin C,Iron,Kale,4,1,0
+2024-09-03 19:52:33.464490,32,F,30.2,Salty Foods,Vitamin B12,Vitamin B,Spinach,1,1,0
+2024-08-18 19:52:33.464502,54,M,32.5,Red Meat,Potassium,Chromium,Avocado,1,1,0
+2024-11-19 19:52:33.464513,27,M,22.4,Fatty Foods,Calcium,,Almonds,8,1,1
+2024-04-15 19:52:33.464523,23,F,24.9,Fatty Foods,Potassium,,Oranges,8,1,1
+2024-07-20 19:52:33.464534,54,M,20.0,Salty Foods,Magnesium,,Sweet Potatoes,2,1,0
+2024-02-24 19:52:33.464545,61,M,22.1,Sugary Foods,Magnesium,Calcium,Brazil Nuts,6,1,0
+2024-03-31 19:52:33.464556,57,M,28.2,Sugary Foods,Vitamin B,,Spinach,1,1,0
+2024-11-16 19:52:33.464567,48,M,29.3,Salty Foods,Magnesium,Vitamin B12,Brazil Nuts,10,1,1
+2023-12-12 19:52:33.464580,40,F,27.0,Fatty Foods,Chromium,Calcium,Almonds,9,0,0
+2024-02-01 19:52:33.464591,52,F,28.8,Citrus Fruits,Vitamin B,Calcium,Spinach,6,0,0
+2024-08-19 19:52:33.464603,33,M,18.9,Salty Foods,Zinc,Sodium,Eggs,4,1,0
+2024-04-19 19:52:33.464615,50,M,30.8,Red Meat,Magnesium,Chromium,Almonds,3,1,0
+2024-02-24 19:52:33.464625,46,F,23.0,Citrus Fruits,Potassium,,Bananas,2,1,0
+2024-08-27 19:52:33.464637,70,F,24.6,Bread/Pasta,Magnesium,Vitamin B,Quinoa,6,1,0
+2024-06-09 19:52:33.464649,29,F,28.7,Chocolate,Vitamin B,Iron,Sweet Potatoes,10,1,1
+2024-01-26 19:52:33.464659,21,F,20.7,Red Meat,Sodium,,Quinoa,6,1,0
+2023-12-14 19:52:33.464671,52,F,25.4,Salty Foods,Potassium,Calcium,Avocado,5,1,0
+2024-04-27 19:52:33.464684,18,F,32.4,Ice,Vitamin C,Vitamin B,Almonds,10,1,1
+2024-06-11 19:52:33.464696,44,F,34.2,Red Meat,Zinc,Iron,Spinach,1,0,0
+2024-03-10 19:52:33.464707,65,F,31.0,Bread/Pasta,Zinc,,Brazil Nuts,8,1,1
+2024-09-18 19:52:33.464720,42,M,18.9,Chocolate,Iron,Sodium,Kale,9,1,1
+2024-04-23 19:52:33.464732,25,M,29.4,Citrus Fruits,Vitamin C,Vitamin B12,Brazil Nuts,5,0,0
+2024-04-09 19:52:33.464742,32,F,27.6,Sugary Foods,Vitamin B,,Spinach,6,0,0
+2024-02-13 19:52:33.464754,52,M,21.8,Chocolate,Iron,Chromium,Greek Yogurt,8,1,1
+2024-04-01 19:52:33.464764,72,M,29.8,Salty Foods,Iron,,Spinach,1,1,0
+2024-07-24 19:52:33.464775,44,F,29.0,Citrus Fruits,Zinc,,Brazil Nuts,6,1,0
+2024-02-05 19:52:33.464786,70,M,20.3,Bread/Pasta,Calcium,Sodium,Sardines,1,1,0
+2024-09-28 19:52:33.464797,57,F,19.3,Red Meat,Zinc,,Brazil Nuts,10,1,1
+2024-01-15 19:52:33.464808,39,F,31.0,Citrus Fruits,Vitamin C,Chromium,Sweet Potatoes,7,0,0
+2024-11-01 19:52:33.464818,42,F,19.6,Bread/Pasta,Potassium,,Bananas,6,1,0
+2024-01-25 19:52:33.464830,26,M,34.0,Salty Foods,Magnesium,Vitamin C,Almonds,3,1,0
+2024-08-11 19:52:33.464843,71,F,26.4,Chocolate,Vitamin C,Iron,Dark Chocolate,3,1,0
+2024-08-13 19:52:33.464853,58,M,30.2,Citrus Fruits,Potassium,,Sweet Potatoes,1,1,0
+2024-04-14 19:52:33.464864,53,F,34.0,Salty Foods,Zinc,Vitamin C,Brazil Nuts,3,0,0
+2024-02-23 19:52:33.464876,56,F,19.3,Salty Foods,Vitamin C,Sodium,Lentils,3,1,0
+2024-03-20 19:52:33.464887,64,M,26.1,Salty Foods,Zinc,Potassium,Oranges,5,1,0
+2024-04-07 19:52:33.464899,40,F,32.0,Salty Foods,Zinc,Calcium,Sardines,6,1,0
+2024-07-17 19:52:33.464910,63,F,33.4,Bread/Pasta,Zinc,Chromium,Brazil Nuts,4,1,0
+2024-02-17 19:52:33.464920,21,F,32.8,Fatty Foods,Potassium,,Avocado,4,1,0
+2024-02-05 19:52:33.464931,69,M,34.3,Red Meat,Iron,Chromium,Spinach,7,1,1
+2024-07-29 19:52:33.464941,29,M,31.8,Sugary Foods,Vitamin B,,Spinach,2,1,0
+2024-11-20 19:52:33.464954,22,M,19.3,Ice,Sodium,Vitamin C,Avocado,9,1,1
+2024-01-23 19:52:33.464964,67,F,21.7,Fatty Foods,Zinc,,Brazil Nuts,10,1,1
+2024-10-17 19:52:33.464974,20,F,32.1,Fatty Foods,Vitamin B,,Spinach,9,1,1
+2024-06-29 19:52:33.464985,33,M,22.3,Ice,Zinc,Vitamin C,Sweet Potatoes,8,1,1
+2024-09-03 19:52:33.464997,22,M,26.1,Red Meat,Potassium,Vitamin B,Spinach,8,0,0
+2024-08-29 19:52:33.465009,27,F,32.1,Ice,Vitamin B,Potassium,Oranges,10,1,1
+2024-02-12 19:52:33.465020,64,M,26.6,Bread/Pasta,Iron,,Spinach,7,1,1
+2024-02-26 19:52:33.465031,29,M,21.0,Salty Foods,Vitamin B12,Magnesium,Brazil Nuts,3,1,0
+2024-04-11 19:52:33.465044,56,F,21.7,Chocolate,Chromium,Potassium,Oranges,7,1,1
+2024-04-26 19:52:33.465056,18,F,29.5,Citrus Fruits,Calcium,Vitamin B,Brazil Nuts,5,0,0
+2024-05-16 19:52:33.465067,70,F,31.3,Bread/Pasta,Magnesium,Vitamin B12,Quinoa,6,1,0
+2024-03-14 19:52:33.465078,73,F,31.3,Fatty Foods,Potassium,,Sweet Potatoes,3,0,0
+2024-04-22 19:52:33.465089,60,M,29.3,Chocolate,Potassium,,Oranges,10,1,1
+2024-02-18 19:52:33.465101,71,M,34.4,Citrus Fruits,Vitamin C,Magnesium,Bananas,4,1,0
+2024-09-28 19:52:33.465111,75,F,28.2,Fatty Foods,Vitamin B12,,Eggs,4,1,0
+2024-05-09 19:52:33.465121,50,F,27.1,Salty Foods,Chromium,,Dark Chocolate,10,1,1
+2024-01-22 19:52:33.465132,59,F,24.6,Chocolate,Zinc,Sodium,Brazil Nuts,8,1,1
+2024-11-13 19:52:33.465144,62,M,29.2,Citrus Fruits,Chromium,Calcium,Sardines,4,0,0
+2024-04-20 19:52:33.465156,30,F,25.7,Ice,Iron,Vitamin B,Eggs,5,1,0
+2024-06-01 19:52:33.465167,62,M,24.2,Ice,Vitamin B,Iron,Lentils,2,0,0
+2024-01-18 19:52:33.465178,72,M,28.5,Citrus Fruits,Vitamin B,Chromium,Spinach,5,0,0
+2024-07-10 19:52:33.465190,18,M,33.2,Citrus Fruits,Potassium,Calcium,Sweet Potatoes,5,0,0
+2024-03-20 19:52:33.465203,48,F,32.5,Salty Foods,Vitamin B,Magnesium,Spinach,3,0,0
+2024-08-17 19:52:33.465213,25,F,21.0,Bread/Pasta,Sodium,,Kale,9,0,0
+2024-09-14 19:52:33.465224,65,F,24.6,Fatty Foods,Magnesium,Vitamin B,Sweet Potatoes,6,1,0
+2024-11-22 19:52:33.465236,53,F,25.9,Sugary Foods,Vitamin C,Sodium,Oranges,8,1,1
+2024-07-25 19:52:33.465248,25,M,19.0,Bread/Pasta,Chromium,Iron,Dark Chocolate,1,0,0
+2023-12-02 19:52:33.465260,66,F,34.0,Sugary Foods,Vitamin B12,Zinc,Salmon,10,1,1
+2024-01-08 19:52:33.465271,28,M,31.6,Fatty Foods,Vitamin C,Vitamin B,Spinach,8,1,1
+2023-12-28 19:52:33.465282,57,M,22.2,Bread/Pasta,Vitamin B,,Spinach,2,1,0
+2024-06-09 19:52:33.465293,19,F,24.2,Citrus Fruits,Magnesium,Potassium,Quinoa,8,1,1
+2023-12-01 19:52:33.465303,46,F,34.8,Sugary Foods,Zinc,,Brazil Nuts,4,1,0
+2024-02-04 19:52:33.465313,38,M,31.9,Bread/Pasta,Vitamin B12,,Eggs,4,1,0
+2024-03-04 19:52:33.465324,33,M,24.2,Citrus Fruits,Vitamin B,Chromium,Spinach,3,1,0
+2024-11-06 19:52:33.465335,72,M,29.2,Fatty Foods,Magnesium,,Bananas,10,0,0
+2024-08-11 19:52:33.465346,52,F,23.7,Ice,Vitamin B,Chromium,Spinach,6,0,0
+2024-03-21 19:52:33.465360,36,F,20.4,Citrus Fruits,Vitamin B,Iron,Quinoa,9,1,1
+2024-02-19 19:52:33.465371,25,F,19.0,Chocolate,Vitamin C,Potassium,Bananas,3,0,0
+2024-08-06 19:52:33.465383,56,M,34.2,Sugary Foods,Vitamin C,Magnesium,Almonds,7,0,0
+2024-08-01 19:52:33.465396,21,M,21.4,Sugary Foods,Calcium,Potassium,Greek Yogurt,4,1,0
+2024-07-24 19:52:33.465408,23,M,33.0,Bread/Pasta,Sodium,Magnesium,Bananas,8,1,1
+2023-11-28 19:52:33.465418,61,F,33.5,Ice,Sodium,,Bananas,1,1,0
+2024-10-13 19:52:33.465428,28,M,19.3,Chocolate,Vitamin B,,Spinach,10,1,1
+2024-05-11 19:52:33.465439,27,M,26.4,Bread/Pasta,Potassium,,Bananas,8,1,1
+2024-08-11 19:52:33.465449,31,M,21.0,Fatty Foods,Zinc,,Brazil Nuts,6,1,0
+2024-06-20 19:52:33.465459,68,F,31.3,Ice,Vitamin B,,Spinach,9,0,0
+2024-06-16 19:52:33.465469,54,M,25.5,Chocolate,Sodium,,Spinach,9,1,1
+2024-06-21 19:52:33.465482,72,F,34.8,Citrus Fruits,Zinc,Vitamin C,Sweet Potatoes,7,0,0
+2024-03-12 19:52:33.465493,28,M,24.2,Chocolate,Chromium,Magnesium,Spinach,9,1,1
+2024-03-20 19:52:33.465503,28,F,29.2,Sugary Foods,Sodium,,Bananas,9,1,1
+2024-01-20 19:52:33.465516,48,F,31.3,Chocolate,Vitamin B,Chromium,Spinach,1,0,0
+2024-04-21 19:52:33.465526,45,F,30.4,Chocolate,Zinc,,Brazil Nuts,1,1,0
+2024-03-07 19:52:33.465538,31,M,33.2,Fatty Foods,Vitamin C,Potassium,Bananas,2,1,0
+2024-10-12 19:52:33.465549,21,F,30.2,Ice,Vitamin B,,Spinach,1,0,0
+2024-05-20 19:52:33.465561,46,M,29.0,Citrus Fruits,Sodium,Magnesium,Avocado,5,1,0
+2024-09-02 19:52:33.465571,25,F,24.3,Red Meat,Potassium,,Oranges,8,1,1
+2024-10-09 19:52:33.465584,33,M,18.6,Chocolate,Vitamin B,Calcium,Kale,4,1,0
+2024-05-16 19:52:33.465595,51,M,25.2,Bread/Pasta,Vitamin B,Calcium,Almonds,9,1,1
+2024-05-16 19:52:33.465606,63,M,31.3,Chocolate,Vitamin C,,Oranges,8,0,0
+2024-03-22 19:52:33.465618,63,M,33.8,Salty Foods,Vitamin B12,Vitamin B,Greek Yogurt,3,1,0
+2024-02-10 19:52:33.465628,30,F,21.4,Chocolate,Magnesium,,Brazil Nuts,5,1,0
+2024-05-21 19:52:33.465640,60,M,32.5,Salty Foods,Vitamin B,Zinc,Brazil Nuts,1,0,0
+2024-10-14 19:52:33.465653,40,M,32.5,Red Meat,Vitamin B,Iron,Eggs,9,1,1
+2024-06-18 19:52:33.465665,45,M,25.9,Citrus Fruits,Vitamin B,Vitamin B12,Eggs,5,0,0
+2024-10-19 19:52:33.465677,31,F,20.4,Bread/Pasta,Vitamin C,Iron,Dark Chocolate,9,1,1
+2024-06-19 19:52:33.465689,48,F,29.4,Salty Foods,Vitamin B,Vitamin B12,Salmon,5,0,0
+2024-06-23 19:52:33.465699,67,F,34.4,Citrus Fruits,Vitamin B12,,Eggs,8,1,1
+2023-12-03 19:52:33.465711,64,F,26.8,Sugary Foods,Iron,Chromium,Quinoa,9,1,1
+2024-10-01 19:52:33.465723,27,F,28.8,Red Meat,Calcium,Magnesium,Sardines,2,1,0
+2024-04-05 19:52:33.465734,44,M,20.2,Sugary Foods,Vitamin B,Vitamin C,Spinach,8,0,0
+2024-07-24 19:52:33.465746,75,F,20.7,Red Meat,Sodium,Magnesium,Sweet Potatoes,10,1,1
+2024-01-30 19:52:33.465757,75,M,20.1,Red Meat,Chromium,Zinc,Brazil Nuts,7,1,1
+2024-01-11 19:52:33.465768,24,M,31.4,Ice,Vitamin C,Sodium,Sweet Potatoes,7,1,1
+2023-12-12 19:52:33.465778,20,M,19.1,Red Meat,Zinc,,Brazil Nuts,10,1,1
+2024-10-23 19:52:33.465790,21,M,30.5,Ice,Vitamin C,Magnesium,Oranges,6,1,0
+2024-06-26 19:52:33.465800,37,F,24.3,Bread/Pasta,Zinc,,Brazil Nuts,6,1,0
+2024-05-04 19:52:33.465812,28,F,21.1,Red Meat,Magnesium,Sodium,Sweet Potatoes,3,1,0
+2024-02-26 19:52:33.465824,18,M,28.7,Ice,Magnesium,Calcium,Dark Chocolate,7,1,1
+2023-12-18 19:52:33.465835,56,F,30.5,Chocolate,Chromium,Vitamin C,Sweet Potatoes,1,0,0
+2024-09-10 19:52:33.465845,66,M,20.1,Bread/Pasta,Chromium,,Sweet Potatoes,10,1,1
+2024-07-14 19:52:33.465856,64,F,34.7,Sugary Foods,Sodium,Chromium,Bananas,9,0,0
+2024-07-23 19:52:33.465869,71,M,25.2,Red Meat,Iron,Zinc,Brazil Nuts,8,1,1
+2023-12-20 19:52:33.465879,70,F,19.3,Ice,Vitamin B12,,Salmon,1,1,0
+2024-07-27 19:52:33.465890,73,M,24.0,Fatty Foods,Zinc,Vitamin C,Oranges,2,1,0
+2023-12-22 19:52:33.465902,66,M,22.1,Fatty Foods,Potassium,Vitamin C,Sweet Potatoes,8,1,1
+2024-08-28 19:52:33.465914,37,M,28.0,Salty Foods,Potassium,Vitamin C,Bananas,3,1,0
+2024-08-28 19:52:33.465926,21,M,19.1,Sugary Foods,Calcium,Chromium,Sardines,6,1,0
+2024-07-30 19:52:33.465939,32,M,28.1,Sugary Foods,Chromium,Vitamin B12,Sweet Potatoes,3,1,0
+2024-08-04 19:52:33.465949,50,F,29.5,Ice,Potassium,,Avocado,8,0,0
+2024-04-19 19:52:33.465961,33,F,29.1,Citrus Fruits,Calcium,Chromium,Kale,4,1,0
+2024-04-29 19:52:33.465972,71,M,27.2,Citrus Fruits,Magnesium,Zinc,Dark Chocolate,6,1,0
+2024-01-15 19:52:33.465982,58,M,23.7,Bread/Pasta,Sodium,,Sardines,3,1,0
+2024-01-28 19:52:33.465994,22,F,33.9,Salty Foods,Chromium,Iron,Lentils,3,1,0
+2024-07-05 19:52:33.466010,48,M,33.4,Citrus Fruits,Potassium,Magnesium,Spinach,10,1,1
+2023-12-08 19:52:33.466020,48,F,33.2,Fatty Foods,Vitamin C,,Sweet Potatoes,4,1,0
+2024-09-02 19:52:33.466031,38,F,26.8,Salty Foods,Magnesium,Iron,Eggs,9,1,1
+2024-09-26 19:52:33.466044,74,M,34.9,Ice,Potassium,Magnesium,Brazil Nuts,3,1,0
+2024-06-17 19:52:33.466055,24,F,25.4,Sugary Foods,Potassium,,Sweet Potatoes,2,1,0
+2024-09-13 19:52:33.466065,56,F,31.3,Citrus Fruits,Calcium,,Sardines,6,1,0
+2023-12-23 19:52:33.466077,20,F,23.2,Red Meat,Vitamin B12,Magnesium,Dark Chocolate,8,1,1
+2024-08-29 19:52:33.466087,59,F,34.4,Chocolate,Iron,,Kale,8,1,1
+2024-05-31 19:52:33.466098,32,M,28.3,Salty Foods,Chromium,Vitamin C,Sweet Potatoes,6,1,0
+2024-05-26 19:52:33.466111,36,F,24.3,Bread/Pasta,Vitamin C,Potassium,Avocado,2,1,0
+2024-10-25 19:52:33.466123,26,F,23.0,Bread/Pasta,Potassium,Chromium,Bananas,8,0,0
+2024-10-14 19:52:33.466133,58,M,31.5,Chocolate,Vitamin C,,Sweet Potatoes,4,1,0
+2023-12-28 19:52:33.466144,72,M,22.7,Red Meat,Potassium,Vitamin C,Avocado,4,1,0
+2024-09-24 19:52:33.466156,71,F,34.7,Chocolate,Vitamin B12,Potassium,Sweet Potatoes,8,1,1
+2023-12-25 19:52:33.466168,34,M,32.0,Citrus Fruits,Vitamin B12,Potassium,Avocado,4,1,0
+2023-12-14 19:52:33.466178,28,F,29.0,Ice,Chromium,,Avocado,3,1,0
+2023-12-30 19:52:33.466190,35,F,31.4,Ice,Vitamin B,Potassium,Sweet Potatoes,4,0,0
+2024-02-11 19:52:33.466202,31,M,30.6,Ice,Vitamin B,Vitamin B12,Salmon,9,1,1
+2024-02-14 19:52:33.466212,58,F,30.2,Fatty Foods,Calcium,,Kale,8,1,1
+2024-02-08 19:52:33.466223,45,F,34.3,Fatty Foods,Iron,Vitamin C,Dark Chocolate,6,1,0
+2024-03-24 19:52:33.466233,74,M,25.1,Ice,Calcium,,Almonds,8,0,0
+2024-08-17 19:52:33.466246,54,F,24.7,Ice,Magnesium,Vitamin C,Bananas,4,1,0
+2024-04-26 19:52:33.466257,70,M,24.2,Sugary Foods,Chromium,Vitamin B,Spinach,8,1,1
+2024-10-23 19:52:33.466268,55,M,24.4,Sugary Foods,Vitamin B,Calcium,Sardines,9,1,1
+2024-08-12 19:52:33.466281,38,F,31.5,Fatty Foods,Vitamin B,Potassium,Bananas,7,0,0
+2024-04-14 19:52:33.466291,66,M,23.2,Chocolate,Iron,,Kale,3,1,0
+2024-10-05 19:52:33.466303,68,F,24.1,Chocolate,Vitamin B12,Zinc,Salmon,10,1,1
+2024-04-08 19:52:33.466316,65,M,28.8,Chocolate,Vitamin B,Iron,Spinach,10,1,1
+2024-07-12 19:52:33.466329,57,M,18.8,Red Meat,Vitamin C,Vitamin B12,Sweet Potatoes,7,1,1
+2024-07-20 19:52:33.466341,44,M,20.5,Salty Foods,Zinc,Magnesium,Kale,3,0,0
+2023-11-27 19:52:33.466360,29,F,29.4,Red Meat,Potassium,Calcium,Sardines,3,1,0
+2024-05-01 19:52:33.466371,55,F,33.1,Sugary Foods,Iron,,Quinoa,2,1,0
+2024-07-21 19:52:33.466381,52,F,18.9,Chocolate,Iron,,Dark Chocolate,3,1,0
+2024-04-29 19:52:33.466392,64,F,18.9,Citrus Fruits,Sodium,Vitamin B,Spinach,10,1,1
+2024-05-06 19:52:33.466405,28,M,28.2,Citrus Fruits,Zinc,Vitamin B12,Spinach,5,1,0
+2024-08-05 19:52:33.466416,34,F,28.1,Ice,Vitamin C,Calcium,Sweet Potatoes,2,1,0
+2024-07-19 19:52:33.466427,72,M,26.4,Chocolate,Vitamin C,,Sweet Potatoes,4,0,0
+2024-08-21 19:52:33.466439,26,M,19.7,Fatty Foods,Chromium,Calcium,Greek Yogurt,1,1,0
+2024-11-16 19:52:33.466451,50,F,23.5,Sugary Foods,Calcium,Vitamin B,Sweet Potatoes,3,0,0
+2024-09-05 19:52:33.466463,64,F,19.3,Bread/Pasta,Potassium,Calcium,Sweet Potatoes,7,1,1
+2024-09-26 19:52:33.466474,62,M,19.7,Red Meat,Iron,,Eggs,6,0,0
+2024-03-23 19:52:33.466484,45,F,29.8,Citrus Fruits,Vitamin B,,Spinach,5,0,0
+2024-07-08 19:52:33.466496,24,F,33.6,Salty Foods,Chromium,Vitamin B,Dark Chocolate,7,1,1
+2023-12-07 19:52:33.466507,62,M,34.3,Sugary Foods,Sodium,,Lentils,7,1,1
+2024-06-11 19:52:33.466517,49,M,30.2,Fatty Foods,Calcium,,Almonds,1,1,0
+2024-04-20 19:52:33.466527,56,M,20.5,Red Meat,Calcium,,Greek Yogurt,2,1,0
+2024-05-15 19:52:33.466539,41,M,18.6,Ice,Vitamin C,Iron,Eggs,10,1,1
+2024-10-10 19:52:33.466549,52,F,31.6,Chocolate,Potassium,,Oranges,4,0,0
+2024-01-02 19:52:33.466561,72,M,32.8,Ice,Calcium,Magnesium,Eggs,2,1,0
+2024-06-28 19:52:33.466572,73,M,30.6,Salty Foods,Chromium,Vitamin B12,Salmon,1,1,0
+2024-05-11 19:52:33.466583,46,M,33.3,Bread/Pasta,Chromium,Calcium,Sardines,8,1,1
+2024-11-15 19:52:33.466594,75,F,19.8,Ice,Zinc,,Brazil Nuts,6,1,0
+2024-06-27 19:52:33.466606,18,F,21.6,Salty Foods,Sodium,Vitamin C,Sweet Potatoes,3,0,0
+2024-09-05 19:52:33.466617,37,M,30.5,Citrus Fruits,Iron,Vitamin B,Spinach,4,1,0
+2023-12-18 19:52:33.466628,64,M,30.4,Salty Foods,Vitamin C,,Sweet Potatoes,8,1,1
+2024-11-01 19:52:33.466639,35,F,32.8,Sugary Foods,Chromium,Vitamin B,Spinach,3,1,0
+2024-09-23 19:52:33.466649,71,F,22.0,Salty Foods,Calcium,,Sardines,9,1,1
+2024-08-26 19:52:33.466663,32,M,20.0,Ice,Sodium,Iron,Dark Chocolate,5,1,0
+2024-06-21 19:52:33.466674,25,F,18.5,Red Meat,Zinc,Vitamin C,Oranges,10,1,1
+2024-05-18 19:52:33.466684,23,M,22.1,Red Meat,Vitamin C,,Sweet Potatoes,8,1,1
+2023-12-26 19:52:33.466696,58,F,20.6,Fatty Foods,Zinc,Vitamin C,Sweet Potatoes,7,1,1
+2024-11-19 19:52:33.466706,26,F,30.5,Sugary Foods,Sodium,,Sardines,4,1,0
+2024-05-31 19:52:33.466719,63,M,20.4,Salty Foods,Zinc,Chromium,Bananas,6,1,0
+2024-10-30 19:52:33.466729,57,F,18.5,Sugary Foods,Vitamin C,,Oranges,2,1,0
+2024-09-18 19:52:33.466740,40,M,32.4,Sugary Foods,Magnesium,Potassium,Brazil Nuts,7,1,1
+2023-12-06 19:52:33.466752,36,M,33.9,Salty Foods,Vitamin B12,Zinc,Salmon,1,1,0
+2024-01-08 19:52:33.466763,29,M,28.1,Fatty Foods,Potassium,,Oranges,2,1,0
+2024-05-20 19:52:33.466775,59,F,21.5,Bread/Pasta,Chromium,Vitamin B,Spinach,4,1,0
+2024-03-16 19:52:33.466786,20,F,33.8,Fatty Foods,Iron,Vitamin C,Eggs,4,1,0
+2023-12-29 19:52:33.466797,56,M,25.0,Fatty Foods,Magnesium,,Dark Chocolate,1,1,0
+2024-08-01 19:52:33.466807,47,F,19.7,Chocolate,Calcium,Chromium,Almonds,6,1,0
+2024-03-11 19:52:33.466818,48,M,31.4,Bread/Pasta,Sodium,Vitamin B12,Eggs,10,1,1
+2024-08-12 19:52:33.466829,22,M,32.5,Fatty Foods,Magnesium,Vitamin C,Oranges,7,1,1
+2024-04-03 19:52:33.466840,37,M,20.9,Salty Foods,Chromium,Calcium,Kale,8,1,1
+2024-07-07 19:52:33.466851,39,F,22.5,Red Meat,Calcium,Vitamin C,Almonds,2,1,0
+2024-10-15 19:52:33.466863,28,M,24.6,Fatty Foods,Calcium,Iron,Quinoa,3,1,0
+2024-08-04 19:52:33.466873,32,M,30.9,Bread/Pasta,Zinc,,Brazil Nuts,4,1,0
+2024-05-11 19:52:33.466884,55,F,25.4,Chocolate,Calcium,Iron,Spinach,7,1,1
+2024-03-12 19:52:33.466896,22,F,21.3,Salty Foods,Magnesium,Zinc,Brazil Nuts,1,1,0
+2024-06-07 19:52:33.466907,64,M,24.0,Chocolate,Sodium,,Eggs,6,1,0
+2024-03-26 19:52:33.466918,42,M,19.8,Fatty Foods,Calcium,Magnesium,Almonds,7,1,1
+2024-03-16 19:52:33.466931,56,M,30.5,Chocolate,Vitamin B,Vitamin C,Brazil Nuts,6,0,0
+2024-10-01 19:52:33.466942,23,F,20.2,Ice,Magnesium,,Sweet Potatoes,8,1,1
+2024-11-17 19:52:33.466953,23,F,19.7,Chocolate,Vitamin B12,Chromium,Salmon,6,1,0
+2024-07-13 19:52:33.466964,20,F,32.1,Chocolate,Sodium,Vitamin B,Spinach,3,1,0
+2024-01-29 19:52:33.466976,67,F,19.3,Citrus Fruits,Zinc,,Brazil Nuts,5,0,0
+2024-02-02 19:52:33.466987,70,M,20.4,Salty Foods,Vitamin B12,Sodium,Salmon,6,0,0
+2024-01-05 19:52:33.466998,28,F,31.1,Red Meat,Vitamin B12,Potassium,Oranges,7,1,1
+2024-02-06 19:52:33.467009,18,M,27.1,Ice,Calcium,Chromium,Almonds,5,1,0
+2024-10-27 19:52:33.467021,45,M,18.6,Sugary Foods,Chromium,Magnesium,Brazil Nuts,2,1,0
+2024-06-08 19:52:33.467032,36,F,34.6,Sugary Foods,Sodium,Calcium,Kale,1,1,0
+2024-01-01 19:52:33.467043,74,F,21.9,Red Meat,Vitamin B12,Vitamin C,Eggs,6,1,0
+2024-11-20 19:52:33.467055,35,M,27.8,Fatty Foods,Zinc,Calcium,Brazil Nuts,5,0,0
+2024-05-13 19:52:33.467067,25,F,33.1,Bread/Pasta,Zinc,Iron,Brazil Nuts,3,1,0
+2024-02-28 19:52:33.467076,65,F,33.1,Chocolate,Chromium,,Sweet Potatoes,7,1,1
+2024-09-23 19:52:33.467087,46,M,27.8,Sugary Foods,Magnesium,,Quinoa,8,0,0
+2024-09-27 19:52:33.467098,20,M,20.8,Ice,Sodium,Calcium,Almonds,5,1,0
+2024-06-05 19:52:33.467111,58,F,27.5,Citrus Fruits,Sodium,Calcium,Sardines,4,1,0
+2024-05-16 19:52:33.467121,53,M,29.6,Chocolate,Zinc,,Brazil Nuts,8,1,1
+2024-06-17 19:52:33.467131,75,M,23.2,Salty Foods,Sodium,,Eggs,7,1,1
+2024-06-26 19:52:33.467142,72,F,26.0,Salty Foods,Magnesium,Chromium,Quinoa,9,1,1
+2024-02-09 19:52:33.467153,74,F,19.4,Fatty Foods,Vitamin B12,Magnesium,Spinach,1,1,0
+2024-05-12 19:52:33.467166,26,M,29.4,Salty Foods,Zinc,Vitamin C,Sweet Potatoes,1,1,0
+2024-01-26 19:52:33.467176,24,M,25.3,Sugary Foods,Zinc,Sodium,Brazil Nuts,10,1,1
+2024-02-27 19:52:33.467188,74,M,25.5,Ice,Vitamin B,Zinc,Spinach,6,1,0
+2024-01-07 19:52:33.467199,51,F,21.3,Citrus Fruits,Magnesium,,Spinach,1,1,0
+2024-07-18 19:52:33.467210,54,F,33.1,Chocolate,Vitamin B,Iron,Spinach,10,1,1
+2024-05-01 19:52:33.467221,39,F,22.0,Salty Foods,Vitamin B12,Zinc,Salmon,10,1,1
+2024-09-10 19:52:33.467233,35,F,25.9,Ice,Vitamin C,Vitamin B,Oranges,3,1,0
+2024-05-14 19:52:33.467244,35,F,34.3,Red Meat,Sodium,Vitamin B,Spinach,4,1,0
+2024-05-31 19:52:33.467256,75,F,29.5,Fatty Foods,Zinc,Vitamin B,Brazil Nuts,3,0,0
+2024-10-28 19:52:33.467268,54,M,31.8,Fatty Foods,Vitamin B12,Magnesium,Bananas,9,1,1
+2024-02-18 19:52:33.467281,66,M,34.1,Citrus Fruits,Calcium,Magnesium,Almonds,6,1,0
+2024-02-16 19:52:33.467292,38,M,33.6,Bread/Pasta,Magnesium,Vitamin B,Spinach,7,0,0
+2024-08-05 19:52:33.467304,67,F,20.7,Citrus Fruits,Sodium,,Eggs,10,1,1
+2024-09-27 19:52:33.467315,72,M,30.6,Ice,Potassium,Calcium,Bananas,2,1,0
+2024-02-11 19:52:33.467328,53,M,31.4,Red Meat,Vitamin B,Magnesium,Bananas,7,1,1
+2024-06-26 19:52:33.467338,36,M,34.1,Salty Foods,Sodium,,Quinoa,7,1,1
+2023-12-15 19:52:33.467350,64,M,30.9,Ice,Calcium,Chromium,Eggs,9,1,1
+2024-06-03 19:52:33.467360,69,M,25.8,Sugary Foods,Vitamin B,,Spinach,1,1,0
+2024-07-26 19:52:33.467370,70,M,26.3,Chocolate,Iron,,Lentils,4,1,0
+2024-09-25 19:52:33.467381,43,M,29.0,Red Meat,Calcium,,Greek Yogurt,10,1,1
+2024-07-03 19:52:33.467393,27,M,20.9,Ice,Potassium,Magnesium,Brazil Nuts,1,1,0
+2024-07-19 19:52:33.467403,21,F,30.5,Fatty Foods,Zinc,,Brazil Nuts,3,1,0
+2024-03-13 19:52:33.467414,28,M,25.6,Citrus Fruits,Potassium,Vitamin C,Oranges,2,0,0
+2024-05-15 19:52:33.467425,64,M,28.4,Bread/Pasta,Magnesium,Vitamin C,Spinach,9,1,1
+2024-06-10 19:52:33.467435,74,M,24.4,Chocolate,Vitamin B12,,Eggs,7,1,1
+2024-05-08 19:52:33.467445,72,M,31.3,Chocolate,Vitamin C,,Oranges,4,1,0
+2024-11-04 19:52:33.467457,31,M,27.9,Red Meat,Vitamin C,Chromium,Salmon,2,0,0
+2024-04-21 19:52:33.467469,68,M,28.2,Citrus Fruits,Vitamin B12,Vitamin C,Kale,6,1,0
+2024-01-21 19:52:33.467480,21,M,18.8,Chocolate,Potassium,Vitamin B,Sweet Potatoes,3,0,0
+2024-03-25 19:52:33.467492,65,M,27.4,Fatty Foods,Zinc,Sodium,Brazil Nuts,9,0,0
+2024-03-01 19:52:33.467503,28,F,32.9,Red Meat,Iron,Calcium,Dark Chocolate,10,1,1
+2024-03-29 19:52:33.467513,47,M,32.8,Bread/Pasta,Magnesium,,Bananas,1,1,0
+2023-12-09 19:52:33.467525,60,F,30.1,Fatty Foods,Sodium,Chromium,Eggs,1,1,0
+2024-11-16 19:52:33.467535,65,F,30.1,Sugary Foods,Calcium,,Greek Yogurt,4,1,0
+2024-09-16 19:52:33.467546,67,F,23.0,Ice,Chromium,,Bananas,10,1,1
+2024-09-21 19:52:33.467558,46,F,23.5,Bread/Pasta,Chromium,Vitamin B,Salmon,10,0,0
+2024-04-13 19:52:33.467568,63,M,31.7,Ice,Zinc,,Brazil Nuts,1,1,0
+2024-02-05 19:52:33.467580,62,F,25.5,Salty Foods,Chromium,Sodium,Bananas,1,1,0
+2024-06-18 19:52:33.467592,69,F,19.3,Fatty Foods,Iron,Vitamin C,Salmon,5,1,0
+2024-09-08 19:52:33.467603,75,F,28.9,Bread/Pasta,Vitamin B,,Spinach,2,1,0
+2024-07-08 19:52:33.467614,51,M,19.3,Chocolate,Magnesium,,Dark Chocolate,2,1,0
+2024-07-29 19:52:33.467627,73,F,26.0,Chocolate,Sodium,Vitamin C,Avocado,4,0,0
+2024-06-23 19:52:33.467637,75,M,20.3,Citrus Fruits,Iron,,Eggs,4,1,0
+2024-08-09 19:52:33.467649,28,F,19.6,Red Meat,Magnesium,Chromium,Bananas,5,1,0
+2024-09-21 19:52:33.467660,56,F,22.8,Red Meat,Zinc,Vitamin B,Spinach,9,1,1
+2024-03-13 19:52:33.467673,31,F,31.1,Bread/Pasta,Vitamin B,Chromium,Oranges,3,1,0
+2024-05-08 19:52:33.467683,53,M,25.9,Bread/Pasta,Vitamin B,,Spinach,4,1,0
+2024-06-07 19:52:33.467694,55,M,30.9,Chocolate,Zinc,Iron,Lentils,10,1,1
+2024-04-25 19:52:33.467706,37,F,21.9,Citrus Fruits,Potassium,Magnesium,Avocado,1,0,0
+2024-02-03 19:52:33.467719,41,F,20.2,Salty Foods,Vitamin B,Vitamin B12,Salmon,5,1,0
+2023-12-13 19:52:33.467730,36,M,32.7,Red Meat,Vitamin B,Vitamin B12,Salmon,7,1,1
+2024-10-06 19:52:33.467740,65,M,27.1,Fatty Foods,Iron,,Kale,5,1,0
+2024-10-28 19:52:33.467750,22,M,28.1,Ice,Sodium,,Eggs,7,1,1
+2024-01-29 19:52:33.467762,64,M,20.5,Sugary Foods,Potassium,Magnesium,Sweet Potatoes,8,1,1
+2024-01-07 19:52:33.467784,38,F,26.7,Chocolate,Iron,Vitamin C,Spinach,9,1,1
+2024-09-03 19:52:33.467796,30,M,30.8,Fatty Foods,Sodium,Chromium,Kale,7,1,1
+2024-09-16 19:52:33.467809,45,F,30.9,Chocolate,Calcium,Zinc,Bananas,8,1,1
+2024-08-27 19:52:33.467820,66,F,29.2,Salty Foods,Vitamin B12,Calcium,Eggs,6,1,0
+2024-11-16 19:52:33.467833,28,M,20.8,Salty Foods,Zinc,Sodium,Brazil Nuts,9,1,1
+2024-03-12 19:52:33.467845,22,F,20.5,Fatty Foods,Calcium,Vitamin B12,Avocado,5,1,0
+2024-05-22 19:52:33.467857,56,F,31.3,Bread/Pasta,Iron,Vitamin C,Almonds,4,1,0
+2024-10-08 19:52:33.467868,22,F,31.7,Sugary Foods,Vitamin B12,Zinc,Eggs,8,1,1
+2023-11-27 19:52:33.467879,27,M,32.3,Sugary Foods,Iron,Vitamin C,Dark Chocolate,7,0,0
+2024-10-04 19:52:33.467890,64,M,33.2,Sugary Foods,Calcium,Iron,Greek Yogurt,3,1,0
+2023-11-28 19:52:33.467903,70,M,29.8,Citrus Fruits,Chromium,Potassium,Avocado,6,1,0
+2024-09-14 19:52:33.467914,33,F,22.0,Citrus Fruits,Iron,Potassium,Lentils,10,0,0
+2023-12-05 19:52:33.467925,57,M,32.0,Chocolate,Sodium,,Bananas,10,0,0
+2024-06-09 19:52:33.467937,24,F,27.5,Red Meat,Potassium,Sodium,Sweet Potatoes,9,1,1
+2024-05-16 19:52:33.467947,59,M,30.4,Red Meat,Iron,,Lentils,6,1,0
+2024-10-19 19:52:33.467961,67,F,20.6,Ice,Iron,Chromium,Lentils,5,1,0
+2024-11-13 19:52:33.467971,53,F,33.2,Bread/Pasta,Iron,,Spinach,8,0,0
+2024-09-04 19:52:33.467982,59,F,24.3,Sugary Foods,Zinc,Iron,Kale,6,0,0
+2024-02-15 19:52:33.467995,44,M,29.3,Sugary Foods,Vitamin B,Iron,Spinach,7,1,1
+2024-05-31 19:52:33.468005,23,F,24.4,Chocolate,Magnesium,,Brazil Nuts,3,1,0
+2024-09-10 19:52:33.468016,26,M,32.7,Red Meat,Vitamin B,Vitamin B12,Eggs,9,1,1
+2024-03-29 19:52:33.468028,53,F,29.0,Sugary Foods,Vitamin B12,Sodium,Kale,3,0,0
+2024-02-20 19:52:33.468039,37,F,20.3,Fatty Foods,Sodium,,Sweet Potatoes,6,1,0
+2024-07-22 19:52:33.468050,26,F,21.3,Citrus Fruits,Iron,Vitamin C,Spinach,5,1,0
+2024-01-01 19:52:33.468060,66,F,29.6,Red Meat,Chromium,,Almonds,2,1,0
+2024-09-02 19:52:33.468071,42,F,24.7,Bread/Pasta,Iron,Vitamin B,Spinach,10,1,1
+2024-04-18 19:52:33.468083,53,M,30.1,Bread/Pasta,Magnesium,Potassium,Quinoa,5,1,0
+2024-10-28 19:52:33.468094,71,F,19.5,Chocolate,Calcium,Zinc,Kale,4,1,0
+2024-11-17 19:52:33.468107,64,M,32.7,Citrus Fruits,Sodium,Zinc,Brazil Nuts,3,1,0
+2024-08-15 19:52:33.468118,28,F,22.1,Chocolate,Sodium,Zinc,Brazil Nuts,10,0,0
+2024-02-05 19:52:33.468128,44,F,32.6,Chocolate,Potassium,,Avocado,7,1,1
+2024-06-05 19:52:33.468138,29,M,27.6,Ice,Vitamin B12,,Salmon,8,0,0
+2024-08-02 19:52:33.468150,27,F,22.7,Sugary Foods,Potassium,Iron,Oranges,3,1,0
+2024-02-23 19:52:33.468162,70,M,30.4,Citrus Fruits,Vitamin C,Magnesium,Dark Chocolate,2,1,0
+2024-03-28 19:52:33.468172,39,F,33.9,Citrus Fruits,Potassium,,Oranges,9,1,1
+2023-12-18 19:52:33.468183,59,F,29.1,Sugary Foods,Sodium,Zinc,Brazil Nuts,6,1,0
+2024-07-03 19:52:33.468196,61,F,34.1,Bread/Pasta,Sodium,Zinc,Greek Yogurt,5,1,0
+2024-04-17 19:52:33.468207,60,F,31.9,Chocolate,Potassium,,Sweet Potatoes,6,1,0
+2024-05-23 19:52:33.468219,43,M,32.7,Red Meat,Vitamin B12,Vitamin B,Dark Chocolate,4,1,0
+2024-03-18 19:52:33.468230,48,F,19.4,Salty Foods,Sodium,,Brazil Nuts,5,0,0
+2023-12-05 19:52:33.468240,35,M,19.7,Citrus Fruits,Potassium,,Oranges,2,1,0
+2024-08-26 19:52:33.468251,73,M,21.0,Bread/Pasta,Iron,,Eggs,9,1,1
+2024-03-11 19:52:33.468261,32,M,31.1,Sugary Foods,Vitamin B,,Spinach,7,1,1
+2024-02-11 19:52:33.468273,51,F,33.1,Sugary Foods,Magnesium,Chromium,Sweet Potatoes,4,1,0
+2024-07-27 19:52:33.468284,48,F,19.5,Salty Foods,Magnesium,Sodium,Quinoa,3,1,0
+2024-09-24 19:52:33.468294,19,F,21.2,Chocolate,Sodium,,Bananas,8,1,1
+2024-08-23 19:52:33.468307,57,M,35.0,Sugary Foods,Vitamin C,Magnesium,Dark Chocolate,3,0,0
+2024-07-08 19:52:33.468319,55,F,23.5,Bread/Pasta,Calcium,Magnesium,Bananas,10,1,1
+2024-11-10 19:52:33.468330,18,F,27.8,Red Meat,Vitamin B12,,Salmon,6,1,0
+2024-09-29 19:52:33.468341,75,M,30.4,Citrus Fruits,Iron,Vitamin B12,Spinach,4,1,0
+2024-01-28 19:52:33.468351,59,M,27.5,Ice,Magnesium,,Spinach,9,1,1
+2024-03-30 19:52:33.468363,36,M,22.2,Sugary Foods,Zinc,Potassium,Avocado,10,1,1
+2024-11-09 19:52:33.468374,20,F,34.6,Fatty Foods,Vitamin B12,Magnesium,Almonds,6,1,0
+2024-04-27 19:52:33.468386,21,F,34.8,Salty Foods,Potassium,Vitamin C,Oranges,1,1,0
+2024-02-08 19:52:33.468396,49,M,21.8,Salty Foods,Vitamin B,,Spinach,8,1,1
+2024-01-08 19:52:33.468408,70,F,30.0,Fatty Foods,Chromium,Magnesium,Brazil Nuts,10,1,1
+2024-06-18 19:52:33.468420,45,F,30.7,Ice,Sodium,Potassium,Oranges,4,0,0
+2024-04-04 19:52:33.468432,63,M,22.1,Bread/Pasta,Vitamin B12,Potassium,Bananas,6,1,0
+2024-10-24 19:52:33.468444,43,M,20.3,Fatty Foods,Vitamin B,Potassium,Oranges,2,1,0
+2024-03-14 19:52:33.468455,32,M,25.9,Red Meat,Calcium,Iron,Almonds,3,1,0
+2024-02-20 19:52:33.468466,18,M,32.9,Bread/Pasta,Iron,,Kale,7,1,1
+2023-12-03 19:52:33.468476,19,F,33.0,Sugary Foods,Sodium,,Bananas,10,1,1
+2024-09-09 19:52:33.468486,58,F,25.5,Sugary Foods,Vitamin B12,,Salmon,2,1,0
+2024-09-18 19:52:33.468497,36,M,33.6,Citrus Fruits,Iron,Zinc,Brazil Nuts,8,1,1
+2024-04-27 19:52:33.468509,37,M,19.9,Fatty Foods,Vitamin B,Vitamin B12,Eggs,2,1,0
+2024-07-09 19:52:33.468522,38,M,20.5,Bread/Pasta,Potassium,Sodium,Sweet Potatoes,7,0,0
+2024-06-02 19:52:33.468533,74,F,20.7,Ice,Magnesium,Chromium,Almonds,5,1,0
+2024-04-13 19:52:33.468543,57,F,31.5,Salty Foods,Sodium,,Brazil Nuts,8,1,1
+2024-04-21 19:52:33.468553,60,F,28.3,Citrus Fruits,Vitamin B12,,Eggs,2,1,0
+2024-03-15 19:52:33.468565,36,M,31.9,Bread/Pasta,Vitamin C,Potassium,Sweet Potatoes,2,1,0
+2024-09-29 19:52:33.468576,28,M,27.8,Red Meat,Magnesium,Vitamin B12,Almonds,8,1,1
+2024-11-10 19:52:33.468589,53,M,31.8,Citrus Fruits,Chromium,Sodium,Spinach,3,1,0
+2024-01-05 19:52:33.468601,35,F,31.6,Sugary Foods,Vitamin B12,Magnesium,Brazil Nuts,9,1,1
+2024-01-28 19:52:33.468612,27,F,28.8,Salty Foods,Zinc,Magnesium,Bananas,3,1,0
+2024-10-01 19:52:33.468623,59,F,33.3,Salty Foods,Chromium,,Brazil Nuts,4,1,0
+2024-05-27 19:52:33.468634,54,M,23.3,Bread/Pasta,Chromium,Magnesium,Quinoa,3,0,0
+2024-08-16 19:52:33.468645,73,M,28.2,Bread/Pasta,Potassium,Vitamin B12,Bananas,3,1,0
+2024-04-15 19:52:33.468657,25,M,22.6,Salty Foods,Vitamin C,Zinc,Sweet Potatoes,3,1,0
+2024-08-01 19:52:33.468668,62,F,31.6,Red Meat,Magnesium,Vitamin C,Sweet Potatoes,1,1,0
+2024-04-16 19:52:33.468678,69,F,24.9,Fatty Foods,Chromium,,Lentils,8,1,1
+2024-06-23 19:52:33.468690,23,M,28.7,Chocolate,Iron,Chromium,Quinoa,8,0,0
+2024-05-21 19:52:33.468702,74,M,25.7,Sugary Foods,Magnesium,Vitamin B,Dark Chocolate,5,1,0
+2024-10-30 19:52:33.468712,51,M,24.1,Ice,Sodium,,Avocado,5,1,0
+2024-07-13 19:52:33.468724,32,F,18.7,Chocolate,Potassium,Magnesium,Oranges,9,0,0
+2024-01-31 19:52:33.468735,46,M,27.8,Ice,Calcium,Vitamin B12,Eggs,3,1,0
+2024-10-09 19:52:33.468747,68,M,31.5,Red Meat,Magnesium,Potassium,Quinoa,4,1,0
+2024-07-08 19:52:33.468759,39,F,33.7,Red Meat,Vitamin B12,Potassium,Sweet Potatoes,4,1,0
+2024-06-09 19:52:33.468769,61,F,19.1,Red Meat,Calcium,,Sardines,1,1,0
+2024-01-24 19:52:33.468780,71,M,29.3,Fatty Foods,Vitamin B,Zinc,Spinach,9,1,1
+2024-10-21 19:52:33.468792,42,F,25.8,Citrus Fruits,Vitamin B,Zinc,Spinach,10,1,1
+2024-05-02 19:52:33.468802,62,F,25.4,Ice,Calcium,,Greek Yogurt,8,1,1
+2024-08-26 19:52:33.468812,18,M,27.4,Fatty Foods,Calcium,,Kale,10,0,0
+2024-11-18 19:52:33.468822,64,F,29.1,Fatty Foods,Sodium,,Sardines,8,1,1
+2023-12-01 19:52:33.468832,49,M,30.6,Red Meat,Chromium,,Eggs,6,0,0
+2024-09-16 19:52:33.468844,51,F,21.4,Bread/Pasta,Calcium,Vitamin B12,Eggs,1,0,0
+2024-09-12 19:52:33.468855,59,F,19.5,Fatty Foods,Chromium,Iron,Quinoa,8,1,1
+2024-08-25 19:52:33.468866,72,F,26.0,Red Meat,Calcium,,Kale,10,1,1
+2024-02-20 19:52:33.468877,62,M,33.9,Red Meat,Potassium,,Avocado,5,1,0
+2024-03-02 19:52:33.468888,33,F,31.3,Chocolate,Vitamin B,Vitamin C,Spinach,4,1,0
+2024-11-19 19:52:33.468898,67,F,20.4,Citrus Fruits,Chromium,,Brazil Nuts,3,1,0
+2024-09-10 19:52:33.468912,60,F,29.4,Salty Foods,Vitamin B,,Spinach,4,1,0
+2024-07-21 19:52:33.468923,66,M,22.4,Ice,Zinc,Magnesium,Dark Chocolate,6,0,0
+2024-03-12 19:52:33.468935,31,F,23.8,Salty Foods,Vitamin B,Iron,Lentils,10,1,1
+2024-04-18 19:52:33.468947,63,F,27.2,Fatty Foods,Vitamin B12,Calcium,Eggs,10,1,1
+2024-04-13 19:52:33.468959,75,F,25.0,Bread/Pasta,Sodium,Magnesium,Sweet Potatoes,4,1,0
+2024-10-25 19:52:33.468971,70,F,28.9,Bread/Pasta,Magnesium,Iron,Salmon,3,1,0
+2024-11-10 19:52:33.468982,34,F,29.3,Chocolate,Sodium,,Eggs,4,1,0
+2024-06-19 19:52:33.468993,60,F,34.2,Citrus Fruits,Vitamin B12,Vitamin B,Salmon,6,1,0
+2024-02-14 19:52:33.469003,56,M,32.6,Bread/Pasta,Vitamin C,,Oranges,7,1,1
+2024-06-18 19:52:33.469014,31,F,23.1,Ice,Vitamin B12,Sodium,Eggs,3,0,0
+2024-02-15 19:52:33.469026,21,F,34.4,Bread/Pasta,Zinc,Vitamin B12,Spinach,7,1,1
+2024-07-29 19:52:33.469037,22,M,29.7,Chocolate,Vitamin C,Calcium,Sardines,7,1,1
+2024-05-29 19:52:33.469048,44,F,30.9,Salty Foods,Iron,,Spinach,1,1,0
+2024-09-07 19:52:33.469059,53,M,30.3,Sugary Foods,Iron,Vitamin B,Quinoa,1,1,0
+2023-12-18 19:52:33.469070,24,F,23.9,Chocolate,Magnesium,Chromium,Bananas,8,1,1
+2024-05-07 19:52:33.469083,28,M,28.7,Ice,Calcium,Iron,Sardines,10,0,0
+2024-08-05 19:52:33.469095,19,M,19.7,Ice,Magnesium,Zinc,Spinach,10,1,1
+2024-02-25 19:52:33.469107,66,M,28.1,Ice,Iron,Vitamin B12,Salmon,10,1,1
+2024-01-24 19:52:33.469117,56,M,24.8,Citrus Fruits,Magnesium,,Spinach,5,1,0
+2024-05-21 19:52:33.469129,47,F,29.1,Fatty Foods,Iron,Zinc,Lentils,5,1,0
+2024-10-12 19:52:33.469139,18,M,21.5,Bread/Pasta,Potassium,,Avocado,6,0,0
+2023-12-27 19:52:33.469151,51,M,29.1,Ice,Zinc,Magnesium,Brazil Nuts,4,1,0
+2024-06-24 19:52:33.469163,56,F,24.4,Bread/Pasta,Zinc,Sodium,Brazil Nuts,8,1,1
+2024-05-15 19:52:33.469173,71,F,27.0,Sugary Foods,Potassium,,Avocado,1,1,0
+2024-03-23 19:52:33.469185,72,F,26.9,Citrus Fruits,Vitamin C,Chromium,Brazil Nuts,10,0,0
+2024-03-15 19:52:33.469197,27,F,29.8,Fatty Foods,Calcium,Potassium,Sardines,6,1,0
+2024-04-24 19:52:33.469209,65,F,33.6,Fatty Foods,Calcium,Vitamin B,Kale,7,1,1
+2024-03-25 19:52:33.469222,57,M,33.5,Red Meat,Vitamin B12,Zinc,Sardines,1,1,0
+2024-02-17 19:52:33.469233,68,F,27.5,Salty Foods,Potassium,Chromium,Sweet Potatoes,6,1,0
+2024-03-09 19:52:33.469245,51,F,28.8,Fatty Foods,Zinc,Iron,Eggs,6,1,0
+2024-07-26 19:52:33.469256,48,F,26.3,Sugary Foods,Vitamin B12,Magnesium,Salmon,5,1,0
+2024-06-23 19:52:33.469267,20,F,22.0,Ice,Iron,Vitamin B12,Salmon,6,1,0
+2023-11-29 19:52:33.469278,70,F,26.3,Red Meat,Calcium,,Kale,4,1,0
+2024-07-26 19:52:33.469290,54,F,30.7,Sugary Foods,Sodium,Vitamin B12,Oranges,2,1,0
+2024-05-18 19:52:33.469301,27,F,24.5,Chocolate,Magnesium,,Sweet Potatoes,8,1,1
+2024-03-26 19:52:33.469312,58,F,30.4,Red Meat,Magnesium,,Bananas,8,1,1
+2024-10-21 19:52:33.469325,29,M,23.0,Ice,Vitamin B,Iron,Dark Chocolate,5,1,0
+2024-03-02 19:52:33.469338,55,F,34.8,Salty Foods,Chromium,Vitamin B12,Eggs,8,1,1
+2024-06-18 19:52:33.469350,64,M,26.7,Fatty Foods,Vitamin C,Vitamin B,Sweet Potatoes,9,0,0
+2024-10-02 19:52:33.469363,56,F,34.7,Bread/Pasta,Calcium,Magnesium,Bananas,4,1,0
+2024-05-08 19:52:33.469376,43,F,22.6,Bread/Pasta,Vitamin B,Iron,Salmon,3,1,0
+2024-01-26 19:52:33.469389,74,M,25.9,Sugary Foods,Chromium,Vitamin B,Eggs,6,1,0
+2024-08-14 19:52:33.469399,46,M,20.6,Fatty Foods,Calcium,,Sardines,7,1,1
+2024-09-28 19:52:33.469409,47,F,31.1,Sugary Foods,Vitamin C,,Oranges,7,1,1
+2024-04-19 19:52:33.469420,27,M,27.7,Bread/Pasta,Vitamin B12,Potassium,Salmon,9,0,0
+2024-09-13 19:52:33.469432,18,F,23.6,Bread/Pasta,Vitamin B12,Magnesium,Dark Chocolate,3,1,0
+2024-10-02 19:52:33.469443,69,F,34.9,Ice,Calcium,Iron,Almonds,2,1,0
+2024-03-31 19:52:33.469453,56,F,34.4,Bread/Pasta,Sodium,,Lentils,4,1,0
+2023-12-24 19:52:33.469463,66,M,31.8,Bread/Pasta,Vitamin B12,,Salmon,7,1,1
+2024-02-27 19:52:33.469473,34,M,23.0,Bread/Pasta,Sodium,,Dark Chocolate,7,1,1
+2024-07-03 19:52:33.469484,69,F,22.8,Bread/Pasta,Iron,,Eggs,5,1,0
+2024-04-27 19:52:33.469495,34,M,31.0,Citrus Fruits,Zinc,Iron,Eggs,1,0,0
+2024-02-24 19:52:33.469506,40,F,29.8,Red Meat,Vitamin B,Vitamin C,Spinach,3,1,0
+2024-11-17 19:52:33.469519,21,M,22.6,Red Meat,Chromium,Vitamin B,Oranges,3,0,0
+2024-02-10 19:52:33.469531,26,F,23.7,Red Meat,Iron,Vitamin B,Avocado,6,1,0
+2024-05-28 19:52:33.469544,43,M,23.7,Chocolate,Magnesium,Potassium,Spinach,7,1,1
+2024-04-20 19:52:33.469554,69,F,27.4,Fatty Foods,Vitamin C,,Oranges,2,0,0
+2024-01-18 19:52:33.469566,66,F,18.9,Red Meat,Sodium,Chromium,Dark Chocolate,1,1,0
+2024-11-24 19:52:33.469578,55,F,31.6,Salty Foods,Calcium,Vitamin B12,Almonds,4,1,0
+2024-11-17 19:52:33.469588,51,M,29.3,Chocolate,Vitamin B12,,Eggs,6,1,0
+2024-05-11 19:52:33.469598,53,M,29.0,Salty Foods,Vitamin B12,,Salmon,2,1,0
+2024-07-20 19:52:33.469609,62,M,25.8,Citrus Fruits,Magnesium,Potassium,Quinoa,9,0,0
+2024-03-13 19:52:33.469621,59,F,34.0,Ice,Calcium,Vitamin B,Salmon,7,1,1
+2024-06-26 19:52:33.469631,39,M,24.7,Salty Foods,Vitamin B,,Spinach,10,0,0
+2024-05-07 19:52:33.469642,23,F,18.8,Citrus Fruits,Chromium,Calcium,Sardines,9,1,1
+2024-07-31 19:52:33.469652,21,F,23.2,Salty Foods,Potassium,,Sweet Potatoes,1,1,0
+2023-11-28 19:52:33.469662,59,M,33.9,Fatty Foods,Vitamin B12,,Salmon,7,1,1
+2024-01-21 19:52:33.469673,21,F,21.4,Chocolate,Potassium,Sodium,Avocado,6,1,0
+2024-06-15 19:52:33.469683,18,F,32.8,Salty Foods,Potassium,,Avocado,6,1,0
+2024-02-08 19:52:33.469695,59,F,31.8,Salty Foods,Chromium,Calcium,Almonds,7,1,1
+2023-12-25 19:52:33.469705,20,M,30.8,Citrus Fruits,Iron,,Dark Chocolate,4,1,0
+2024-10-21 19:52:33.469716,52,M,24.7,Red Meat,Calcium,Magnesium,Spinach,8,1,1
+2024-10-18 19:52:33.469726,55,M,31.4,Ice,Iron,,Spinach,2,1,0
+2024-11-05 19:52:33.469737,37,F,25.4,Chocolate,Iron,Vitamin B,Lentils,6,1,0
+2024-03-25 19:52:33.469750,75,F,22.2,Fatty Foods,Vitamin C,Chromium,Oranges,8,1,1
+2024-06-04 19:52:33.469760,54,F,32.5,Red Meat,Vitamin B12,,Salmon,1,1,0
+2024-07-18 19:52:33.469771,40,F,26.2,Red Meat,Potassium,Sodium,Avocado,3,1,0
+2024-08-10 19:52:33.469781,42,F,18.9,Sugary Foods,Calcium,,Sardines,5,1,0
+2024-08-05 19:52:33.469791,36,F,30.7,Bread/Pasta,Zinc,Chromium,Brazil Nuts,1,0,0
+2024-07-20 19:52:33.469804,41,F,31.1,Citrus Fruits,Vitamin B,Potassium,Avocado,4,1,0
+2024-02-11 19:52:33.469816,47,M,28.6,Ice,Zinc,Magnesium,Sweet Potatoes,5,1,0
+2024-08-14 19:52:33.469827,62,F,21.0,Bread/Pasta,Vitamin C,,Sweet Potatoes,10,1,1
+2024-07-08 19:52:33.469840,49,M,23.3,Fatty Foods,Potassium,Chromium,Avocado,10,1,1
+2024-04-07 19:52:33.469852,71,F,21.7,Ice,Sodium,Chromium,Oranges,5,1,0
+2024-01-13 19:52:33.469863,45,F,23.1,Red Meat,Potassium,,Sweet Potatoes,2,0,0
+2024-09-06 19:52:33.469873,21,F,31.1,Citrus Fruits,Vitamin B12,,Eggs,9,1,1
+2024-06-28 19:52:33.469885,53,M,27.3,Citrus Fruits,Potassium,Vitamin B12,Oranges,9,1,1
+2024-01-19 19:52:33.469896,38,F,29.7,Bread/Pasta,Zinc,,Brazil Nuts,6,0,0
+2024-06-04 19:52:33.469908,18,F,25.8,Chocolate,Iron,Potassium,Bananas,3,1,0
+2024-06-24 19:52:33.469918,28,M,23.6,Red Meat,Chromium,,Avocado,9,1,1
+2024-07-16 19:52:33.469929,45,M,23.2,Fatty Foods,Zinc,Vitamin C,Sweet Potatoes,6,1,0
+2024-07-05 19:52:33.469941,23,M,22.1,Red Meat,Chromium,Vitamin B,Brazil Nuts,6,1,0
+2024-02-04 19:52:33.469953,37,F,25.4,Citrus Fruits,Zinc,Magnesium,Bananas,6,1,0
+2024-07-16 19:52:33.469963,23,F,32.6,Salty Foods,Magnesium,,Brazil Nuts,2,1,0
+2024-07-11 19:52:33.469974,25,M,35.0,Fatty Foods,Vitamin C,Vitamin B12,Sweet Potatoes,10,0,0
+2024-05-10 19:52:33.469984,34,F,27.2,Sugary Foods,Iron,,Kale,5,1,0
+2024-04-04 19:52:33.469994,53,F,21.9,Red Meat,Sodium,,Avocado,5,1,0
+2023-11-27 19:52:33.470005,59,F,32.7,Citrus Fruits,Magnesium,,Sweet Potatoes,8,1,1
+2024-04-02 19:52:33.470017,65,F,20.2,Bread/Pasta,Calcium,Magnesium,Quinoa,9,1,1
+2024-09-10 19:52:33.470028,69,M,28.2,Red Meat,Potassium,Vitamin C,Sweet Potatoes,1,1,0
+2024-09-22 19:52:33.470040,23,F,28.9,Ice,Magnesium,Potassium,Bananas,2,1,0
+2024-10-12 19:52:33.470052,52,F,22.5,Sugary Foods,Chromium,Potassium,Oranges,10,1,1
+2024-03-03 19:52:33.470063,61,F,34.0,Citrus Fruits,Chromium,Vitamin B,Spinach,9,1,1
+2024-03-03 19:52:33.470074,32,F,26.3,Citrus Fruits,Potassium,Sodium,Sweet Potatoes,6,1,0
+2024-08-24 19:52:33.470084,58,M,29.6,Bread/Pasta,Vitamin B12,,Eggs,8,1,1
+2024-01-21 19:52:33.470097,50,F,22.0,Sugary Foods,Vitamin B,Magnesium,Spinach,1,1,0
+2024-09-27 19:52:33.470108,25,M,31.2,Bread/Pasta,Vitamin C,Vitamin B,Sweet Potatoes,5,0,0
+2024-05-07 19:52:33.470119,65,F,27.5,Salty Foods,Iron,,Lentils,2,1,0
+2023-12-24 19:52:33.470131,48,F,29.3,Fatty Foods,Chromium,Vitamin C,Dark Chocolate,7,1,1
+2024-02-08 19:52:33.470144,73,F,31.8,Bread/Pasta,Calcium,Vitamin B,Kale,4,1,0
+2024-11-01 19:52:33.470157,38,F,30.4,Red Meat,Magnesium,Potassium,Avocado,1,1,0
+2024-08-08 19:52:33.470167,55,M,22.8,Salty Foods,Vitamin B,,Spinach,8,0,0
+2024-05-27 19:52:33.470180,45,F,25.0,Ice,Chromium,Potassium,Sweet Potatoes,7,0,0
+2024-11-01 19:52:33.470191,54,F,21.8,Chocolate,Vitamin C,Magnesium,Almonds,6,1,0
+2023-12-08 19:52:33.470203,74,M,18.6,Bread/Pasta,Iron,Vitamin C,Lentils,4,1,0
+2024-02-27 19:52:33.470215,36,M,20.9,Citrus Fruits,Vitamin C,Vitamin B12,Salmon,7,1,1
+2024-04-10 19:52:33.470226,74,M,33.9,Chocolate,Vitamin B12,Zinc,Eggs,2,1,0
+2024-06-11 19:52:33.470237,75,M,29.3,Fatty Foods,Vitamin C,Vitamin B12,Eggs,8,1,1
+2024-01-14 19:52:33.470248,65,M,22.4,Salty Foods,Vitamin B,,Spinach,10,1,1
+2024-10-03 19:52:33.470258,50,M,25.4,Sugary Foods,Calcium,,Greek Yogurt,7,1,1
+2024-09-16 19:52:33.470269,37,F,21.2,Chocolate,Vitamin C,Chromium,Oranges,10,1,1
+2024-11-15 19:52:33.470281,31,F,30.9,Bread/Pasta,Vitamin B12,Vitamin B,Spinach,5,0,0
+2024-05-06 19:52:33.470293,36,F,31.1,Ice,Magnesium,Calcium,Avocado,4,1,0
+2024-09-19 19:52:33.470304,31,F,21.7,Sugary Foods,Iron,Potassium,Quinoa,3,1,0
+2024-11-17 19:52:33.470316,52,F,34.2,Ice,Potassium,Zinc,Bananas,5,1,0
+2024-08-08 19:52:33.470328,72,F,20.0,Ice,Sodium,Vitamin C,Oranges,3,1,0
+2023-12-23 19:52:33.470340,33,M,26.8,Citrus Fruits,Magnesium,Potassium,Brazil Nuts,5,1,0
+2024-10-26 19:52:33.470352,35,F,24.8,Bread/Pasta,Vitamin B12,Potassium,Eggs,8,1,1
+2024-02-22 19:52:33.470364,33,M,25.0,Sugary Foods,Iron,Vitamin B,Oranges,6,1,0
+2024-05-25 19:52:33.470374,21,M,19.7,Ice,Potassium,,Sweet Potatoes,1,1,0
+2024-10-24 19:52:33.470386,38,F,28.2,Fatty Foods,Vitamin B12,Vitamin B,Spinach,7,0,0
+2024-05-04 19:52:33.470396,18,M,24.5,Red Meat,Sodium,,Lentils,2,1,0
+2023-12-01 19:52:33.470407,74,F,28.6,Chocolate,Vitamin B,Vitamin B12,Salmon,4,1,0
+2024-04-12 19:52:33.470418,42,M,29.9,Bread/Pasta,Vitamin C,Chromium,Sweet Potatoes,9,1,1
+2024-10-01 19:52:33.470430,65,F,18.9,Salty Foods,Iron,Sodium,Eggs,2,1,0
+2024-11-21 19:52:33.470440,45,F,29.2,Ice,Potassium,,Bananas,3,1,0
+2024-03-09 19:52:33.470451,22,M,23.2,Chocolate,Iron,Calcium,Kale,9,1,1
+2024-07-24 19:52:33.470462,46,M,25.7,Citrus Fruits,Iron,Sodium,Lentils,8,1,1
+2024-01-17 19:52:33.470473,22,F,29.8,Ice,Magnesium,Vitamin B12,Dark Chocolate,6,0,0
+2024-06-13 19:52:33.470485,53,F,33.3,Sugary Foods,Magnesium,Vitamin C,Spinach,5,1,0
+2024-08-14 19:52:33.470495,18,M,24.9,Fatty Foods,Vitamin B,,Spinach,5,0,0
+2024-04-04 19:52:33.470511,36,F,28.7,Fatty Foods,Zinc,Vitamin B12,Salmon,2,0,0
+2024-11-14 19:52:33.470521,60,F,30.5,Salty Foods,Chromium,,Oranges,10,1,1
+2024-09-20 19:52:33.470532,18,F,26.7,Citrus Fruits,Vitamin B12,Calcium,Eggs,9,1,1
+2024-09-28 19:52:33.470544,43,F,29.4,Sugary Foods,Vitamin B12,Zinc,Quinoa,7,1,1
+2024-08-06 19:52:33.470556,68,M,25.3,Sugary Foods,Iron,Vitamin B,Quinoa,8,1,1
+2024-11-18 19:52:33.470567,34,F,34.5,Bread/Pasta,Vitamin B,Vitamin C,Oranges,6,1,0
+2024-09-10 19:52:33.470579,48,M,24.2,Fatty Foods,Iron,Zinc,Lentils,7,1,1
+2024-04-01 19:52:33.470590,63,M,34.7,Red Meat,Chromium,Magnesium,Spinach,9,1,1
+2024-01-12 19:52:33.470601,57,M,32.5,Chocolate,Magnesium,,Bananas,1,1,0
+2023-11-30 19:52:33.470611,51,F,29.3,Fatty Foods,Sodium,,Bananas,1,1,0
+2024-10-05 19:52:33.470622,48,M,26.3,Ice,Iron,Magnesium,Eggs,3,1,0
+2024-02-04 19:52:33.470633,31,F,28.8,Citrus Fruits,Calcium,Sodium,Almonds,4,1,0
+2024-10-20 19:52:33.470645,43,F,19.4,Citrus Fruits,Chromium,Vitamin B12,Lentils,10,1,1
+2024-07-26 19:52:33.470656,50,F,20.4,Citrus Fruits,Sodium,Iron,Dark Chocolate,3,1,0
+2024-03-13 19:52:33.470666,70,F,27.0,Ice,Sodium,Vitamin C,Sweet Potatoes,6,0,0
+2024-01-09 19:52:33.470677,40,M,20.5,Red Meat,Iron,,Spinach,3,1,0
+2024-01-25 19:52:33.470688,30,M,21.7,Chocolate,Zinc,Iron,Quinoa,8,1,1
+2023-12-01 19:52:33.470699,74,F,27.8,Chocolate,Iron,Vitamin C,Sweet Potatoes,8,1,1
+2024-04-12 19:52:33.470710,64,F,26.8,Ice,Magnesium,,Almonds,7,1,1
+2024-02-01 19:52:33.470720,62,M,22.9,Citrus Fruits,Vitamin B,,Spinach,3,1,0
+2024-09-27 19:52:33.470732,57,M,21.4,Red Meat,Chromium,Magnesium,Sweet Potatoes,8,1,1
+2024-09-10 19:52:33.470744,42,F,18.7,Citrus Fruits,Vitamin C,Vitamin B12,Dark Chocolate,9,1,1
+2024-07-09 19:52:33.470755,61,M,34.5,Sugary Foods,Vitamin B,Zinc,Brazil Nuts,7,1,1
+2024-09-01 19:52:33.470767,30,M,34.2,Red Meat,Vitamin B,Potassium,Oranges,10,1,1
+2024-03-17 19:52:33.470779,27,M,28.4,Sugary Foods,Chromium,Potassium,Sweet Potatoes,5,1,0
+2024-08-29 19:52:33.470789,49,F,23.7,Red Meat,Calcium,,Greek Yogurt,8,1,1
+2024-04-02 19:52:33.470801,65,M,24.6,Sugary Foods,Sodium,Iron,Eggs,8,1,1
+2024-05-20 19:52:33.470813,53,F,21.0,Chocolate,Chromium,Magnesium,Dark Chocolate,3,1,0
+2023-12-21 19:52:33.470826,49,M,21.8,Citrus Fruits,Vitamin B12,Zinc,Brazil Nuts,9,0,0
+2024-02-24 19:52:33.470839,48,F,32.3,Bread/Pasta,Chromium,Zinc,Bananas,8,1,1
+2024-04-26 19:52:33.470851,67,F,25.3,Salty Foods,Vitamin B12,Magnesium,Eggs,8,0,0
+2024-11-07 19:52:33.470863,24,M,34.0,Bread/Pasta,Potassium,Magnesium,Bananas,7,1,1
+2024-11-06 19:52:33.470874,36,F,26.6,Salty Foods,Sodium,Calcium,Almonds,4,1,0
+2024-01-26 19:52:33.470886,43,F,34.8,Red Meat,Magnesium,Vitamin C,Quinoa,4,1,0
+2024-03-27 19:52:33.470897,32,F,28.0,Citrus Fruits,Zinc,Calcium,Almonds,6,1,0
+2024-06-04 19:52:33.470909,20,F,32.8,Fatty Foods,Vitamin B,Magnesium,Dark Chocolate,1,0,0
+2024-11-25 19:52:33.470921,61,F,31.0,Fatty Foods,Chromium,Zinc,Spinach,6,1,0
+2024-06-29 19:52:33.470932,19,F,25.5,Salty Foods,Potassium,,Sweet Potatoes,7,1,1
+2024-04-05 19:52:33.470943,34,M,19.2,Citrus Fruits,Vitamin B12,Potassium,Eggs,3,1,0
+2024-04-03 19:52:33.470953,34,M,28.7,Fatty Foods,Chromium,,Oranges,2,1,0
+2024-02-05 19:52:33.470964,67,F,28.1,Salty Foods,Iron,Vitamin B12,Salmon,5,1,0
+2024-10-30 19:52:33.470974,54,M,31.2,Red Meat,Vitamin B12,,Salmon,9,1,1
+2024-09-30 19:52:33.470985,58,M,34.2,Fatty Foods,Magnesium,Iron,Brazil Nuts,6,1,0
+2024-02-11 19:52:33.470996,36,F,31.7,Chocolate,Magnesium,Vitamin B12,Sweet Potatoes,3,0,0
+2024-10-02 19:52:33.471007,55,F,24.0,Sugary Foods,Magnesium,,Quinoa,7,0,0
+2024-07-25 19:52:33.471018,18,M,23.2,Citrus Fruits,Vitamin B,Zinc,Spinach,4,1,0
+2024-03-30 19:52:33.471031,20,M,24.2,Salty Foods,Vitamin B12,Vitamin B,Salmon,8,1,1
+2024-09-04 19:52:33.471042,59,F,22.7,Citrus Fruits,Zinc,Potassium,Oranges,10,1,1
+2024-03-06 19:52:33.471053,67,M,23.3,Salty Foods,Calcium,Iron,Quinoa,8,1,1
+2024-01-15 19:52:33.471064,18,F,30.2,Red Meat,Calcium,Chromium,Sardines,6,1,0
+2024-04-01 19:52:33.471074,71,M,22.1,Salty Foods,Vitamin B12,,Salmon,5,1,0
+2024-06-14 19:52:33.471086,46,M,32.4,Fatty Foods,Iron,Magnesium,Dark Chocolate,5,0,0
+2024-01-24 19:52:33.471096,52,M,26.5,Bread/Pasta,Iron,Sodium,Eggs,4,1,0
+2024-08-21 19:52:33.471111,18,F,26.6,Ice,Vitamin B,,Spinach,3,1,0
+2024-01-07 19:52:33.471122,45,M,30.4,Ice,Magnesium,Sodium,Bananas,9,1,1
+2023-12-31 19:52:33.471133,61,M,22.7,Citrus Fruits,Potassium,,Sweet Potatoes,4,1,0
+2024-03-24 19:52:33.471144,18,M,30.7,Citrus Fruits,Vitamin B,Chromium,Spinach,9,0,0
+2024-02-23 19:52:33.471157,74,F,21.7,Bread/Pasta,Iron,Vitamin B12,Lentils,4,1,0
+2024-07-06 19:52:33.471167,45,M,26.6,Chocolate,Vitamin C,,Oranges,9,1,1
+2024-02-14 19:52:33.471178,53,F,28.5,Ice,Iron,,Lentils,10,0,0
+2024-11-18 19:52:33.471190,62,F,26.1,Red Meat,Magnesium,Calcium,Bananas,10,0,0
+2024-11-02 19:52:33.471202,65,M,21.6,Fatty Foods,Potassium,Zinc,Avocado,10,1,1
+2023-12-12 19:52:33.471213,73,F,29.5,Ice,Vitamin B12,Vitamin C,Oranges,8,1,1
+2024-09-13 19:52:33.471223,42,M,28.2,Citrus Fruits,Sodium,,Sweet Potatoes,1,1,0
+2024-05-11 19:52:33.471235,22,M,28.6,Fatty Foods,Vitamin C,Iron,Sweet Potatoes,2,1,0
+2024-10-17 19:52:33.471247,39,M,27.5,Chocolate,Chromium,Sodium,Spinach,3,1,0
+2024-10-18 19:52:33.471258,45,M,24.5,Ice,Chromium,Zinc,Brazil Nuts,4,1,0
+2024-04-29 19:52:33.471269,59,M,34.6,Bread/Pasta,Potassium,Calcium,Avocado,7,1,1
+2024-02-27 19:52:33.471279,27,M,29.4,Red Meat,Zinc,,Brazil Nuts,8,1,1
+2024-02-22 19:52:33.471291,23,F,33.5,Chocolate,Sodium,Vitamin B,Spinach,5,1,0
+2024-01-27 19:52:33.471301,40,F,19.8,Ice,Vitamin B12,,Salmon,5,0,0
+2024-11-02 19:52:33.471313,74,M,26.6,Sugary Foods,Sodium,Iron,Lentils,9,1,1
+2024-01-24 19:52:33.471323,27,F,30.8,Chocolate,Calcium,,Sardines,10,1,1
+2024-01-18 19:52:33.471335,65,M,27.3,Bread/Pasta,Vitamin C,Magnesium,Bananas,7,0,0
+2023-12-30 19:52:33.471345,65,M,26.8,Citrus Fruits,Chromium,,Bananas,3,1,0
+2024-06-24 19:52:33.471356,29,F,21.6,Sugary Foods,Iron,Vitamin B,Lentils,6,0,0
+2024-11-25 19:52:33.471366,34,F,32.1,Sugary Foods,Zinc,,Brazil Nuts,9,0,0
+2024-05-08 19:52:33.471376,57,M,22.2,Salty Foods,Chromium,,Avocado,2,1,0
+2024-08-02 19:52:33.471388,24,M,32.1,Sugary Foods,Magnesium,Iron,Almonds,5,1,0
+2024-01-13 19:52:33.471406,47,M,25.0,Chocolate,Magnesium,,Spinach,6,1,0
+2024-06-23 19:52:33.471418,75,M,31.2,Bread/Pasta,Calcium,Iron,Lentils,1,1,0
+2024-08-20 19:52:33.471428,58,M,20.3,Salty Foods,Potassium,,Bananas,2,1,0
+2024-11-11 19:52:33.471439,27,F,22.8,Fatty Foods,Iron,Calcium,Lentils,3,1,0
+2024-08-15 19:52:33.471449,57,M,27.4,Fatty Foods,Zinc,,Brazil Nuts,7,0,0
+2024-06-10 19:52:33.471461,33,M,18.8,Citrus Fruits,Sodium,Iron,Kale,10,0,0
+2024-02-24 19:52:33.471475,59,M,28.2,Fatty Foods,Vitamin B12,Chromium,Salmon,10,0,0
+2024-10-31 19:52:33.471486,69,M,31.2,Bread/Pasta,Vitamin B,Zinc,Brazil Nuts,3,1,0
+2023-12-01 19:52:33.471497,34,F,26.1,Citrus Fruits,Zinc,Vitamin B,Brazil Nuts,9,0,0
+2024-08-05 19:52:33.471510,39,M,32.2,Fatty Foods,Vitamin B12,Vitamin C,Eggs,3,1,0
+2024-05-31 19:52:33.471521,20,F,24.6,Red Meat,Potassium,Chromium,Oranges,1,1,0
+2024-08-16 19:52:33.471531,26,F,25.9,Ice,Vitamin B,,Spinach,4,0,0
+2023-12-06 19:52:33.471543,53,M,22.0,Chocolate,Iron,Potassium,Avocado,2,1,0
+2024-03-17 19:52:33.471555,59,F,19.9,Citrus Fruits,Iron,Vitamin B,Quinoa,6,1,0
+2024-03-02 19:52:33.471567,69,M,31.0,Bread/Pasta,Potassium,Iron,Kale,10,1,1
+2024-08-13 19:52:33.471579,54,M,34.7,Fatty Foods,Sodium,Vitamin C,Sweet Potatoes,2,1,0
+2024-10-06 19:52:33.471593,39,M,28.3,Ice,Potassium,Vitamin B,Spinach,2,1,0
+2024-06-14 19:52:33.471605,47,F,30.9,Salty Foods,Calcium,Magnesium,Spinach,7,1,1
+2024-07-04 19:52:33.471617,56,F,29.5,Ice,Magnesium,Calcium,Spinach,3,0,0
+2024-06-04 19:52:33.471627,22,F,23.5,Sugary Foods,Zinc,,Brazil Nuts,10,1,1
+2024-05-19 19:52:33.471639,71,F,32.7,Sugary Foods,Vitamin B,Vitamin C,Sweet Potatoes,4,0,0
+2023-12-05 19:52:33.471649,68,F,22.4,Fatty Foods,Vitamin B12,,Eggs,5,0,0
+2024-05-09 19:52:33.471661,53,F,25.4,Bread/Pasta,Calcium,Zinc,Kale,7,1,1
+2023-12-07 19:52:33.471671,62,M,31.4,Salty Foods,Zinc,,Brazil Nuts,10,1,1
+2024-04-20 19:52:33.471681,34,M,21.8,Chocolate,Potassium,,Oranges,2,1,0
+2024-08-14 19:52:33.471703,36,M,28.9,Salty Foods,Vitamin C,Chromium,Oranges,4,1,0
+2024-05-29 19:52:33.471714,51,M,26.3,Citrus Fruits,Chromium,Vitamin B12,Salmon,9,0,0
+2024-04-30 19:52:33.471726,42,M,18.7,Ice,Chromium,Vitamin C,Oranges,5,1,0
+2024-03-28 19:52:33.471737,61,M,32.0,Citrus Fruits,Magnesium,Vitamin B12,Bananas,3,1,0
+2024-01-12 19:52:33.471747,50,M,21.9,Chocolate,Potassium,,Sweet Potatoes,10,1,1
+2024-09-19 19:52:33.471759,67,F,29.6,Bread/Pasta,Chromium,Vitamin B12,Lentils,5,1,0
+2024-05-03 19:52:33.471770,66,F,28.9,Citrus Fruits,Chromium,Zinc,Brazil Nuts,10,1,1
+2024-01-24 19:52:33.471781,42,F,24.2,Red Meat,Calcium,Sodium,Greek Yogurt,8,1,1
+2024-11-11 19:52:33.471791,70,F,28.9,Bread/Pasta,Iron,,Kale,8,1,1
+2024-02-28 19:52:33.471803,45,F,28.3,Ice,Magnesium,,Quinoa,7,0,0
+2024-09-24 19:52:33.471815,19,F,25.0,Ice,Zinc,Magnesium,Spinach,5,1,0
+2024-03-07 19:52:33.471826,32,F,22.3,Citrus Fruits,Calcium,Zinc,Brazil Nuts,5,1,0
+2024-10-20 19:52:33.471838,57,F,23.6,Red Meat,Potassium,Vitamin B,Sweet Potatoes,1,1,0
+2024-06-28 19:52:33.471850,44,M,29.5,Sugary Foods,Potassium,Sodium,Bananas,1,1,0
+2024-02-14 19:52:33.471861,30,F,32.5,Sugary Foods,Vitamin B12,Chromium,Eggs,3,1,0
+2024-07-05 19:52:33.471873,41,F,28.3,Red Meat,Vitamin B12,Vitamin C,Quinoa,7,1,1
+2024-09-13 19:52:33.471884,75,F,30.0,Citrus Fruits,Vitamin B,Sodium,Spinach,2,0,0
+2024-06-08 19:52:33.471896,62,F,27.1,Bread/Pasta,Vitamin C,Magnesium,Bananas,10,0,0
+2023-12-22 19:52:33.471908,27,M,20.3,Bread/Pasta,Potassium,Sodium,Kale,5,1,0
+2024-10-29 19:52:33.471920,47,F,28.1,Bread/Pasta,Vitamin B12,Zinc,Eggs,2,1,0
+2024-08-13 19:52:33.471931,23,F,23.1,Bread/Pasta,Sodium,Zinc,Brazil Nuts,2,1,0
+2024-04-04 19:52:33.471943,22,M,32.1,Bread/Pasta,Vitamin C,Vitamin B12,Eggs,10,1,1
+2024-07-06 19:52:33.471953,46,F,21.1,Bread/Pasta,Magnesium,Chromium,Spinach,8,0,0
+2024-01-22 19:52:33.471964,48,F,18.6,Sugary Foods,Calcium,Chromium,Sardines,9,0,0
+2024-02-17 19:52:33.471975,32,F,33.9,Red Meat,Calcium,,Almonds,6,1,0
+2024-01-06 19:52:33.471986,71,F,31.7,Ice,Vitamin C,Zinc,Brazil Nuts,1,0,0
+2024-04-06 19:52:33.471998,49,F,19.7,Ice,Vitamin B12,Vitamin C,Eggs,6,0,0
+2024-01-24 19:52:33.472008,63,M,28.9,Salty Foods,Potassium,,Avocado,9,0,0
+2024-02-10 19:52:33.472018,62,M,24.6,Fatty Foods,Vitamin B,,Spinach,9,0,0
+2023-11-27 19:52:33.472030,66,M,23.1,Ice,Magnesium,Vitamin B,Brazil Nuts,4,1,0
+2024-01-23 19:52:33.472041,26,F,23.4,Salty Foods,Vitamin B,Iron,Quinoa,2,1,0
+2024-07-02 19:52:33.472052,47,F,33.2,Chocolate,Iron,,Quinoa,1,1,0
+2024-04-04 19:52:33.472062,48,M,30.0,Fatty Foods,Iron,,Kale,7,1,1
+2024-08-11 19:52:33.472075,50,F,20.2,Ice,Vitamin C,Sodium,Sweet Potatoes,2,0,0
+2023-12-30 19:52:33.472085,65,M,34.8,Bread/Pasta,Vitamin B12,,Salmon,1,1,0
+2024-04-08 19:52:33.472095,21,M,34.7,Citrus Fruits,Iron,,Spinach,6,1,0
+2024-08-14 19:52:33.472106,71,M,19.3,Salty Foods,Iron,Sodium,Dark Chocolate,9,1,1
+2024-09-01 19:52:33.472117,25,F,23.7,Red Meat,Magnesium,Vitamin B,Spinach,9,1,1
+2024-05-02 19:52:33.472129,67,F,24.0,Salty Foods,Potassium,Vitamin B,Spinach,1,0,0
+2024-08-26 19:52:33.472141,63,M,31.1,Fatty Foods,Sodium,Magnesium,Almonds,9,0,0
+2024-01-08 19:52:33.472152,25,M,32.4,Fatty Foods,Iron,Chromium,Eggs,9,1,1
+2024-04-03 19:52:33.472164,64,F,28.0,Citrus Fruits,Iron,Zinc,Bananas,7,1,1
+2024-03-25 19:52:33.472175,43,M,31.6,Sugary Foods,Calcium,,Greek Yogurt,1,1,0
+2024-05-13 19:52:33.472187,18,M,28.0,Sugary Foods,Chromium,Iron,Lentils,1,1,0
+2024-05-14 19:52:33.472199,75,M,30.9,Citrus Fruits,Sodium,Vitamin C,Oranges,2,1,0
+2024-04-22 19:52:33.472209,71,M,33.8,Bread/Pasta,Vitamin B12,Sodium,Eggs,2,1,0
+2024-11-06 19:52:33.472221,51,M,22.7,Ice,Vitamin C,Calcium,Kale,3,1,0
+2024-07-11 19:52:33.472233,65,M,20.0,Chocolate,Calcium,Potassium,Greek Yogurt,1,0,0
+2023-12-17 19:52:33.472244,62,F,32.3,Salty Foods,Magnesium,Vitamin C,Almonds,4,1,0
+2024-09-16 19:52:33.472256,65,F,27.2,Sugary Foods,Iron,Zinc,Lentils,6,1,0
+2024-01-07 19:52:33.472267,43,M,27.7,Bread/Pasta,Magnesium,Vitamin C,Spinach,10,1,1
+2024-04-11 19:52:33.472278,46,M,33.8,Fatty Foods,Iron,Vitamin C,Quinoa,5,0,0
+2024-07-08 19:52:33.472289,24,F,25.1,Ice,Zinc,Calcium,Greek Yogurt,1,1,0
+2024-03-15 19:52:33.472300,22,F,28.6,Salty Foods,Magnesium,,Brazil Nuts,5,0,0
+2024-06-05 19:52:33.472310,22,F,28.2,Chocolate,Magnesium,,Sweet Potatoes,10,1,1
+2023-12-15 19:52:33.472320,70,M,20.3,Chocolate,Vitamin B12,,Eggs,4,0,0
+2024-08-05 19:52:33.472332,56,F,33.3,Red Meat,Calcium,Iron,Greek Yogurt,1,0,0
+2024-09-25 19:52:33.472344,34,F,18.5,Salty Foods,Chromium,Potassium,Avocado,4,1,0
+2024-06-27 19:52:33.472354,58,F,25.7,Ice,Vitamin B,,Spinach,1,1,0
+2024-04-22 19:52:33.472364,65,F,34.0,Salty Foods,Magnesium,,Spinach,3,1,0
+2024-09-05 19:52:33.472376,32,F,35.0,Citrus Fruits,Chromium,Vitamin C,Quinoa,3,1,0
+2024-04-26 19:52:33.472387,34,M,32.5,Red Meat,Sodium,Vitamin B12,Eggs,9,1,1
+2024-06-08 19:52:33.472399,65,F,20.8,Citrus Fruits,Zinc,Iron,Kale,4,0,0
+2023-12-20 19:52:33.472410,52,F,21.9,Fatty Foods,Vitamin B,Potassium,Oranges,10,1,1
+2024-10-08 19:52:33.472420,75,M,30.3,Red Meat,Chromium,,Brazil Nuts,2,1,0
+2024-07-25 19:52:33.472431,64,F,30.2,Sugary Foods,Vitamin C,,Sweet Potatoes,7,1,1
+2024-05-02 19:52:33.472445,23,F,31.7,Sugary Foods,Magnesium,,Spinach,7,1,1
+2024-06-14 19:52:33.472456,23,M,28.9,Fatty Foods,Calcium,Vitamin C,Kale,9,1,1
+2024-06-25 19:52:33.472466,61,F,34.4,Citrus Fruits,Vitamin B12,,Eggs,6,1,0
+2024-06-08 19:52:33.472476,32,F,22.4,Bread/Pasta,Iron,,Dark Chocolate,2,1,0
+2024-11-19 19:52:33.472489,23,F,30.2,Chocolate,Sodium,Vitamin B,Eggs,2,1,0
+2024-11-23 19:52:33.472500,60,M,24.8,Bread/Pasta,Chromium,Vitamin B12,Salmon,5,0,0
+2024-05-08 19:52:33.472513,44,F,29.7,Red Meat,Vitamin C,Zinc,Avocado,2,1,0
+2024-05-03 19:52:33.472525,23,M,24.9,Bread/Pasta,Calcium,Vitamin B12,Greek Yogurt,10,1,1
+2024-07-19 19:52:33.472537,65,F,20.3,Fatty Foods,Iron,,Dark Chocolate,2,1,0
+2023-12-30 19:52:33.472549,66,M,24.1,Citrus Fruits,Sodium,Potassium,Sweet Potatoes,1,1,0
+2024-07-02 19:52:33.472562,33,F,23.1,Bread/Pasta,Sodium,Magnesium,Quinoa,7,1,1
+2024-07-01 19:52:33.472576,57,F,35.0,Fatty Foods,Vitamin B,Calcium,Sardines,6,1,0
+2024-11-19 19:52:33.472589,54,F,22.1,Salty Foods,Vitamin C,Magnesium,Spinach,9,1,1
+2024-05-25 19:52:33.472600,72,F,19.4,Fatty Foods,Iron,Vitamin C,Spinach,2,0,0
+2023-12-20 19:52:33.472611,29,F,31.6,Sugary Foods,Calcium,,Sardines,3,1,0
+2024-10-31 19:52:33.472622,73,M,31.0,Fatty Foods,Magnesium,,Sweet Potatoes,9,1,1
+2024-11-02 19:52:33.472634,66,M,20.1,Ice,Vitamin B12,Iron,Quinoa,2,0,0
+2024-09-14 19:52:33.472645,26,M,29.8,Bread/Pasta,Vitamin C,,Sweet Potatoes,6,1,0
+2024-04-20 19:52:33.472655,18,M,23.6,Sugary Foods,Zinc,,Brazil Nuts,8,1,1
+2024-01-21 19:52:33.472667,22,M,20.5,Chocolate,Sodium,Chromium,Spinach,7,0,0
+2024-06-16 19:52:33.472679,33,M,31.4,Sugary Foods,Vitamin B,Vitamin C,Sweet Potatoes,10,1,1
+2024-10-03 19:52:33.472692,38,F,30.1,Chocolate,Chromium,Zinc,Quinoa,2,1,0
+2024-03-09 19:52:33.472703,42,M,34.8,Ice,Potassium,Chromium,Avocado,5,1,0
+2024-10-30 19:52:33.472714,48,M,33.4,Bread/Pasta,Sodium,Vitamin C,Oranges,1,1,0
+2024-09-11 19:52:33.472727,35,F,26.5,Fatty Foods,Vitamin B12,Calcium,Oranges,9,1,1
+2024-03-09 19:52:33.472738,50,F,26.2,Fatty Foods,Calcium,,Almonds,2,1,0
+2024-03-21 19:52:33.472756,66,M,32.7,Sugary Foods,Vitamin C,Vitamin B,Sweet Potatoes,4,1,0
+2024-02-13 19:52:33.472768,73,F,28.3,Bread/Pasta,Vitamin B,,Spinach,7,0,0
+2024-09-02 19:52:33.472779,43,M,19.3,Ice,Vitamin B,,Spinach,6,1,0
+2024-02-01 19:52:33.472791,57,F,24.8,Bread/Pasta,Vitamin B12,,Eggs,4,1,0
+2023-12-30 19:52:33.472802,56,M,22.1,Chocolate,Potassium,,Sweet Potatoes,1,1,0
+2024-06-14 19:52:33.472814,64,M,18.8,Fatty Foods,Vitamin C,Zinc,Sweet Potatoes,10,0,0
+2024-09-25 19:52:33.472825,32,F,34.1,Fatty Foods,Vitamin B12,Chromium,Eggs,3,1,0
+2024-02-21 19:52:33.472838,63,F,27.1,Ice,Sodium,Vitamin B,Spinach,9,1,1
+2024-11-23 19:52:33.472849,75,F,20.2,Chocolate,Calcium,Vitamin B,Almonds,6,0,0
+2024-05-13 19:52:33.472862,56,F,31.7,Ice,Vitamin C,Vitamin B,Quinoa,9,1,1
+2024-11-20 19:52:33.472873,23,F,29.5,Chocolate,Zinc,Iron,Brazil Nuts,1,1,0
+2024-06-24 19:52:33.472884,42,F,20.6,Salty Foods,Vitamin B,Iron,Lentils,3,1,0
+2024-08-18 19:52:33.472894,69,M,28.9,Salty Foods,Sodium,Calcium,Greek Yogurt,3,1,0
+2024-04-02 19:52:33.472904,60,F,24.4,Fatty Foods,Zinc,,Brazil Nuts,4,1,0
+2024-08-02 19:52:33.472916,71,M,19.9,Sugary Foods,Chromium,Magnesium,Sweet Potatoes,1,1,0
+2024-01-12 19:52:33.472926,58,F,23.6,Sugary Foods,Chromium,,Salmon,5,1,0
+2024-03-31 19:52:33.472936,26,F,27.2,Sugary Foods,Iron,,Quinoa,6,1,0
+2024-02-04 19:52:33.472947,41,M,27.8,Ice,Vitamin B12,Sodium,Salmon,6,1,0
+2024-04-14 19:52:33.472958,65,F,33.2,Sugary Foods,Vitamin B12,Vitamin C,Salmon,9,0,0
+2024-05-22 19:52:33.472969,72,M,21.9,Red Meat,Magnesium,,Spinach,5,1,0
+2024-07-20 19:52:33.472979,34,F,33.9,Salty Foods,Iron,,Dark Chocolate,5,1,0
+2024-05-17 19:52:33.472991,65,M,22.1,Red Meat,Iron,Chromium,Quinoa,10,1,1
+2023-11-27 19:52:33.473003,31,F,21.1,Salty Foods,Sodium,Zinc,Sweet Potatoes,2,0,0
+2024-07-29 19:52:33.473014,25,F,31.2,Fatty Foods,Magnesium,,Sweet Potatoes,9,1,1
+2024-03-23 19:52:33.473026,57,M,25.6,Chocolate,Magnesium,Vitamin C,Bananas,3,1,0
+2024-10-12 19:52:33.473037,29,M,21.9,Citrus Fruits,Iron,Calcium,Almonds,4,1,0
+2024-08-28 19:52:33.473047,62,F,21.1,Citrus Fruits,Potassium,,Sweet Potatoes,9,1,1
+2024-03-06 19:52:33.473059,52,F,25.8,Bread/Pasta,Vitamin B,Calcium,Sardines,5,1,0
+2024-06-14 19:52:33.473070,53,M,27.3,Chocolate,Sodium,Iron,Eggs,6,1,0
+2024-11-14 19:52:33.473082,55,F,28.7,Ice,Vitamin B,Vitamin B12,Spinach,4,1,0
+2024-05-31 19:52:33.473094,19,M,29.1,Sugary Foods,Calcium,Iron,Almonds,8,0,0
+2024-03-21 19:52:33.473107,27,F,23.0,Sugary Foods,Sodium,Calcium,Greek Yogurt,1,1,0
+2024-08-31 19:52:33.473119,40,F,33.2,Citrus Fruits,Vitamin C,Vitamin B12,Salmon,4,0,0
+2024-05-13 19:52:33.473131,29,F,30.2,Salty Foods,Magnesium,Zinc,Brazil Nuts,8,1,1
+2024-01-22 19:52:33.473142,28,M,18.5,Salty Foods,Calcium,Magnesium,Quinoa,8,1,1
+2024-03-09 19:52:33.473153,37,F,23.7,Citrus Fruits,Potassium,,Avocado,9,1,1
+2024-09-29 19:52:33.473164,54,F,20.1,Ice,Vitamin B,Vitamin B12,Eggs,9,0,0
+2024-06-16 19:52:33.473175,36,F,24.1,Chocolate,Iron,Zinc,Eggs,2,0,0
+2024-05-31 19:52:33.473186,71,F,23.3,Chocolate,Vitamin B,Iron,Lentils,9,1,1
+2024-02-04 19:52:33.473197,40,M,20.7,Chocolate,Zinc,Vitamin B,Spinach,6,1,0
+2024-05-06 19:52:33.473208,28,F,24.1,Citrus Fruits,Iron,Zinc,Kale,10,1,1
+2024-01-21 19:52:33.473218,39,M,23.8,Fatty Foods,Vitamin B12,,Eggs,4,1,0
+2024-03-24 19:52:33.473230,73,M,28.7,Salty Foods,Potassium,Sodium,Bananas,4,1,0
+2024-07-15 19:52:33.473241,39,M,19.0,Red Meat,Vitamin B,Vitamin B12,Spinach,1,1,0
+2024-11-19 19:52:33.473251,51,F,20.6,Salty Foods,Calcium,,Greek Yogurt,6,1,0
+2024-09-13 19:52:33.473262,24,M,21.9,Bread/Pasta,Vitamin C,Calcium,Sweet Potatoes,8,0,0
+2024-09-10 19:52:33.473274,73,F,29.4,Chocolate,Iron,Chromium,Almonds,5,0,0
+2024-07-20 19:52:33.473286,62,M,24.0,Chocolate,Calcium,Magnesium,Bananas,1,1,0
+2024-09-17 19:52:33.473297,48,F,20.9,Chocolate,Magnesium,Sodium,Bananas,4,0,0
+2024-07-14 19:52:33.473307,27,F,25.1,Sugary Foods,Chromium,,Avocado,8,1,1
+2024-09-16 19:52:33.473317,50,F,21.6,Chocolate,Iron,,Quinoa,6,1,0
+2024-07-13 19:52:33.473328,34,M,31.8,Chocolate,Magnesium,,Brazil Nuts,3,1,0
+2024-08-25 19:52:33.473338,38,F,22.8,Bread/Pasta,Calcium,,Almonds,1,0,0
+2024-08-08 19:52:33.473350,28,F,22.5,Bread/Pasta,Vitamin C,Potassium,Bananas,7,1,1
+2023-12-20 19:52:33.473360,56,F,24.4,Ice,Sodium,,Dark Chocolate,3,1,0
+2024-03-15 19:52:33.473372,54,M,19.9,Citrus Fruits,Calcium,Zinc,Almonds,7,1,1
+2024-05-21 19:52:33.473383,32,M,19.3,Fatty Foods,Vitamin B12,Potassium,Oranges,5,1,0
+2024-08-03 19:52:33.473395,35,M,21.2,Bread/Pasta,Iron,Calcium,Almonds,1,0,0
+2024-06-01 19:52:33.473407,36,M,33.5,Bread/Pasta,Iron,Zinc,Bananas,10,1,1
+2023-12-06 19:52:33.473418,21,M,32.2,Ice,Iron,Vitamin C,Quinoa,5,0,0
+2024-09-15 19:52:33.473429,37,M,31.2,Salty Foods,Chromium,,Quinoa,6,0,0
+2023-12-28 19:52:33.473441,68,M,29.8,Salty Foods,Iron,Vitamin C,Kale,3,1,0
+2024-10-31 19:52:33.473453,46,F,25.4,Chocolate,Calcium,Iron,Quinoa,2,0,0
+2024-02-18 19:52:33.473463,22,F,27.0,Bread/Pasta,Chromium,,Brazil Nuts,3,1,0
+2024-09-01 19:52:33.473475,65,F,27.4,Chocolate,Vitamin B12,Sodium,Salmon,6,1,0
+2024-02-17 19:52:33.473486,68,F,23.0,Fatty Foods,Sodium,Zinc,Brazil Nuts,6,1,0
+2024-02-03 19:52:33.473498,47,M,18.9,Citrus Fruits,Vitamin B,Chromium,Spinach,6,0,0
+2024-01-11 19:52:33.473513,47,F,29.7,Bread/Pasta,Zinc,Potassium,Oranges,7,1,1
+2024-05-27 19:52:33.473524,24,F,31.4,Sugary Foods,Vitamin B,Zinc,Brazil Nuts,2,1,0
+2024-07-11 19:52:33.473535,27,F,32.0,Chocolate,Vitamin C,Sodium,Oranges,1,1,0
+2024-03-26 19:52:33.473545,24,F,32.0,Chocolate,Vitamin B12,Vitamin C,Oranges,6,0,0
+2024-06-13 19:52:33.473557,59,F,25.9,Sugary Foods,Sodium,Vitamin B12,Eggs,1,0,0
+2024-05-15 19:52:33.473568,29,F,34.2,Salty Foods,Iron,Zinc,Spinach,2,1,0
+2024-10-07 19:52:33.473578,53,F,21.7,Chocolate,Potassium,,Bananas,8,1,1
+2024-02-07 19:52:33.473589,33,M,33.0,Bread/Pasta,Vitamin B12,,Eggs,4,1,0
+2024-09-16 19:52:33.473600,52,F,33.2,Red Meat,Iron,Sodium,Lentils,3,1,0
+2023-12-27 19:52:33.473610,42,F,27.3,Chocolate,Vitamin C,,Oranges,4,0,0
+2023-12-07 19:52:33.473622,48,M,29.7,Citrus Fruits,Chromium,Vitamin C,Sweet Potatoes,4,1,0
+2024-11-06 19:52:33.473633,69,F,27.6,Bread/Pasta,Vitamin C,Vitamin B,Sweet Potatoes,9,1,1
+2023-12-24 19:52:33.473644,52,F,34.1,Bread/Pasta,Sodium,Iron,Kale,3,1,0
+2024-04-16 19:52:33.473654,58,F,31.4,Chocolate,Iron,,Dark Chocolate,10,1,1
+2024-04-23 19:52:33.473665,69,M,30.1,Citrus Fruits,Magnesium,Vitamin B12,Quinoa,7,1,1
+2024-07-28 19:52:33.473676,33,M,26.7,Sugary Foods,Zinc,Sodium,Brazil Nuts,6,1,0
+2024-09-05 19:52:33.473687,51,M,27.4,Citrus Fruits,Chromium,Potassium,Sweet Potatoes,1,1,0
+2024-03-21 19:52:33.473698,60,M,29.9,Salty Foods,Vitamin C,,Oranges,3,1,0
+2024-03-28 19:52:33.473708,65,F,27.1,Ice,Potassium,,Avocado,7,0,0
+2024-03-21 19:52:33.473720,69,M,29.2,Bread/Pasta,Iron,,Dark Chocolate,4,1,0
+2023-12-02 19:52:33.473732,27,M,28.1,Sugary Foods,Potassium,Chromium,Bananas,3,1,0
+2024-01-02 19:52:33.473746,42,M,18.8,Sugary Foods,Chromium,Vitamin B,Bananas,4,1,0
+2024-07-16 19:52:33.473758,47,F,22.8,Ice,Vitamin C,Sodium,Sweet Potatoes,3,1,0
+2024-10-03 19:52:33.473770,60,M,27.3,Bread/Pasta,Potassium,Calcium,Greek Yogurt,9,1,1
+2024-10-11 19:52:33.473782,63,F,19.8,Salty Foods,Potassium,Vitamin B,Oranges,9,0,0
+2024-08-18 19:52:33.473792,54,M,29.3,Salty Foods,Sodium,,Sardines,4,1,0
+2024-09-16 19:52:33.473803,75,F,24.5,Sugary Foods,Calcium,,Greek Yogurt,7,1,1
+2024-11-25 19:52:33.473814,26,M,25.3,Fatty Foods,Vitamin B,Vitamin B12,Eggs,2,1,0
+2024-10-21 19:52:33.473826,42,M,22.0,Citrus Fruits,Vitamin C,Iron,Spinach,5,1,0
+2024-03-15 19:52:33.473836,54,F,19.1,Chocolate,Chromium,,Oranges,9,1,1
+2024-09-28 19:52:33.473847,69,F,20.0,Sugary Foods,Iron,Chromium,Kale,2,1,0
+2024-04-27 19:52:33.473858,40,M,32.0,Bread/Pasta,Sodium,Vitamin C,Sweet Potatoes,6,0,0
+2024-08-25 19:52:33.473871,28,M,31.9,Ice,Sodium,Chromium,Kale,8,1,1
+2024-04-30 19:52:33.473883,46,F,22.5,Fatty Foods,Chromium,Vitamin B,Lentils,10,1,1
+2024-09-29 19:52:33.473894,28,F,21.3,Bread/Pasta,Vitamin C,Vitamin B12,Oranges,3,1,0
+2023-12-25 19:52:33.473905,25,M,21.1,Fatty Foods,Iron,Potassium,Kale,8,0,0
+2024-03-25 19:52:33.473917,34,M,30.9,Citrus Fruits,Sodium,Vitamin B,Spinach,1,1,0
+2024-05-01 19:52:33.473927,42,M,21.4,Salty Foods,Vitamin C,,Oranges,4,1,0
+2024-09-29 19:52:33.473939,44,F,20.0,Citrus Fruits,Sodium,Iron,Dark Chocolate,10,0,0
+2024-06-09 19:52:33.473949,58,F,33.3,Ice,Vitamin B12,,Eggs,7,1,1
+2024-02-13 19:52:33.473959,42,M,25.3,Chocolate,Vitamin B12,,Salmon,3,1,0
+2024-11-19 19:52:33.473969,35,F,22.3,Sugary Foods,Zinc,,Brazil Nuts,5,1,0
+2024-10-23 19:52:33.473981,21,F,20.8,Sugary Foods,Potassium,Zinc,Sweet Potatoes,2,1,0
+2024-10-22 19:52:33.473992,31,M,23.6,Bread/Pasta,Magnesium,Vitamin C,Sweet Potatoes,5,0,0
+2024-05-08 19:52:33.474003,70,F,34.9,Chocolate,Vitamin C,Zinc,Sweet Potatoes,2,1,0
+2024-08-14 19:52:33.474013,71,M,30.7,Red Meat,Potassium,,Oranges,3,1,0
+2024-06-07 19:52:33.474024,25,M,25.9,Chocolate,Vitamin B,Magnesium,Spinach,7,1,1
+2024-04-08 19:52:33.474036,44,F,29.3,Ice,Sodium,Vitamin B,Spinach,5,0,0
+2024-10-30 19:52:33.474045,69,M,21.2,Bread/Pasta,Chromium,,Sweet Potatoes,8,1,1
+2023-12-04 19:52:33.474057,68,M,22.2,Fatty Foods,Sodium,Vitamin B,Spinach,2,1,0
+2024-08-12 19:52:33.474069,42,M,33.5,Sugary Foods,Calcium,Vitamin C,Sardines,2,1,0
+2024-06-11 19:52:33.474081,59,M,24.3,Sugary Foods,Vitamin B12,Potassium,Eggs,2,1,0
+2024-06-06 19:52:33.474093,21,F,31.1,Fatty Foods,Potassium,Iron,Kale,10,1,1
+2024-05-06 19:52:33.474104,20,F,28.8,Citrus Fruits,Zinc,Vitamin C,Oranges,7,1,1
+2024-07-20 19:52:33.474115,28,F,19.6,Fatty Foods,Zinc,Vitamin B,Brazil Nuts,7,1,1
+2024-02-04 19:52:33.474127,63,M,23.6,Red Meat,Calcium,Potassium,Sardines,3,0,0
+2024-01-25 19:52:33.474137,19,F,28.5,Chocolate,Vitamin B,,Spinach,10,0,0
+2024-08-29 19:52:33.474148,25,F,30.7,Fatty Foods,Zinc,Potassium,Avocado,3,0,0
+2024-06-09 19:52:33.474158,28,F,31.6,Salty Foods,Iron,,Lentils,10,1,1
+2024-06-24 19:52:33.474170,43,M,26.6,Bread/Pasta,Iron,Vitamin B,Quinoa,9,1,1
+2024-05-22 19:52:33.474182,66,F,23.1,Red Meat,Sodium,Iron,Eggs,1,1,0
+2024-08-04 19:52:33.474194,18,F,27.8,Fatty Foods,Sodium,Zinc,Spinach,3,1,0
+2024-07-19 19:52:33.474206,28,M,32.2,Chocolate,Calcium,Vitamin B,Sardines,1,1,0
+2023-12-18 19:52:33.474217,62,F,26.2,Bread/Pasta,Zinc,Vitamin C,Brazil Nuts,4,0,0
+2024-06-12 19:52:33.474229,40,M,31.4,Ice,Zinc,Iron,Brazil Nuts,2,1,0
+2024-03-12 19:52:33.474240,45,F,19.1,Salty Foods,Zinc,Chromium,Brazil Nuts,1,1,0
+2024-04-25 19:52:33.474250,32,M,22.0,Chocolate,Vitamin C,,Oranges,9,1,1
+2024-01-17 19:52:33.474260,39,M,23.8,Sugary Foods,Vitamin B,,Spinach,6,0,0
+2024-06-18 19:52:33.474272,45,M,24.5,Fatty Foods,Potassium,Vitamin C,Sweet Potatoes,7,0,0
+2024-08-30 19:52:33.474284,28,M,31.3,Sugary Foods,Chromium,Magnesium,Quinoa,5,1,0
+2024-05-22 19:52:33.474294,65,F,25.2,Chocolate,Calcium,Chromium,Kale,8,1,1
+2024-01-10 19:52:33.474304,53,M,31.7,Red Meat,Vitamin B,,Spinach,3,0,0
+2023-12-26 19:52:33.474316,31,F,33.9,Salty Foods,Iron,Calcium,Eggs,2,1,0
+2024-09-16 19:52:33.474326,26,M,33.6,Salty Foods,Calcium,,Sardines,4,0,0
+2024-02-21 19:52:33.474339,31,M,25.1,Red Meat,Vitamin C,Zinc,Brazil Nuts,9,1,1
+2023-12-12 19:52:33.474349,36,F,21.0,Citrus Fruits,Vitamin B12,,Eggs,4,1,0
+2023-12-12 19:52:33.474359,52,M,24.3,Sugary Foods,Calcium,,Sardines,6,0,0
+2024-08-01 19:52:33.474369,58,F,31.5,Ice,Iron,,Lentils,7,1,1
+2024-01-17 19:52:33.474399,68,M,19.2,Salty Foods,Zinc,,Brazil Nuts,8,1,1
+2023-12-20 19:52:33.474412,47,F,24.6,Ice,Calcium,Potassium,Bananas,6,1,0
+2024-04-02 19:52:33.474423,18,M,22.1,Fatty Foods,Sodium,Vitamin B,Spinach,7,0,0
+2024-01-28 19:52:33.474433,62,F,24.5,Fatty Foods,Zinc,,Brazil Nuts,7,0,0
+2023-12-01 19:52:33.474446,36,M,31.2,Chocolate,Iron,Vitamin B12,Dark Chocolate,6,1,0
+2024-09-01 19:52:33.474457,56,F,25.0,Citrus Fruits,Magnesium,,Brazil Nuts,6,1,0
+2023-12-09 19:52:33.474468,48,M,27.7,Citrus Fruits,Iron,,Kale,1,1,0
+2024-06-15 19:52:33.474479,29,M,31.4,Sugary Foods,Zinc,Calcium,Brazil Nuts,1,0,0
+2024-02-07 19:52:33.474490,52,M,29.0,Chocolate,Magnesium,Vitamin C,Dark Chocolate,5,1,0
+2024-07-13 19:52:33.474502,22,M,22.9,Bread/Pasta,Sodium,Vitamin B12,Eggs,5,1,0
+2024-08-28 19:52:33.474514,68,F,33.8,Fatty Foods,Vitamin B,Iron,Quinoa,10,1,1
+2024-09-09 19:52:33.474525,38,F,19.5,Chocolate,Chromium,Magnesium,Sweet Potatoes,7,1,1
+2024-07-11 19:52:33.474536,63,F,28.2,Bread/Pasta,Vitamin B,,Spinach,1,1,0
+2024-01-07 19:52:33.474546,64,M,32.7,Fatty Foods,Calcium,Sodium,Kale,5,1,0
+2024-06-17 19:52:33.474557,64,M,20.1,Bread/Pasta,Vitamin B,,Spinach,5,1,0
+2024-05-21 19:52:33.474568,75,F,24.2,Citrus Fruits,Potassium,Vitamin C,Avocado,8,1,1
+2024-05-06 19:52:33.474577,23,M,24.3,Red Meat,Chromium,,Brazil Nuts,6,0,0
+2024-10-06 19:52:33.474589,66,F,33.7,Bread/Pasta,Potassium,Calcium,Sardines,10,0,0
+2024-05-18 19:52:33.474599,26,F,29.8,Bread/Pasta,Vitamin B,,Spinach,3,1,0
+2024-01-18 19:52:33.474609,75,F,32.3,Citrus Fruits,Vitamin C,,Sweet Potatoes,7,1,1
+2024-02-05 19:52:33.474619,60,M,19.8,Citrus Fruits,Vitamin B,,Spinach,1,1,0
+2023-12-27 19:52:33.474631,43,M,31.6,Red Meat,Vitamin B12,Vitamin C,Eggs,8,1,1
+2024-05-01 19:52:33.474641,23,M,27.0,Citrus Fruits,Zinc,,Brazil Nuts,6,1,0
+2024-01-10 19:52:33.474652,20,M,22.4,Citrus Fruits,Iron,,Dark Chocolate,8,1,1
+2024-06-30 19:52:33.474663,68,F,33.9,Citrus Fruits,Zinc,Sodium,Brazil Nuts,7,0,0
+2024-01-16 19:52:33.474674,23,F,24.4,Bread/Pasta,Iron,Calcium,Dark Chocolate,3,0,0
+2024-06-21 19:52:33.474686,44,F,25.7,Salty Foods,Potassium,Magnesium,Bananas,8,1,1
+2023-12-09 19:52:33.474696,73,F,34.7,Fatty Foods,Calcium,,Kale,6,0,0
+2024-05-24 19:52:33.474708,19,M,20.2,Salty Foods,Magnesium,Zinc,Dark Chocolate,5,1,0
+2024-03-29 19:52:33.474719,62,F,34.9,Sugary Foods,Chromium,,Dark Chocolate,5,1,0
+2024-04-21 19:52:33.474729,19,M,34.6,Bread/Pasta,Vitamin C,,Sweet Potatoes,10,1,1
+2024-03-21 19:52:33.474741,22,M,29.1,Citrus Fruits,Iron,Vitamin B,Eggs,8,1,1
+2024-08-04 19:52:33.474753,48,F,34.1,Ice,Chromium,Vitamin B12,Salmon,6,1,0
+2024-07-03 19:52:33.474763,54,M,28.8,Salty Foods,Chromium,,Sardines,8,1,1
+2024-11-16 19:52:33.474773,32,M,25.9,Citrus Fruits,Vitamin C,,Sweet Potatoes,9,1,1
+2024-01-22 19:52:33.474783,75,F,22.3,Red Meat,Iron,,Quinoa,7,1,1
+2024-08-11 19:52:33.474794,56,M,22.2,Citrus Fruits,Chromium,Calcium,Kale,2,1,0
+2024-06-17 19:52:33.474805,36,M,28.7,Red Meat,Calcium,Vitamin C,Almonds,8,1,1
+2024-04-05 19:52:33.474815,69,F,20.5,Ice,Sodium,,Almonds,7,1,1
+2024-06-23 19:52:33.474825,36,M,20.6,Chocolate,Vitamin C,,Oranges,10,1,1
+2024-07-25 19:52:33.474836,30,M,31.8,Citrus Fruits,Vitamin C,Chromium,Sweet Potatoes,3,1,0
+2024-06-04 19:52:33.474848,56,F,26.1,Red Meat,Vitamin B12,Calcium,Kale,7,1,1
+2024-03-20 19:52:33.474858,45,M,30.3,Ice,Potassium,,Bananas,2,1,0
+2024-09-05 19:52:33.474869,36,M,25.3,Red Meat,Vitamin B12,Potassium,Bananas,10,1,1
+2024-02-17 19:52:33.474881,72,F,25.4,Citrus Fruits,Vitamin C,Iron,Spinach,2,0,0
+2024-08-31 19:52:33.474893,69,M,19.4,Chocolate,Sodium,Vitamin B,Spinach,6,1,0
+2024-10-07 19:52:33.474904,63,M,30.1,Sugary Foods,Calcium,,Greek Yogurt,7,1,1
+2024-07-06 19:52:33.474916,18,F,28.0,Bread/Pasta,Potassium,Zinc,Eggs,6,1,0
+2024-02-15 19:52:33.474927,54,M,33.0,Sugary Foods,Magnesium,,Quinoa,7,1,1
+2023-11-28 19:52:33.474937,63,M,29.4,Salty Foods,Iron,,Kale,1,1,0
+2024-09-02 19:52:33.474948,74,M,22.5,Bread/Pasta,Calcium,Magnesium,Quinoa,10,1,1
+2024-06-04 19:52:33.474960,40,M,31.7,Ice,Vitamin B12,Sodium,Bananas,1,1,0
+2024-11-05 19:52:33.474971,54,F,28.7,Fatty Foods,Vitamin B12,,Eggs,9,1,1
+2024-01-02 19:52:33.474982,50,M,27.6,Fatty Foods,Sodium,Calcium,Kale,9,1,1
+2024-04-07 19:52:33.474992,30,M,24.2,Fatty Foods,Vitamin B12,,Eggs,4,0,0
+2024-05-04 19:52:33.475003,68,M,29.5,Chocolate,Sodium,,Sweet Potatoes,5,1,0
+2023-11-27 19:52:33.475014,39,M,34.0,Sugary Foods,Vitamin B12,Vitamin C,Oranges,8,1,1
+2024-07-17 19:52:33.475026,66,M,25.4,Salty Foods,Potassium,,Sweet Potatoes,6,1,0
+2024-01-16 19:52:33.475036,20,F,28.2,Salty Foods,Vitamin B12,,Eggs,8,1,1
+2024-09-10 19:52:33.475048,39,F,28.2,Chocolate,Potassium,Vitamin B,Brazil Nuts,6,1,0
+2024-07-22 19:52:33.475059,42,M,21.9,Sugary Foods,Magnesium,Sodium,Dark Chocolate,10,1,1
+2024-03-13 19:52:33.475070,71,M,25.4,Bread/Pasta,Zinc,Potassium,Sweet Potatoes,9,1,1
+2023-12-26 19:52:33.475081,56,F,25.3,Ice,Magnesium,Potassium,Avocado,2,1,0
+2024-10-15 19:52:33.475092,66,M,32.3,Red Meat,Iron,,Quinoa,9,0,0
+2024-02-13 19:52:33.475104,19,M,25.4,Red Meat,Vitamin B12,Chromium,Eggs,9,0,0
+2024-09-24 19:52:33.475116,57,M,34.2,Salty Foods,Zinc,Potassium,Quinoa,5,1,0
+2024-07-07 19:52:33.475128,43,M,29.2,Ice,Magnesium,Chromium,Quinoa,1,1,0
+2023-12-29 19:52:33.475141,36,M,23.4,Citrus Fruits,Vitamin B,Iron,Almonds,3,0,0
+2024-02-26 19:52:33.475152,59,F,28.3,Citrus Fruits,Magnesium,,Almonds,9,1,1
+2024-10-18 19:52:33.475164,74,F,33.4,Salty Foods,Zinc,Chromium,Sweet Potatoes,4,1,0
+2024-05-20 19:52:33.475174,32,M,20.2,Red Meat,Iron,Zinc,Quinoa,7,1,1
+2024-08-23 19:52:33.475185,26,F,33.3,Ice,Vitamin C,,Sweet Potatoes,3,1,0
+2024-01-03 19:52:33.475195,46,M,22.7,Chocolate,Potassium,,Oranges,9,1,1
+2024-07-10 19:52:33.475206,75,F,26.1,Chocolate,Potassium,Vitamin B,Avocado,7,1,1
+2023-12-28 19:52:33.475218,28,M,25.7,Bread/Pasta,Iron,Potassium,Kale,6,0,0
+2024-07-24 19:52:33.475228,57,M,30.3,Sugary Foods,Potassium,Vitamin B12,Avocado,3,0,0
+2024-03-01 19:52:33.475240,70,M,30.7,Fatty Foods,Vitamin B12,Iron,Dark Chocolate,1,1,0
+2024-08-23 19:52:33.475250,67,M,28.8,Red Meat,Zinc,,Brazil Nuts,9,0,0
+2024-08-13 19:52:33.475261,36,F,22.4,Fatty Foods,Chromium,Sodium,Brazil Nuts,1,1,0
+2024-11-08 19:52:33.475272,24,M,33.4,Ice,Vitamin B,Vitamin B12,Spinach,3,1,0
+2024-06-07 19:52:33.475284,71,M,24.4,Sugary Foods,Chromium,Vitamin C,Eggs,8,1,1
+2024-04-09 19:52:33.475294,43,F,28.4,Salty Foods,Zinc,,Brazil Nuts,6,1,0
+2024-08-05 19:52:33.475307,58,M,30.9,Ice,Sodium,Vitamin B,Bananas,8,0,0
+2024-07-19 19:52:33.475318,38,M,29.9,Chocolate,Sodium,Vitamin C,Sweet Potatoes,1,0,0
+2024-11-21 19:52:33.475328,19,F,18.5,Bread/Pasta,Zinc,,Brazil Nuts,3,1,0
+2024-05-14 19:52:33.475339,65,M,28.1,Bread/Pasta,Vitamin B12,,Salmon,3,1,0
+2024-04-28 19:52:33.475350,72,F,29.2,Bread/Pasta,Vitamin B,Vitamin C,Oranges,2,1,0
+2024-01-23 19:52:33.475360,55,M,24.2,Chocolate,Vitamin C,,Oranges,7,1,1
+2024-07-29 19:52:33.475372,34,M,25.1,Ice,Chromium,Potassium,Bananas,9,1,1
+2024-03-10 19:52:33.475384,60,F,25.1,Chocolate,Magnesium,Vitamin B,Dark Chocolate,4,1,0
+2023-12-06 19:52:33.475396,19,M,21.9,Citrus Fruits,Zinc,Iron,Lentils,1,1,0
+2024-06-09 19:52:33.475407,65,M,29.9,Fatty Foods,Potassium,Vitamin B,Spinach,5,0,0
+2024-06-03 19:52:33.475418,25,F,29.6,Bread/Pasta,Zinc,Magnesium,Brazil Nuts,8,0,0
+2024-02-24 19:52:33.475428,20,M,22.4,Salty Foods,Iron,,Dark Chocolate,10,0,0
+2024-02-06 19:52:33.475438,73,M,30.6,Chocolate,Potassium,,Sweet Potatoes,5,0,0
+2024-05-30 19:52:33.475450,54,F,25.7,Ice,Potassium,Calcium,Greek Yogurt,1,1,0
+2024-01-26 19:52:33.475460,58,M,29.5,Sugary Foods,Vitamin C,,Sweet Potatoes,1,0,0
+2024-01-06 19:52:33.475472,24,F,34.5,Bread/Pasta,Potassium,Chromium,Bananas,2,1,0
+2024-06-03 19:52:33.475482,40,M,24.6,Red Meat,Sodium,,Quinoa,1,1,0
+2024-07-09 19:52:33.475492,43,F,21.2,Fatty Foods,Vitamin B,,Spinach,1,1,0
+2024-04-13 19:52:33.475504,59,M,32.7,Ice,Calcium,Vitamin B12,Greek Yogurt,4,1,0
+2024-01-21 19:52:33.475514,50,M,21.6,Chocolate,Vitamin B,,Spinach,9,1,1
+2024-07-30 19:52:33.475525,28,F,29.3,Salty Foods,Vitamin B12,Sodium,Eggs,5,1,0
+2024-11-06 19:52:33.475537,28,F,23.5,Salty Foods,Chromium,Magnesium,Almonds,10,1,1
+2024-10-30 19:52:33.475548,40,M,30.8,Ice,Vitamin B,Magnesium,Sweet Potatoes,10,1,1
+2024-09-07 19:52:33.475561,33,M,19.6,Citrus Fruits,Magnesium,Chromium,Salmon,6,0,0
+2024-04-08 19:52:33.475571,44,F,28.2,Chocolate,Calcium,,Greek Yogurt,3,1,0
+2024-08-18 19:52:33.475583,33,F,29.5,Salty Foods,Potassium,Calcium,Almonds,8,1,1
+2024-07-10 19:52:33.475604,68,F,31.4,Sugary Foods,Magnesium,Potassium,Almonds,9,1,1
+2024-08-14 19:52:33.475614,68,M,24.4,Salty Foods,Iron,,Kale,2,1,0
+2024-01-23 19:52:33.475627,53,F,34.8,Citrus Fruits,Vitamin B12,Vitamin B,Spinach,1,1,0
+2024-10-10 19:52:33.475639,22,F,28.1,Citrus Fruits,Potassium,Vitamin B,Sweet Potatoes,10,1,1
+2024-06-12 19:52:33.475649,59,F,24.0,Fatty Foods,Magnesium,,Spinach,8,1,1
+2024-05-25 19:52:33.475661,65,M,21.8,Salty Foods,Chromium,Sodium,Almonds,5,1,0
+2024-08-20 19:52:33.475675,52,M,29.0,Chocolate,Calcium,Zinc,Quinoa,5,1,0
+2024-07-16 19:52:33.475685,59,F,26.8,Ice,Vitamin C,,Sweet Potatoes,3,0,0
+2023-12-06 19:52:33.475695,21,M,28.7,Citrus Fruits,Vitamin B12,,Eggs,8,1,1
+2024-07-06 19:52:33.475705,62,F,26.7,Bread/Pasta,Chromium,,Quinoa,6,1,0
+2024-11-08 19:52:33.475715,24,M,27.0,Chocolate,Calcium,,Almonds,4,1,0
+2024-03-27 19:52:33.475726,58,F,25.6,Citrus Fruits,Vitamin B,Sodium,Spinach,6,0,0
+2024-07-14 19:52:33.475737,50,F,32.0,Sugary Foods,Vitamin B12,Magnesium,Dark Chocolate,6,1,0
+2024-08-20 19:52:33.475748,22,M,22.2,Ice,Vitamin B12,Zinc,Salmon,1,1,0
+2024-02-26 19:52:33.475759,69,F,28.9,Ice,Iron,Sodium,Kale,7,1,1
+2024-03-17 19:52:33.475769,57,F,19.4,Ice,Iron,,Spinach,6,1,0
+2024-07-12 19:52:33.475780,45,F,22.8,Fatty Foods,Magnesium,Vitamin C,Oranges,1,1,0
+2024-07-11 19:52:33.475792,72,M,21.8,Chocolate,Iron,Potassium,Spinach,3,0,0
+2024-06-19 19:52:33.475804,61,M,23.6,Fatty Foods,Calcium,Magnesium,Sardines,8,1,1
+2024-10-29 19:52:33.475815,47,F,28.9,Red Meat,Chromium,Vitamin C,Oranges,4,1,0
+2024-10-19 19:52:33.475826,73,F,33.5,Ice,Potassium,Magnesium,Brazil Nuts,9,1,1
+2024-09-21 19:52:33.475838,25,M,25.3,Salty Foods,Chromium,Magnesium,Avocado,3,1,0
+2024-08-09 19:52:33.475848,63,M,28.8,Citrus Fruits,Vitamin B12,,Salmon,9,1,1
+2023-12-22 19:52:33.475861,40,M,33.1,Fatty Foods,Sodium,Calcium,Avocado,9,1,1
+2024-06-10 19:52:33.475873,54,M,24.6,Fatty Foods,Zinc,,Brazil Nuts,2,1,0
+2024-11-25 19:52:33.475883,47,F,21.2,Bread/Pasta,Potassium,,Bananas,3,1,0
+2023-12-07 19:52:33.475895,63,F,23.4,Red Meat,Magnesium,Chromium,Quinoa,9,1,1
+2024-05-20 19:52:33.475906,67,M,20.1,Red Meat,Chromium,Calcium,Almonds,9,0,0
+2024-06-16 19:52:33.475917,25,F,30.4,Chocolate,Iron,Vitamin B,Eggs,10,0,0
+2024-03-03 19:52:33.475928,23,M,33.7,Ice,Vitamin B,Vitamin C,Spinach,7,1,1
+2024-03-05 19:52:33.475939,28,M,30.5,Ice,Vitamin C,,Sweet Potatoes,1,0,0
+2024-05-10 19:52:33.475950,56,F,27.0,Fatty Foods,Chromium,Zinc,Brazil Nuts,8,1,1
+2024-10-16 19:52:33.475960,28,M,25.5,Sugary Foods,Vitamin B12,,Salmon,7,1,1
+2024-09-07 19:52:33.475971,33,M,30.9,Sugary Foods,Magnesium,Potassium,Almonds,9,1,1
+2024-05-17 19:52:33.475984,41,M,27.1,Citrus Fruits,Magnesium,Zinc,Almonds,4,1,0
+2024-07-22 19:52:33.475994,44,M,21.1,Chocolate,Calcium,Vitamin B,Greek Yogurt,5,1,0
+2024-05-11 19:52:33.476006,30,M,32.3,Bread/Pasta,Zinc,Sodium,Brazil Nuts,1,1,0
+2024-04-23 19:52:33.476017,22,M,26.5,Salty Foods,Vitamin C,,Sweet Potatoes,5,1,0
+2024-10-02 19:52:33.476029,34,M,22.6,Fatty Foods,Iron,Vitamin C,Eggs,9,1,1
+2024-04-11 19:52:33.476038,25,F,21.9,Sugary Foods,Vitamin B12,,Salmon,6,1,0
+2024-02-13 19:52:33.476050,27,M,20.3,Citrus Fruits,Zinc,Chromium,Almonds,10,1,1
+2024-07-11 19:52:33.476061,24,F,31.7,Chocolate,Zinc,Sodium,Brazil Nuts,3,1,0
+2024-04-21 19:52:33.476073,69,F,24.8,Citrus Fruits,Sodium,Vitamin C,Sweet Potatoes,9,1,1
+2024-02-23 19:52:33.476085,19,F,31.8,Fatty Foods,Zinc,Sodium,Brazil Nuts,8,1,1
+2024-05-14 19:52:33.476097,71,M,29.2,Chocolate,Zinc,Calcium,Sardines,7,1,1
+2023-12-21 19:52:33.476108,50,M,27.4,Bread/Pasta,Sodium,Vitamin B,Spinach,4,1,0
+2023-12-03 19:52:33.476121,44,M,30.1,Chocolate,Magnesium,Zinc,Spinach,1,1,0
+2024-05-18 19:52:33.476133,30,F,33.5,Bread/Pasta,Vitamin B12,Iron,Quinoa,4,1,0
+2024-04-01 19:52:33.476145,24,F,23.6,Fatty Foods,Chromium,Iron,Eggs,2,1,0
+2023-12-04 19:52:33.476156,63,F,33.5,Citrus Fruits,Calcium,Iron,Kale,10,1,1
+2023-12-22 19:52:33.476168,22,F,29.2,Fatty Foods,Magnesium,Potassium,Spinach,3,0,0
+2024-03-19 19:52:33.476179,38,M,30.8,Salty Foods,Vitamin B12,Magnesium,Brazil Nuts,4,1,0
+2024-08-30 19:52:33.476191,40,M,24.7,Chocolate,Sodium,Vitamin C,Oranges,9,1,1
+2024-03-22 19:52:33.476201,58,F,29.6,Chocolate,Vitamin C,,Sweet Potatoes,10,0,0
+2024-03-15 19:52:33.476211,36,M,18.6,Sugary Foods,Chromium,,Lentils,5,1,0
+2024-02-27 19:52:33.476222,75,M,25.8,Ice,Iron,Vitamin B,Dark Chocolate,9,0,0
+2024-10-13 19:52:33.476234,51,F,31.0,Chocolate,Potassium,Iron,Dark Chocolate,4,0,0
+2024-01-24 19:52:33.476244,75,M,27.9,Bread/Pasta,Sodium,,Quinoa,3,1,0
+2024-03-31 19:52:33.476255,67,F,23.8,Salty Foods,Chromium,Vitamin B,Spinach,10,1,1
+2024-05-02 19:52:33.476267,38,F,29.9,Salty Foods,Potassium,Vitamin C,Oranges,7,1,1
+2024-07-02 19:52:33.476279,19,M,22.5,Sugary Foods,Zinc,Magnesium,Sweet Potatoes,10,1,1
+2024-11-14 19:52:33.476289,49,M,31.1,Bread/Pasta,Potassium,,Sweet Potatoes,5,0,0
+2024-10-07 19:52:33.476300,25,F,26.3,Fatty Foods,Vitamin C,Calcium,Sweet Potatoes,7,1,1
+2023-11-28 19:52:33.476312,65,F,32.4,Citrus Fruits,Magnesium,Chromium,Bananas,9,1,1
+2024-08-10 19:52:33.476324,72,M,18.7,Ice,Chromium,Vitamin C,Oranges,1,0,0
+2024-03-14 19:52:33.476336,58,M,25.4,Fatty Foods,Sodium,Vitamin C,Kale,7,1,1
+2024-01-27 19:52:33.476347,20,M,28.1,Ice,Vitamin B,,Spinach,1,0,0
+2024-02-02 19:52:33.476358,37,F,33.2,Sugary Foods,Vitamin B,Calcium,Greek Yogurt,3,1,0
+2024-02-03 19:52:33.476370,67,M,32.6,Sugary Foods,Sodium,Zinc,Brazil Nuts,8,1,1
+2024-06-20 19:52:33.476381,62,M,32.4,Fatty Foods,Iron,Sodium,Kale,3,1,0
+2024-10-11 19:52:33.476391,44,M,28.5,Fatty Foods,Vitamin B12,,Eggs,8,0,0
+2024-01-06 19:52:33.476402,22,M,21.3,Chocolate,Calcium,Iron,Lentils,1,1,0
+2024-10-30 19:52:33.476414,61,F,26.3,Fatty Foods,Calcium,Zinc,Sweet Potatoes,1,1,0
+2024-06-28 19:52:33.476427,65,M,27.9,Ice,Vitamin B,Calcium,Sardines,9,0,0
+2023-12-21 19:52:33.476437,48,F,19.3,Citrus Fruits,Zinc,,Brazil Nuts,4,1,0
+2024-03-23 19:52:33.476449,55,F,25.4,Citrus Fruits,Iron,Chromium,Dark Chocolate,3,0,0
+2024-04-12 19:52:33.476460,27,M,23.1,Sugary Foods,Magnesium,Vitamin B,Bananas,5,1,0
+2024-07-14 19:52:33.476470,27,F,34.4,Fatty Foods,Zinc,,Brazil Nuts,4,1,0
+2024-09-15 19:52:33.476481,45,M,20.2,Citrus Fruits,Calcium,Chromium,Kale,4,1,0
+2024-08-23 19:52:33.476491,33,F,30.5,Sugary Foods,Calcium,,Greek Yogurt,1,1,0
+2024-03-09 19:52:33.476503,46,M,26.5,Bread/Pasta,Iron,Vitamin B,Eggs,9,1,1
+2024-10-31 19:52:33.476513,73,F,33.2,Bread/Pasta,Potassium,,Oranges,6,0,0
+2024-11-21 19:52:33.476524,64,F,29.4,Citrus Fruits,Calcium,Chromium,Greek Yogurt,3,1,0
+2024-09-03 19:52:33.476535,40,M,20.4,Sugary Foods,Zinc,Vitamin B12,Brazil Nuts,8,1,1
+2024-06-10 19:52:33.476546,74,M,18.9,Red Meat,Zinc,Vitamin B,Brazil Nuts,5,1,0
+2024-08-19 19:52:33.476557,39,M,25.9,Chocolate,Potassium,Iron,Spinach,4,1,0
+2024-03-31 19:52:33.476569,51,M,25.8,Chocolate,Magnesium,Zinc,Sweet Potatoes,8,1,1
+2024-01-26 19:52:33.476579,62,M,20.7,Ice,Zinc,,Brazil Nuts,4,1,0
+2024-05-12 19:52:33.476589,58,M,29.6,Salty Foods,Iron,,Dark Chocolate,6,0,0
+2024-09-04 19:52:33.476601,18,F,31.0,Ice,Vitamin B,Iron,Dark Chocolate,5,0,0
+2024-06-04 19:52:33.476613,39,M,19.1,Chocolate,Calcium,Potassium,Oranges,3,1,0
+2024-04-12 19:52:33.476628,40,M,24.4,Chocolate,Magnesium,Vitamin C,Bananas,5,0,0
+2024-10-30 19:52:33.476640,68,F,23.6,Ice,Chromium,Magnesium,Sweet Potatoes,5,1,0
+2024-02-04 19:52:33.476652,72,M,20.3,Red Meat,Calcium,Zinc,Brazil Nuts,10,1,1
+2024-10-31 19:52:33.476663,68,F,23.3,Bread/Pasta,Vitamin B,Calcium,Spinach,1,0,0
+2024-11-04 19:52:33.476675,24,M,27.1,Bread/Pasta,Calcium,Vitamin C,Sweet Potatoes,8,1,1
+2024-06-26 19:52:33.476688,33,F,23.6,Bread/Pasta,Potassium,Vitamin C,Dark Chocolate,2,1,0
+2024-03-29 19:52:33.476699,39,F,22.8,Sugary Foods,Vitamin B12,Vitamin C,Sweet Potatoes,8,1,1
+2024-04-24 19:52:33.476710,62,M,27.8,Bread/Pasta,Vitamin B,Vitamin B12,Eggs,5,1,0
+2024-03-09 19:52:33.476723,44,F,25.7,Salty Foods,Sodium,Iron,Sardines,6,1,0
+2024-05-07 19:52:33.476733,30,M,19.6,Sugary Foods,Potassium,,Bananas,1,0,0
+2024-06-25 19:52:33.476743,46,F,29.0,Ice,Sodium,,Oranges,5,1,0
+2024-07-13 19:52:33.476753,73,M,25.3,Bread/Pasta,Sodium,,Lentils,9,1,1
+2024-03-02 19:52:33.476765,58,F,22.0,Fatty Foods,Chromium,Zinc,Eggs,9,1,1
+2024-07-12 19:52:33.476776,69,F,24.3,Fatty Foods,Magnesium,,Sweet Potatoes,8,1,1
+2024-05-08 19:52:33.476802,67,M,29.3,Salty Foods,Magnesium,,Bananas,2,0,0
+2024-07-06 19:52:33.476814,38,M,21.0,Bread/Pasta,Zinc,Sodium,Brazil Nuts,10,1,1
+2024-09-17 19:52:33.476825,29,M,32.3,Chocolate,Magnesium,Chromium,Dark Chocolate,8,1,1
+2024-09-15 19:52:33.476839,20,M,22.7,Red Meat,Chromium,Vitamin C,Lentils,5,1,0
+2024-06-04 19:52:33.476851,64,F,21.3,Sugary Foods,Vitamin B,Zinc,Avocado,5,1,0
+2024-08-02 19:52:33.476861,23,F,28.3,Bread/Pasta,Calcium,,Kale,4,1,0
+2024-10-12 19:52:33.476873,28,M,26.7,Citrus Fruits,Vitamin C,Potassium,Oranges,2,1,0
+2024-11-10 19:52:33.476885,70,M,19.7,Salty Foods,Vitamin C,Vitamin B,Oranges,5,1,0
+2024-09-15 19:52:33.476896,49,M,20.4,Sugary Foods,Sodium,Vitamin B12,Salmon,10,1,1
+2024-05-19 19:52:33.476906,56,F,33.5,Chocolate,Vitamin B,,Spinach,6,1,0
+2024-11-07 19:52:33.476917,65,F,33.2,Bread/Pasta,Iron,,Kale,10,1,1
+2024-01-14 19:52:33.476929,44,M,28.8,Sugary Foods,Vitamin B,Chromium,Lentils,3,1,0
+2024-07-09 19:52:33.476940,39,M,34.1,Red Meat,Chromium,Sodium,Sardines,3,0,0
+2024-07-13 19:52:33.476952,62,M,26.1,Red Meat,Potassium,Vitamin B,Oranges,4,1,0
+2024-01-30 19:52:33.476964,71,F,29.9,Red Meat,Vitamin C,Potassium,Oranges,1,1,0
+2024-10-19 19:52:33.476978,33,F,22.0,Sugary Foods,Potassium,,Bananas,2,1,0
+2024-01-31 19:52:33.476989,63,M,30.1,Fatty Foods,Vitamin B12,Vitamin B,Spinach,4,1,0
+2024-08-02 19:52:33.477001,35,F,19.8,Red Meat,Chromium,Vitamin B12,Eggs,2,1,0
+2024-04-29 19:52:33.477011,28,F,32.4,Bread/Pasta,Potassium,,Bananas,8,1,1
+2024-10-08 19:52:33.477023,26,F,18.9,Fatty Foods,Sodium,Zinc,Brazil Nuts,4,1,0
+2024-06-24 19:52:33.477034,25,F,33.0,Citrus Fruits,Iron,Magnesium,Quinoa,7,0,0
+2024-10-22 19:52:33.477046,69,M,21.9,Salty Foods,Sodium,Iron,Spinach,9,1,1
+2024-10-23 19:52:33.477057,33,F,20.0,Ice,Iron,,Dark Chocolate,6,1,0
+2024-09-13 19:52:33.477069,33,F,25.2,Bread/Pasta,Potassium,Zinc,Avocado,1,0,0
+2024-03-25 19:52:33.477079,33,M,23.1,Fatty Foods,Sodium,,Spinach,8,0,0
+2024-11-06 19:52:33.477089,67,F,23.5,Citrus Fruits,Vitamin B12,Sodium,Eggs,2,0,0
+2024-07-08 19:52:33.477101,39,F,27.0,Fatty Foods,Zinc,Calcium,Sardines,8,0,0
+2024-09-30 19:52:33.477111,19,F,30.7,Chocolate,Calcium,,Greek Yogurt,3,1,0
+2024-02-02 19:52:33.477121,75,F,25.7,Citrus Fruits,Chromium,,Bananas,5,0,0
+2023-12-25 19:52:33.477132,24,M,35.0,Salty Foods,Iron,Vitamin B,Quinoa,10,1,1
+2024-09-23 19:52:33.477143,60,F,25.9,Chocolate,Zinc,Vitamin C,Oranges,9,1,1
+2023-12-09 19:52:33.477155,60,F,30.7,Citrus Fruits,Chromium,Potassium,Avocado,7,1,1
+2024-01-20 19:52:33.477167,32,F,32.7,Salty Foods,Vitamin C,Zinc,Oranges,6,0,0
+2024-09-06 19:52:33.477179,47,M,25.7,Sugary Foods,Sodium,Iron,Quinoa,10,1,1
+2024-04-15 19:52:33.477190,54,F,25.7,Ice,Iron,Calcium,Kale,8,1,1
+2024-01-19 19:52:33.477199,35,F,28.2,Ice,Chromium,,Almonds,4,1,0
+2024-04-02 19:52:33.477210,32,F,25.3,Citrus Fruits,Vitamin C,Chromium,Oranges,1,1,0
+2023-12-25 19:52:33.477222,19,F,21.0,Salty Foods,Calcium,Chromium,Greek Yogurt,4,1,0
+2024-04-07 19:52:33.477234,33,F,20.0,Salty Foods,Iron,Potassium,Kale,10,1,1
+2024-03-09 19:52:33.477244,45,F,23.3,Fatty Foods,Iron,,Quinoa,3,1,0
+2023-12-20 19:52:33.477254,55,M,34.6,Sugary Foods,Zinc,,Brazil Nuts,3,0,0
+2024-11-23 19:52:33.477264,21,F,18.7,Sugary Foods,Zinc,,Brazil Nuts,5,1,0
+2024-01-24 19:52:33.477277,62,F,19.4,Ice,Zinc,Magnesium,Dark Chocolate,5,1,0
+2024-06-08 19:52:33.477290,35,F,19.1,Citrus Fruits,Potassium,Calcium,Bananas,7,1,1
+2024-07-23 19:52:33.477301,35,F,18.7,Sugary Foods,Iron,Vitamin B12,Quinoa,9,1,1
+2024-03-08 19:52:33.477313,39,M,30.0,Salty Foods,Chromium,Zinc,Sweet Potatoes,1,1,0
+2024-03-21 19:52:33.477325,66,M,34.2,Fatty Foods,Vitamin B12,Magnesium,Eggs,4,1,0
+2024-07-13 19:52:33.477336,22,F,19.8,Chocolate,Potassium,Zinc,Avocado,2,1,0
+2024-08-21 19:52:33.477348,62,M,27.6,Sugary Foods,Vitamin B,Magnesium,Almonds,4,1,0
+2024-05-25 19:52:33.477359,70,M,33.9,Chocolate,Vitamin B12,Calcium,Eggs,1,1,0
+2024-07-14 19:52:33.477370,44,F,24.3,Fatty Foods,Zinc,Vitamin B,Brazil Nuts,8,1,1
+2024-11-21 19:52:33.477382,65,F,19.1,Chocolate,Potassium,Sodium,Bananas,10,1,1
+2024-06-22 19:52:33.477394,42,M,35.0,Ice,Potassium,Chromium,Sweet Potatoes,10,0,0
+2023-12-12 19:52:33.477404,63,M,20.9,Ice,Vitamin B12,Sodium,Eggs,8,0,0
+2024-08-04 19:52:33.477416,34,F,30.8,Fatty Foods,Vitamin C,Potassium,Oranges,7,1,1
+2024-10-14 19:52:33.477426,28,M,25.0,Fatty Foods,Vitamin B,,Spinach,1,1,0
+2024-11-03 19:52:33.477438,30,M,34.7,Ice,Magnesium,Potassium,Quinoa,8,0,0
+2024-06-15 19:52:33.477449,49,F,20.8,Red Meat,Calcium,Vitamin B12,Sardines,1,1,0
+2024-06-27 19:52:33.477459,20,M,21.9,Salty Foods,Zinc,,Brazil Nuts,6,1,0
+2024-07-12 19:52:33.477470,58,M,29.9,Bread/Pasta,Chromium,Vitamin B12,Salmon,9,1,1
+2024-02-07 19:52:33.477480,36,F,20.1,Bread/Pasta,Iron,,Lentils,4,1,0
+2024-10-25 19:52:33.477490,36,M,33.5,Chocolate,Calcium,,Sardines,3,1,0
+2024-08-28 19:52:33.477501,58,F,32.5,Sugary Foods,Iron,Chromium,Dark Chocolate,5,1,0
+2023-12-18 19:52:33.477511,40,M,27.1,Fatty Foods,Chromium,,Quinoa,2,1,0
+2024-02-19 19:52:33.477522,69,M,25.6,Salty Foods,Potassium,Vitamin B,Avocado,10,1,1
+2023-12-10 19:52:33.477532,47,M,31.1,Citrus Fruits,Vitamin C,,Sweet Potatoes,4,1,0
+2024-03-06 19:52:33.477544,33,M,31.4,Bread/Pasta,Vitamin C,Magnesium,Bananas,5,1,0
+2024-02-01 19:52:33.477556,21,F,23.8,Chocolate,Vitamin B,Vitamin C,Sweet Potatoes,7,1,1
+2024-05-31 19:52:33.477566,67,M,26.8,Ice,Vitamin B12,,Salmon,9,1,1
+2024-08-07 19:52:33.477577,50,F,26.8,Salty Foods,Potassium,Magnesium,Avocado,8,1,1
+2024-07-23 19:52:33.477590,47,M,29.9,Sugary Foods,Sodium,Chromium,Bananas,5,1,0
+2024-02-15 19:52:33.477602,66,F,29.6,Chocolate,Vitamin C,Zinc,Sweet Potatoes,1,1,0
+2024-06-01 19:52:33.477614,27,F,24.0,Chocolate,Sodium,Zinc,Oranges,3,1,0
+2024-04-19 19:52:33.477625,66,M,34.5,Chocolate,Chromium,Vitamin B12,Salmon,6,1,0
+2024-11-05 19:52:33.477636,41,M,25.9,Ice,Iron,Potassium,Bananas,5,1,0
+2024-04-01 19:52:33.477648,32,F,32.6,Chocolate,Iron,Vitamin C,Dark Chocolate,2,1,0
+2024-10-16 19:52:33.477659,46,F,32.3,Red Meat,Vitamin C,Zinc,Brazil Nuts,9,1,1
+2024-05-05 19:52:33.477669,69,F,21.5,Chocolate,Potassium,,Oranges,6,0,0
+2024-07-17 19:52:33.477679,73,F,30.1,Fatty Foods,Chromium,,Spinach,3,1,0
+2024-08-02 19:52:33.477691,55,F,31.8,Bread/Pasta,Zinc,Potassium,Sweet Potatoes,4,1,0
+2023-12-14 19:52:33.477701,54,F,26.9,Red Meat,Vitamin C,,Sweet Potatoes,10,1,1
+2024-10-18 19:52:33.477713,53,M,34.6,Red Meat,Iron,Vitamin B,Kale,7,0,0
+2024-01-30 19:52:33.477724,24,F,22.3,Ice,Vitamin C,,Oranges,7,1,1
+2024-05-28 19:52:33.477734,42,M,21.8,Citrus Fruits,Vitamin C,,Sweet Potatoes,4,1,0
+2024-09-12 19:52:33.477746,45,F,28.0,Fatty Foods,Sodium,Vitamin B12,Brazil Nuts,4,1,0
+2024-02-09 19:52:33.477758,41,M,27.9,Bread/Pasta,Vitamin B,Calcium,Lentils,10,1,1
+2024-07-23 19:52:33.477771,43,F,21.0,Ice,Calcium,Potassium,Sardines,2,1,0
+2023-12-18 19:52:33.477784,53,M,31.2,Citrus Fruits,Vitamin B,Calcium,Almonds,2,1,0
+2023-12-27 19:52:33.477796,58,F,26.1,Citrus Fruits,Calcium,Vitamin C,Sardines,4,1,0
+2023-12-05 19:52:33.477807,63,M,19.4,Salty Foods,Iron,Sodium,Lentils,7,1,1
+2024-06-30 19:52:33.477819,69,M,33.7,Citrus Fruits,Vitamin B12,Zinc,Spinach,4,0,0
+2024-08-14 19:52:33.477831,62,M,30.4,Red Meat,Potassium,Magnesium,Dark Chocolate,5,1,0
+2024-02-08 19:52:33.477843,22,M,29.6,Red Meat,Vitamin B12,Potassium,Sweet Potatoes,8,1,1
+2024-09-02 19:52:33.477855,45,M,27.4,Citrus Fruits,Vitamin C,Iron,Lentils,1,1,0
+2024-10-01 19:52:33.477865,25,F,32.8,Ice,Calcium,,Sardines,4,1,0
+2024-10-14 19:52:33.477877,23,M,25.7,Red Meat,Sodium,Potassium,Oranges,8,1,1
+2024-08-07 19:52:33.477888,29,F,29.1,Sugary Foods,Magnesium,Vitamin C,Bananas,8,1,1
+2024-11-23 19:52:33.477898,42,F,34.9,Sugary Foods,Vitamin B,,Spinach,2,0,0
+2024-04-03 19:52:33.477909,35,F,27.2,Red Meat,Vitamin B12,Calcium,Salmon,2,1,0
+2024-08-13 19:52:33.477921,21,F,28.9,Citrus Fruits,Zinc,Calcium,Sardines,7,1,1
+2024-05-10 19:52:33.477934,53,F,31.8,Fatty Foods,Calcium,Sodium,Almonds,3,1,0
+2024-10-02 19:52:33.477946,35,F,24.4,Fatty Foods,Calcium,Vitamin B12,Sardines,7,1,1
+2024-09-12 19:52:33.477957,56,F,26.9,Red Meat,Zinc,Iron,Brazil Nuts,4,0,0
+2024-11-08 19:52:33.477969,74,M,22.6,Citrus Fruits,Calcium,Vitamin B,Kale,3,0,0
+2024-07-10 19:52:33.477981,69,F,23.3,Ice,Chromium,Vitamin C,Sweet Potatoes,5,1,0
+2023-12-09 19:52:33.477993,69,M,29.5,Fatty Foods,Chromium,Vitamin C,Sweet Potatoes,1,1,0
+2024-10-01 19:52:33.478003,22,M,22.5,Salty Foods,Iron,,Quinoa,3,0,0
+2024-02-24 19:52:33.478015,50,F,34.4,Chocolate,Calcium,Potassium,Sardines,5,1,0
+2023-12-01 19:52:33.478027,58,F,19.2,Bread/Pasta,Vitamin B,Iron,Spinach,1,1,0
+2024-05-20 19:52:33.478039,62,F,28.0,Sugary Foods,Sodium,Magnesium,Dark Chocolate,9,1,1
+2024-01-14 19:52:33.478049,37,M,32.7,Bread/Pasta,Iron,,Lentils,8,1,1
+2024-07-29 19:52:33.478060,75,F,19.3,Fatty Foods,Calcium,,Sardines,2,1,0
+2024-02-02 19:52:33.478070,56,M,22.3,Bread/Pasta,Calcium,,Almonds,3,1,0
+2024-11-14 19:52:33.478080,67,F,34.8,Sugary Foods,Chromium,,Dark Chocolate,1,1,0
+2024-06-11 19:52:33.478090,19,F,21.8,Fatty Foods,Calcium,,Almonds,3,1,0
+2023-12-28 19:52:33.478101,50,M,29.3,Sugary Foods,Vitamin B12,Chromium,Eggs,2,0,0
+2023-12-31 19:52:33.478112,58,M,21.5,Bread/Pasta,Magnesium,Vitamin B,Sweet Potatoes,7,1,1
+2024-03-01 19:52:33.478124,53,M,32.1,Citrus Fruits,Potassium,Sodium,Oranges,9,1,1
+2024-01-22 19:52:33.478137,36,F,20.5,Bread/Pasta,Vitamin C,Potassium,Dark Chocolate,4,1,0
+2024-10-12 19:52:33.478147,21,M,30.3,Bread/Pasta,Magnesium,,Dark Chocolate,3,1,0
+2024-04-08 19:52:33.478159,67,F,33.4,Citrus Fruits,Zinc,Magnesium,Spinach,3,1,0
+2024-04-23 19:52:33.478170,65,M,29.1,Red Meat,Iron,Chromium,Eggs,9,0,0
+2024-02-29 19:52:33.478180,28,M,25.2,Chocolate,Sodium,,Greek Yogurt,8,1,1
+2024-01-14 19:52:33.478191,56,M,34.9,Citrus Fruits,Magnesium,Vitamin B12,Eggs,6,1,0
+2024-01-18 19:52:33.478202,44,F,33.4,Ice,Vitamin C,Sodium,Oranges,4,0,0
+2023-12-12 19:52:33.478213,54,F,23.4,Salty Foods,Iron,Vitamin B,Eggs,1,1,0
+2024-08-18 19:52:33.478225,37,M,26.5,Citrus Fruits,Sodium,Iron,Quinoa,1,1,0
+2024-09-17 19:52:33.478236,59,F,19.6,Chocolate,Calcium,Sodium,Sardines,3,1,0
+2023-12-17 19:52:33.478249,53,M,25.3,Ice,Vitamin C,Vitamin B,Sweet Potatoes,1,1,0
+2024-05-13 19:52:33.478261,57,M,34.3,Salty Foods,Vitamin B12,Calcium,Eggs,6,1,0
+2024-09-19 19:52:33.478272,25,F,23.5,Fatty Foods,Iron,Vitamin C,Oranges,1,1,0
+2024-05-21 19:52:33.478284,69,F,25.6,Chocolate,Magnesium,Sodium,Oranges,4,1,0
+2024-09-02 19:52:33.478296,21,M,30.0,Red Meat,Sodium,Zinc,Almonds,9,1,1
+2024-08-17 19:52:33.478306,67,M,18.7,Citrus Fruits,Magnesium,,Dark Chocolate,9,1,1
+2024-05-07 19:52:33.478318,57,M,23.4,Sugary Foods,Vitamin C,Zinc,Sweet Potatoes,4,1,0
+2024-06-16 19:52:33.478330,20,F,28.6,Salty Foods,Calcium,Potassium,Sweet Potatoes,2,0,0
+2024-07-29 19:52:33.478340,67,M,30.3,Bread/Pasta,Calcium,,Almonds,1,0,0
+2023-12-29 19:52:33.478351,74,F,29.6,Red Meat,Potassium,Calcium,Sweet Potatoes,2,1,0
+2024-06-28 19:52:33.478363,26,M,24.2,Red Meat,Iron,Chromium,Quinoa,5,0,0
+2024-11-13 19:52:33.478375,75,F,34.8,Chocolate,Potassium,Magnesium,Bananas,9,1,1
+2023-12-26 19:52:33.478387,19,M,22.8,Citrus Fruits,Vitamin B12,Magnesium,Salmon,5,0,0
+2024-11-17 19:52:33.478399,57,M,29.7,Red Meat,Calcium,Vitamin B,Quinoa,1,0,0
+2024-03-04 19:52:33.478410,62,F,24.8,Chocolate,Chromium,,Almonds,6,1,0
+2024-10-25 19:52:33.478421,44,M,27.8,Sugary Foods,Zinc,Iron,Eggs,1,0,0
+2024-03-08 19:52:33.478433,52,M,23.9,Citrus Fruits,Potassium,Vitamin B12,Avocado,6,1,0
+2024-03-02 19:52:33.478445,54,F,29.8,Chocolate,Vitamin B12,Sodium,Eggs,9,1,1
+2024-09-11 19:52:33.478456,48,F,26.8,Fatty Foods,Potassium,Magnesium,Spinach,4,1,0
+2024-04-13 19:52:33.478466,22,M,24.5,Citrus Fruits,Zinc,,Brazil Nuts,5,1,0
+2024-04-09 19:52:33.478476,69,F,21.8,Salty Foods,Vitamin B12,,Salmon,7,0,0
+2024-06-28 19:52:33.478486,64,M,31.1,Fatty Foods,Potassium,,Avocado,4,1,0
+2024-06-27 19:52:33.478498,50,M,26.0,Salty Foods,Chromium,Sodium,Salmon,1,1,0
+2024-10-10 19:52:33.478510,54,F,25.2,Citrus Fruits,Magnesium,Potassium,Dark Chocolate,10,0,0
+2024-10-30 19:52:33.478522,55,F,34.1,Red Meat,Sodium,Potassium,Avocado,4,1,0
+2024-01-27 19:52:33.478535,39,F,34.4,Chocolate,Sodium,Zinc,Brazil Nuts,4,1,0
+2024-08-08 19:52:33.478547,51,M,22.1,Bread/Pasta,Iron,Sodium,Dark Chocolate,6,1,0
+2024-02-01 19:52:33.478557,36,F,20.0,Salty Foods,Magnesium,,Spinach,5,0,0
+2024-07-08 19:52:33.478568,68,M,29.8,Sugary Foods,Vitamin C,Vitamin B12,Eggs,8,1,1
+2024-07-26 19:52:33.478581,28,F,22.1,Fatty Foods,Vitamin B,Potassium,Avocado,1,1,0
+2024-10-04 19:52:33.478593,71,M,22.2,Citrus Fruits,Vitamin B12,Magnesium,Salmon,3,1,0
+2024-05-06 19:52:33.478603,57,F,28.7,Salty Foods,Vitamin C,,Oranges,1,1,0
+2024-08-22 19:52:33.478615,22,F,32.8,Red Meat,Sodium,Chromium,Sweet Potatoes,7,1,1
+2024-09-28 19:52:33.478626,63,M,30.1,Citrus Fruits,Magnesium,Chromium,Sweet Potatoes,9,1,1
+2024-04-01 19:52:33.478637,32,F,24.5,Salty Foods,Magnesium,Vitamin B12,Salmon,10,1,1
+2024-01-18 19:52:33.478647,46,M,25.9,Bread/Pasta,Magnesium,,Spinach,2,1,0
+2023-12-30 19:52:33.478657,50,M,33.8,Ice,Vitamin C,,Sweet Potatoes,3,0,0
+2024-02-07 19:52:33.478668,45,F,22.2,Fatty Foods,Calcium,Sodium,Almonds,8,1,1
+2024-05-21 19:52:33.478678,70,M,20.5,Citrus Fruits,Potassium,,Oranges,6,1,0
+2024-04-20 19:52:33.478688,49,F,30.2,Ice,Iron,,Kale,6,1,0
+2024-11-14 19:52:33.478699,32,F,29.7,Fatty Foods,Potassium,,Sweet Potatoes,2,0,0
+2024-06-18 19:52:33.478709,29,M,24.6,Citrus Fruits,Magnesium,,Bananas,5,1,0
+2024-10-01 19:52:33.478719,24,M,25.4,Citrus Fruits,Vitamin B12,,Salmon,10,1,1
+2024-03-18 19:52:33.478731,72,F,27.1,Fatty Foods,Vitamin B12,Iron,Spinach,1,1,0
+2024-08-21 19:52:33.478741,50,M,26.3,Citrus Fruits,Vitamin B12,,Eggs,4,1,0
+2024-05-21 19:52:33.478751,22,M,23.5,Fatty Foods,Vitamin B12,Sodium,Eggs,1,0,0
+2024-04-21 19:52:33.478761,30,F,31.8,Sugary Foods,Vitamin C,,Oranges,9,1,1
+2024-07-16 19:52:33.478772,25,M,29.4,Salty Foods,Iron,,Spinach,8,0,0
+2023-12-25 19:52:33.478782,23,F,27.2,Chocolate,Vitamin B12,,Eggs,5,0,0
+2024-11-15 19:52:33.478792,60,M,20.0,Sugary Foods,Vitamin B12,,Salmon,2,0,0
+2023-12-25 19:52:33.478802,21,F,24.7,Bread/Pasta,Potassium,,Sweet Potatoes,5,0,0
+2024-08-10 19:52:33.478813,47,F,34.5,Salty Foods,Vitamin B12,Vitamin C,Sweet Potatoes,7,1,1
+2024-08-25 19:52:33.478824,62,M,26.1,Citrus Fruits,Vitamin B,Sodium,Spinach,1,1,0
+2024-09-10 19:52:33.478834,60,M,29.5,Red Meat,Sodium,,Sardines,8,1,1
+2024-08-08 19:52:33.478844,59,M,33.3,Salty Foods,Magnesium,,Dark Chocolate,8,1,1
+2024-03-25 19:52:33.478856,74,M,26.3,Sugary Foods,Sodium,Vitamin B,Spinach,9,1,1
+2024-09-24 19:52:33.478867,25,F,34.9,Sugary Foods,Chromium,Zinc,Brazil Nuts,10,1,1
+2024-08-09 19:52:33.478880,37,F,31.6,Bread/Pasta,Iron,Vitamin B12,Kale,3,1,0
+2024-04-10 19:52:33.478891,19,F,23.0,Citrus Fruits,Potassium,,Sweet Potatoes,1,1,0
+2024-02-13 19:52:33.478901,58,M,25.7,Citrus Fruits,Vitamin B12,,Salmon,9,1,1
+2024-07-23 19:52:33.478912,20,M,25.1,Sugary Foods,Vitamin B,Calcium,Sardines,5,1,0
+2023-12-25 19:52:33.478924,19,M,26.8,Chocolate,Potassium,Vitamin B12,Salmon,8,1,1
+2024-07-07 19:52:33.478935,32,F,22.4,Bread/Pasta,Magnesium,,Bananas,6,1,0
+2024-04-18 19:52:33.478946,35,F,21.1,Fatty Foods,Magnesium,Potassium,Dark Chocolate,3,0,0
+2023-12-23 19:52:33.478958,74,M,19.7,Citrus Fruits,Calcium,Vitamin B12,Greek Yogurt,3,0,0
+2024-03-15 19:52:33.478969,51,M,23.9,Salty Foods,Vitamin B,Vitamin C,Oranges,4,1,0
+2024-03-24 19:52:33.478979,69,F,28.5,Bread/Pasta,Magnesium,,Brazil Nuts,8,0,0
+2024-08-17 19:52:33.478991,34,M,26.0,Red Meat,Vitamin B12,Chromium,Sardines,5,1,0
+2024-10-21 19:52:33.479002,23,F,30.5,Citrus Fruits,Magnesium,,Almonds,1,1,0
+2024-03-25 19:52:33.479012,39,F,29.3,Salty Foods,Vitamin C,,Oranges,1,1,0
+2024-10-11 19:52:33.479022,70,M,23.2,Ice,Vitamin B,,Spinach,3,1,0
+2024-10-09 19:52:33.479033,54,M,25.6,Fatty Foods,Calcium,Vitamin B12,Greek Yogurt,10,0,0
+2023-12-29 19:52:33.479043,62,F,28.0,Chocolate,Magnesium,Chromium,Quinoa,7,0,0
+2024-07-01 19:52:33.479056,32,F,27.6,Citrus Fruits,Sodium,Iron,Lentils,10,1,1
+2023-12-23 19:52:33.479068,51,M,33.0,Sugary Foods,Chromium,Iron,Lentils,5,0,0
+2024-09-28 19:52:33.479078,63,M,32.1,Fatty Foods,Iron,,Kale,8,1,1
+2024-03-14 19:52:33.479088,28,M,33.0,Chocolate,Potassium,,Bananas,5,1,0
+2024-06-05 19:52:33.479099,58,M,22.0,Salty Foods,Vitamin C,Chromium,Sweet Potatoes,2,0,0
+2024-10-10 19:52:33.479111,70,M,28.7,Red Meat,Calcium,Vitamin B,Greek Yogurt,5,1,0
+2024-01-15 19:52:33.479122,49,F,34.1,Sugary Foods,Iron,Calcium,Lentils,3,1,0
+2024-11-12 19:52:33.479132,69,F,29.1,Bread/Pasta,Chromium,,Sardines,8,1,1
+2024-08-18 19:52:33.479142,42,F,23.4,Salty Foods,Vitamin C,,Sweet Potatoes,6,1,0
+2024-06-02 19:52:33.479152,37,F,18.9,Bread/Pasta,Vitamin C,,Oranges,1,1,0
+2023-12-24 19:52:33.479162,30,M,30.6,Sugary Foods,Vitamin C,,Oranges,4,1,0
+2024-01-16 19:52:33.479172,50,M,19.0,Sugary Foods,Calcium,,Almonds,3,1,0
+2024-07-01 19:52:33.479184,38,F,24.7,Salty Foods,Vitamin C,Chromium,Sweet Potatoes,5,1,0
+2024-10-13 19:52:33.479197,39,M,24.9,Sugary Foods,Potassium,Vitamin B,Spinach,7,1,1
+2024-09-14 19:52:33.479208,42,M,18.8,Chocolate,Vitamin B12,Vitamin B,Eggs,8,1,1
+2024-08-17 19:52:33.479219,43,F,32.9,Fatty Foods,Vitamin B12,Chromium,Salmon,4,1,0
+2024-11-14 19:52:33.479231,66,M,26.7,Ice,Vitamin C,Zinc,Lentils,5,1,0
+2024-09-03 19:52:33.479241,39,F,30.6,Citrus Fruits,Iron,,Eggs,8,1,1
+2024-03-23 19:52:33.479252,60,F,21.8,Salty Foods,Calcium,,Almonds,6,1,0
+2024-02-23 19:52:33.479264,73,F,25.5,Fatty Foods,Calcium,Vitamin B12,Eggs,5,1,0
+2024-08-17 19:52:33.479274,55,M,30.7,Citrus Fruits,Iron,,Spinach,8,1,1
+2023-12-25 19:52:33.479284,58,F,32.0,Citrus Fruits,Sodium,,Avocado,5,1,0
+2024-04-24 19:52:33.479294,26,F,21.6,Chocolate,Iron,,Quinoa,10,1,1
+2024-04-13 19:52:33.479304,35,F,34.1,Fatty Foods,Sodium,,Bananas,5,1,0
+2024-09-22 19:52:33.479314,60,F,26.9,Chocolate,Zinc,,Brazil Nuts,7,0,0
+2024-03-08 19:52:33.479324,34,F,19.1,Ice,Zinc,,Brazil Nuts,6,1,0
+2024-06-19 19:52:33.479335,75,F,18.6,Ice,Vitamin B12,Iron,Salmon,7,1,1
+2024-04-21 19:52:33.479346,60,M,22.8,Sugary Foods,Magnesium,Vitamin C,Oranges,4,1,0
+2024-06-14 19:52:33.479356,40,M,34.0,Bread/Pasta,Vitamin B,,Spinach,4,1,0
+2024-11-09 19:52:33.479368,62,F,23.9,Bread/Pasta,Zinc,Vitamin B,Brazil Nuts,7,1,1
+2024-05-13 19:52:33.479381,68,M,25.8,Red Meat,Vitamin C,Chromium,Almonds,7,0,0
+2023-12-18 19:52:33.479393,30,F,25.8,Chocolate,Vitamin B12,,Salmon,5,1,0
+2024-02-24 19:52:33.479406,69,F,29.9,Sugary Foods,Sodium,Vitamin C,Kale,4,1,0
+2024-09-11 19:52:33.479419,60,F,23.9,Citrus Fruits,Vitamin C,Vitamin B,Oranges,1,0,0
+2024-04-01 19:52:33.479430,39,F,25.8,Red Meat,Iron,Vitamin B,Spinach,5,1,0
+2024-09-18 19:52:33.479442,37,F,19.5,Sugary Foods,Sodium,Zinc,Eggs,5,0,0
+2024-09-11 19:52:33.479455,68,M,21.3,Salty Foods,Sodium,Vitamin B12,Lentils,1,1,0
+2023-11-30 19:52:33.479465,49,F,31.6,Fatty Foods,Calcium,Vitamin C,Almonds,1,0,0
+2024-09-10 19:52:33.479477,30,M,23.9,Citrus Fruits,Magnesium,Iron,Brazil Nuts,1,1,0
+2024-01-05 19:52:33.479497,20,F,28.9,Red Meat,Chromium,,Kale,5,1,0
+2024-10-06 19:52:33.479509,39,F,24.9,Sugary Foods,Potassium,Vitamin B,Bananas,4,1,0
+2024-02-25 19:52:33.479522,37,M,28.3,Salty Foods,Vitamin B,Zinc,Brazil Nuts,6,1,0
+2024-01-23 19:52:33.479535,36,F,21.2,Citrus Fruits,Calcium,Potassium,Avocado,8,1,1
+2024-08-23 19:52:33.479546,30,F,28.1,Citrus Fruits,Zinc,Vitamin B,Brazil Nuts,2,1,0
+2024-02-14 19:52:33.479557,34,M,22.9,Fatty Foods,Vitamin C,Sodium,Sweet Potatoes,10,1,1
+2024-04-21 19:52:33.479567,55,F,21.0,Citrus Fruits,Zinc,,Brazil Nuts,8,1,1
+2024-08-12 19:52:33.479578,34,F,31.9,Ice,Magnesium,Zinc,Quinoa,10,1,1
+2024-06-08 19:52:33.479588,25,M,28.4,Salty Foods,Vitamin B12,,Salmon,3,1,0
+2024-10-10 19:52:33.479598,60,F,19.7,Fatty Foods,Zinc,,Brazil Nuts,10,1,1
+2024-04-06 19:52:33.479608,44,F,19.4,Citrus Fruits,Magnesium,,Spinach,3,1,0
+2024-10-13 19:52:33.479619,20,F,33.1,Chocolate,Zinc,Vitamin B,Spinach,8,1,1
+2024-06-12 19:52:33.479631,60,M,29.3,Chocolate,Sodium,Potassium,Sweet Potatoes,4,1,0
+2024-06-15 19:52:33.479643,26,M,19.9,Citrus Fruits,Potassium,Sodium,Oranges,1,0,0
+2024-09-15 19:52:33.479653,70,F,25.1,Fatty Foods,Calcium,,Kale,2,1,0
+2024-09-26 19:52:33.479664,43,M,25.3,Salty Foods,Vitamin B12,Iron,Dark Chocolate,8,1,1
+2024-05-01 19:52:33.479677,45,F,29.6,Red Meat,Chromium,Sodium,Kale,7,1,1
+2024-04-03 19:52:33.479687,26,F,28.7,Sugary Foods,Magnesium,Vitamin C,Quinoa,7,0,0
+2024-06-22 19:52:33.479699,39,M,27.5,Citrus Fruits,Potassium,Sodium,Oranges,6,1,0
+2024-04-14 19:52:33.479711,44,M,23.0,Ice,Iron,Potassium,Bananas,2,1,0
+2024-10-28 19:52:33.479723,67,F,28.9,Sugary Foods,Magnesium,Iron,Sweet Potatoes,4,1,0
+2024-06-05 19:52:33.479735,49,M,29.8,Ice,Calcium,Vitamin B12,Salmon,2,1,0
+2024-02-14 19:52:33.479747,51,M,34.3,Red Meat,Vitamin C,Magnesium,Oranges,2,1,0
+2024-10-22 19:52:33.479758,75,M,24.8,Ice,Potassium,,Oranges,6,1,0
+2024-01-29 19:52:33.479768,41,F,21.0,Bread/Pasta,Magnesium,,Dark Chocolate,3,1,0
+2024-02-20 19:52:33.479780,62,F,23.8,Fatty Foods,Calcium,Zinc,Sardines,3,1,0
+2023-11-29 19:52:33.479791,47,F,23.3,Ice,Iron,Chromium,Lentils,6,0,0
+2024-02-20 19:52:33.479802,60,M,29.6,Sugary Foods,Zinc,Chromium,Brazil Nuts,6,1,0
+2024-11-03 19:52:33.479814,45,F,33.2,Sugary Foods,Vitamin B,Iron,Spinach,3,1,0
+2024-02-09 19:52:33.479825,52,M,23.9,Ice,Iron,Potassium,Lentils,5,1,0
+2024-06-24 19:52:33.479837,64,M,26.5,Citrus Fruits,Vitamin B,Magnesium,Almonds,4,1,0
+2024-08-03 19:52:33.479852,60,F,20.9,Chocolate,Magnesium,Vitamin B12,Almonds,10,1,1
+2024-01-31 19:52:33.479862,59,F,34.0,Red Meat,Zinc,,Brazil Nuts,10,0,0
+2024-10-05 19:52:33.479872,56,F,30.4,Red Meat,Vitamin B,,Spinach,10,1,1
+2024-07-04 19:52:33.479882,61,M,28.5,Red Meat,Iron,,Quinoa,7,0,0
+2023-12-12 19:52:33.479892,55,F,30.5,Citrus Fruits,Zinc,,Brazil Nuts,4,1,0
+2024-01-06 19:52:33.479903,50,F,26.3,Salty Foods,Potassium,,Bananas,4,1,0
+2024-07-22 19:52:33.479914,21,M,26.7,Sugary Foods,Magnesium,Calcium,Almonds,8,1,1
+2024-03-06 19:52:33.479925,33,F,25.8,Salty Foods,Potassium,,Sweet Potatoes,10,1,1
+2024-10-21 19:52:33.479935,61,M,24.0,Salty Foods,Vitamin B12,,Eggs,6,0,0
+2024-09-30 19:52:33.479945,40,F,27.9,Ice,Zinc,,Brazil Nuts,7,1,1
+2023-12-20 19:52:33.479956,64,M,22.7,Bread/Pasta,Calcium,Iron,Dark Chocolate,6,1,0
+2024-05-16 19:52:33.479967,24,M,28.3,Chocolate,Vitamin C,Calcium,Sweet Potatoes,8,1,1
+2024-11-12 19:52:33.479979,25,M,24.9,Bread/Pasta,Sodium,Chromium,Spinach,5,0,0
+2024-07-23 19:52:33.479990,40,M,21.7,Sugary Foods,Chromium,Zinc,Brazil Nuts,1,1,0
+2024-01-09 19:52:33.480000,44,F,22.7,Sugary Foods,Zinc,,Brazil Nuts,6,1,0
+2024-03-11 19:52:33.480012,23,F,24.1,Ice,Potassium,Vitamin B12,Avocado,1,0,0
+2024-09-10 19:52:33.480023,75,F,23.1,Ice,Sodium,Calcium,Almonds,6,1,0
+2024-05-20 19:52:33.480035,55,M,30.1,Sugary Foods,Vitamin C,Magnesium,Brazil Nuts,5,1,0
+2024-10-26 19:52:33.480046,29,M,22.7,Sugary Foods,Iron,Vitamin C,Kale,7,0,0
+2024-10-18 19:52:33.480057,31,F,25.1,Ice,Iron,Sodium,Spinach,10,1,1
+2024-02-02 19:52:33.480067,71,M,30.3,Chocolate,Sodium,,Avocado,9,1,1
+2024-07-15 19:52:33.480080,47,F,29.2,Chocolate,Vitamin B12,Vitamin B,Spinach,6,0,0
+2024-05-09 19:52:33.480090,62,F,21.1,Bread/Pasta,Zinc,,Brazil Nuts,5,1,0
+2024-05-05 19:52:33.480100,65,F,28.5,Red Meat,Zinc,,Brazil Nuts,4,0,0
+2024-05-26 19:52:33.480111,58,F,34.5,Ice,Chromium,Potassium,Bananas,8,1,1
+2024-06-15 19:52:33.480122,59,F,20.0,Chocolate,Vitamin B,,Spinach,1,1,0
+2024-06-10 19:52:33.480134,50,M,20.5,Bread/Pasta,Vitamin B,Calcium,Kale,7,1,1
+2024-01-06 19:52:33.480146,60,F,27.1,Sugary Foods,Vitamin C,Sodium,Sweet Potatoes,3,1,0
+2024-10-01 19:52:33.480157,24,M,20.5,Salty Foods,Sodium,,Spinach,5,0,0
+2024-08-26 19:52:33.480169,49,M,27.0,Bread/Pasta,Vitamin B12,Chromium,Salmon,10,1,1
+2024-08-10 19:52:33.480178,68,F,29.5,Chocolate,Vitamin B12,,Salmon,2,1,0
+2024-10-02 19:52:33.480189,38,F,26.8,Salty Foods,Calcium,,Greek Yogurt,1,1,0
+2024-07-19 19:52:33.480200,19,F,20.2,Ice,Magnesium,Chromium,Bananas,5,1,0
+2024-06-23 19:52:33.480210,57,F,29.5,Citrus Fruits,Vitamin B12,,Eggs,6,1,0
+2024-09-14 19:52:33.480221,31,F,27.9,Ice,Calcium,Chromium,Almonds,9,1,1
+2024-10-31 19:52:33.480231,69,M,31.6,Red Meat,Sodium,Vitamin B12,Eggs,8,0,0
+2023-12-20 19:52:33.480243,32,F,19.0,Red Meat,Potassium,Vitamin C,Dark Chocolate,5,1,0
+2024-08-05 19:52:33.480254,72,M,19.6,Ice,Calcium,Vitamin C,Almonds,10,1,1
+2024-10-11 19:52:33.480265,25,F,31.1,Chocolate,Magnesium,Calcium,Brazil Nuts,9,1,1
+2024-11-10 19:52:33.480277,30,M,26.2,Citrus Fruits,Iron,Zinc,Quinoa,5,1,0
+2024-01-12 19:52:33.480290,58,F,24.6,Ice,Vitamin B,Zinc,Spinach,7,1,1
+2024-05-19 19:52:33.480300,70,F,28.2,Sugary Foods,Potassium,,Oranges,7,1,1
+2024-07-05 19:52:33.480312,31,M,21.6,Red Meat,Zinc,Vitamin B,Spinach,8,1,1
+2024-11-08 19:52:33.480323,47,F,20.3,Fatty Foods,Chromium,Vitamin C,Oranges,10,1,1
+2024-08-11 19:52:33.480335,43,M,25.3,Fatty Foods,Magnesium,Chromium,Avocado,7,1,1
+2024-10-22 19:52:33.480345,38,M,27.0,Salty Foods,Chromium,,Avocado,9,1,1
+2024-08-09 19:52:33.480356,57,M,30.3,Salty Foods,Vitamin C,Vitamin B,Spinach,3,1,0
+2024-05-17 19:52:33.480367,25,F,31.9,Chocolate,Calcium,Chromium,Greek Yogurt,3,1,0
+2024-01-03 19:52:33.480378,23,M,33.0,Fatty Foods,Vitamin C,Calcium,Sweet Potatoes,8,1,1
+2024-03-07 19:52:33.480391,48,F,22.1,Bread/Pasta,Chromium,Calcium,Sardines,3,1,0
+2024-05-13 19:52:33.480402,24,F,33.3,Chocolate,Calcium,Zinc,Greek Yogurt,3,1,0
+2024-07-29 19:52:33.480413,26,M,27.9,Fatty Foods,Chromium,Vitamin B12,Eggs,2,0,0
+2024-10-25 19:52:33.480423,27,F,21.3,Bread/Pasta,Potassium,,Oranges,9,1,1
+2024-03-18 19:52:33.480434,39,F,21.5,Fatty Foods,Iron,Calcium,Spinach,2,1,0
+2024-11-14 19:52:33.480444,51,F,21.4,Salty Foods,Zinc,,Brazil Nuts,1,1,0
+2024-11-23 19:52:33.480455,46,F,33.7,Sugary Foods,Iron,Zinc,Sweet Potatoes,7,1,1
+2024-09-12 19:52:33.480471,28,F,32.3,Red Meat,Potassium,Vitamin B12,Almonds,6,1,0
+2024-08-24 19:52:33.480482,32,F,26.1,Bread/Pasta,Zinc,Chromium,Brazil Nuts,1,0,0
+2023-12-20 19:52:33.480493,32,F,34.8,Fatty Foods,Magnesium,Vitamin B12,Almonds,10,1,1
+2024-03-18 19:52:33.480504,58,F,22.0,Fatty Foods,Vitamin B,Vitamin C,Oranges,3,1,0
+2024-03-05 19:52:33.480516,55,M,27.9,Sugary Foods,Zinc,Calcium,Almonds,10,1,1
+2024-08-04 19:52:33.480527,22,M,18.7,Bread/Pasta,Vitamin B12,Potassium,Sweet Potatoes,6,1,0
+2024-03-22 19:52:33.480538,45,M,34.5,Red Meat,Vitamin B12,,Salmon,2,0,0
+2024-02-06 19:52:33.480550,63,F,20.9,Chocolate,Vitamin B,Zinc,Brazil Nuts,4,1,0
+2024-09-05 19:52:33.480560,55,F,24.4,Citrus Fruits,Vitamin B12,,Eggs,3,1,0
+2024-05-27 19:52:33.480572,28,F,31.6,Citrus Fruits,Sodium,Vitamin B12,Eggs,2,1,0
+2024-05-02 19:52:33.480584,31,F,19.6,Chocolate,Chromium,Vitamin B12,Eggs,4,0,0
+2024-11-23 19:52:33.480595,34,F,32.8,Sugary Foods,Magnesium,,Brazil Nuts,7,1,1
+2024-10-31 19:52:33.480606,55,M,34.8,Red Meat,Sodium,Vitamin C,Sweet Potatoes,6,0,0
+2024-08-01 19:52:33.480617,75,F,30.5,Chocolate,Iron,,Eggs,9,0,0
+2024-01-15 19:52:33.480629,21,M,20.3,Sugary Foods,Magnesium,Chromium,Bananas,5,1,0
+2024-08-05 19:52:33.480640,71,M,26.4,Sugary Foods,Sodium,Magnesium,Brazil Nuts,6,1,0
+2024-08-25 19:52:33.480650,70,F,22.3,Red Meat,Sodium,,Spinach,8,1,1
+2024-06-10 19:52:33.480662,40,M,28.9,Salty Foods,Magnesium,Iron,Lentils,5,1,0
+2024-10-16 19:52:33.480673,64,F,33.4,Bread/Pasta,Vitamin C,Calcium,Greek Yogurt,9,1,1
+2023-12-29 19:52:33.480683,30,M,20.5,Fatty Foods,Chromium,,Avocado,1,1,0
+2023-12-25 19:52:33.480694,40,M,28.3,Fatty Foods,Magnesium,,Quinoa,10,1,1
+2023-11-29 19:52:33.480705,64,M,20.2,Sugary Foods,Zinc,Magnesium,Dark Chocolate,9,1,1
+2024-01-04 19:52:33.480715,66,M,19.1,Chocolate,Vitamin B,,Spinach,1,1,0
+2024-11-03 19:52:33.480726,61,M,32.1,Bread/Pasta,Zinc,Vitamin B12,Eggs,8,1,1
+2024-10-26 19:52:33.480737,18,M,30.9,Chocolate,Calcium,Magnesium,Kale,10,1,1
+2023-12-29 19:52:33.480748,59,M,31.4,Red Meat,Vitamin B12,Vitamin B,Salmon,8,1,1
+2024-07-26 19:52:33.480760,41,M,31.4,Chocolate,Vitamin C,Iron,Sweet Potatoes,6,0,0
+2024-01-06 19:52:33.480772,67,M,18.6,Chocolate,Iron,Vitamin C,Quinoa,9,1,1
+2024-02-07 19:52:33.480784,23,F,20.7,Bread/Pasta,Vitamin C,Vitamin B12,Eggs,1,0,0
+2024-08-07 19:52:33.480796,51,F,33.2,Fatty Foods,Chromium,,Greek Yogurt,8,1,1
+2024-09-15 19:52:33.480808,70,F,20.1,Citrus Fruits,Vitamin C,Vitamin B12,Almonds,2,1,0
+2024-11-02 19:52:33.480820,58,F,27.5,Fatty Foods,Vitamin B,,Spinach,7,1,1
+2024-01-28 19:52:33.480830,52,M,20.5,Chocolate,Potassium,,Oranges,5,1,0
+2024-01-21 19:52:33.480842,71,M,32.5,Chocolate,Vitamin B12,Magnesium,Brazil Nuts,6,1,0
+2023-12-29 19:52:33.480853,52,M,30.0,Ice,Iron,Potassium,Lentils,10,1,1
+2024-11-04 19:52:33.480864,51,F,30.3,Red Meat,Calcium,Vitamin B,Almonds,5,1,0
+2024-02-23 19:52:33.480875,37,F,31.3,Citrus Fruits,Chromium,Vitamin B12,Eggs,10,1,1
+2024-09-30 19:52:33.480887,51,F,28.7,Sugary Foods,Vitamin C,Zinc,Brazil Nuts,1,0,0
+2024-07-19 19:52:33.480898,19,M,18.7,Ice,Iron,Vitamin C,Spinach,10,1,1
+2024-11-12 19:52:33.480909,57,F,24.6,Chocolate,Calcium,,Almonds,1,1,0
+2024-07-22 19:52:33.480921,52,M,21.7,Citrus Fruits,Vitamin B12,Zinc,Salmon,8,0,0
+2024-01-16 19:52:33.480931,63,M,20.1,Citrus Fruits,Vitamin B12,,Salmon,2,1,0
+2024-03-01 19:52:33.480940,71,F,23.6,Sugary Foods,Chromium,,Bananas,4,1,0
+2024-04-01 19:52:33.480951,42,M,28.8,Salty Foods,Potassium,,Bananas,5,1,0
+2024-07-01 19:52:33.480961,56,F,19.2,Salty Foods,Vitamin B12,,Eggs,10,1,1
+2024-11-01 19:52:33.480972,58,F,31.9,Salty Foods,Sodium,Magnesium,Spinach,3,1,0
+2024-04-23 19:52:33.480983,42,M,21.0,Salty Foods,Vitamin B,Calcium,Almonds,7,1,1
+2024-08-28 19:52:33.480994,38,M,28.1,Salty Foods,Potassium,Vitamin B12,Eggs,4,1,0
+2023-11-30 19:52:33.481005,30,M,20.4,Bread/Pasta,Sodium,Magnesium,Spinach,9,0,0
+2024-08-14 19:52:33.481016,59,F,32.9,Sugary Foods,Vitamin B12,Calcium,Eggs,6,1,0
+2024-04-27 19:52:33.481028,20,F,34.6,Salty Foods,Vitamin C,Iron,Kale,7,1,1
+2024-07-04 19:52:33.481040,50,F,32.7,Sugary Foods,Vitamin B,Vitamin B12,Salmon,7,1,1
+2024-07-25 19:52:33.481052,48,F,31.8,Chocolate,Potassium,Iron,Kale,8,0,0
+2024-02-11 19:52:33.481063,20,M,28.7,Ice,Potassium,Sodium,Oranges,2,0,0
+2024-09-22 19:52:33.481075,64,F,27.6,Citrus Fruits,Zinc,Magnesium,Brazil Nuts,8,1,1
+2024-02-16 19:52:33.481086,70,M,22.2,Citrus Fruits,Vitamin B,Chromium,Spinach,6,1,0
+2024-04-02 19:52:33.481097,46,F,25.5,Fatty Foods,Magnesium,Vitamin B12,Bananas,4,1,0
+2024-08-29 19:52:33.481109,68,F,25.6,Ice,Iron,Calcium,Eggs,9,0,0
+2024-01-22 19:52:33.481121,40,M,28.4,Fatty Foods,Iron,Vitamin B12,Lentils,8,1,1
+2024-01-02 19:52:33.481133,36,M,27.5,Ice,Iron,Calcium,Sardines,9,1,1
+2023-12-04 19:52:33.481144,59,F,22.0,Fatty Foods,Vitamin C,Iron,Eggs,1,1,0
+2024-04-12 19:52:33.481155,36,F,28.5,Red Meat,Calcium,,Almonds,4,1,0
+2024-04-28 19:52:33.481165,75,M,27.5,Fatty Foods,Iron,,Lentils,1,1,0
+2024-11-10 19:52:33.481178,71,F,32.8,Fatty Foods,Vitamin B,Sodium,Oranges,5,0,0
+2024-03-05 19:52:33.481188,42,F,28.7,Salty Foods,Vitamin B12,,Salmon,1,1,0
+2024-04-17 19:52:33.481198,72,F,30.0,Sugary Foods,Iron,,Quinoa,1,1,0
+2024-06-05 19:52:33.481208,37,F,21.0,Ice,Magnesium,,Almonds,1,1,0
+2024-09-17 19:52:33.481219,45,M,27.6,Fatty Foods,Iron,,Kale,5,0,0
+2024-03-10 19:52:33.481230,50,M,29.5,Fatty Foods,Potassium,Magnesium,Spinach,1,1,0
+2024-03-02 19:52:33.481241,71,M,31.0,Red Meat,Vitamin B12,Zinc,Salmon,1,0,0
+2024-08-11 19:52:33.481254,25,F,26.8,Sugary Foods,Vitamin B12,Sodium,Salmon,2,0,0
+2024-06-15 19:52:33.481265,71,F,29.9,Red Meat,Vitamin B12,Iron,Kale,1,1,0
+2024-02-13 19:52:33.481277,47,F,32.0,Red Meat,Calcium,Sodium,Avocado,1,1,0
+2024-02-16 19:52:33.481288,23,F,26.8,Bread/Pasta,Chromium,Zinc,Brazil Nuts,1,0,0
+2024-05-24 19:52:33.481299,22,F,26.3,Red Meat,Potassium,Vitamin B,Oranges,8,0,0
+2024-08-04 19:52:33.481311,35,M,20.6,Red Meat,Sodium,Vitamin B,Oranges,4,0,0
+2023-12-27 19:52:33.481324,62,M,25.8,Fatty Foods,Vitamin B12,Calcium,Spinach,9,1,1
+2024-02-27 19:52:33.481335,33,M,26.3,Chocolate,Sodium,Vitamin C,Oranges,2,1,0
+2024-02-06 19:52:33.481348,56,F,32.1,Salty Foods,Vitamin B,Magnesium,Brazil Nuts,1,1,0
+2024-06-23 19:52:33.481360,20,M,19.8,Salty Foods,Vitamin C,Chromium,Kale,8,1,1
+2024-05-09 19:52:33.481371,28,F,29.9,Salty Foods,Potassium,,Avocado,3,1,0
+2024-07-31 19:52:33.481382,27,M,34.7,Ice,Vitamin C,,Oranges,4,0,0
+2024-04-26 19:52:33.481393,30,F,22.4,Salty Foods,Zinc,Sodium,Brazil Nuts,1,1,0
+2024-07-20 19:52:33.481405,26,F,21.4,Citrus Fruits,Potassium,Vitamin B,Bananas,3,1,0
+2024-02-06 19:52:33.481416,67,F,18.7,Chocolate,Vitamin C,Sodium,Sweet Potatoes,7,1,1
+2024-09-26 19:52:33.481428,23,M,28.4,Fatty Foods,Chromium,Iron,Kale,2,1,0
+2024-09-26 19:52:33.481440,68,F,23.8,Bread/Pasta,Vitamin C,,Oranges,1,1,0
+2024-03-10 19:52:33.481451,53,M,31.9,Citrus Fruits,Vitamin B12,Chromium,Eggs,7,0,0
+2023-11-29 19:52:33.481464,44,F,31.4,Chocolate,Vitamin B,Magnesium,Almonds,2,1,0
+2024-01-28 19:52:33.481477,43,M,21.2,Chocolate,Vitamin B,Iron,Quinoa,2,1,0
+2024-04-18 19:52:33.481488,53,F,31.0,Salty Foods,Iron,,Quinoa,8,1,1
+2024-10-05 19:52:33.481499,23,M,21.8,Chocolate,Calcium,,Greek Yogurt,9,0,0
+2024-09-24 19:52:33.481512,49,M,18.7,Fatty Foods,Chromium,Calcium,Almonds,3,1,0
+2024-01-04 19:52:33.481542,30,M,29.4,Citrus Fruits,Zinc,Potassium,Bananas,3,0,0
+2024-11-13 19:52:33.481566,58,M,18.7,Chocolate,Vitamin B,,Spinach,6,1,0
+2024-04-29 19:52:33.481582,26,M,33.6,Citrus Fruits,Zinc,Calcium,Brazil Nuts,8,1,1
+2024-11-10 19:52:33.481600,35,M,21.4,Bread/Pasta,Magnesium,Vitamin B,Bananas,8,1,1
+2023-12-31 19:52:33.481612,19,F,34.7,Chocolate,Vitamin C,,Oranges,2,1,0
+2024-07-28 19:52:33.481642,58,F,26.2,Ice,Vitamin B,Calcium,Sardines,6,1,0
+2024-03-22 19:52:33.481659,69,M,20.9,Citrus Fruits,Iron,,Dark Chocolate,8,1,1
+2024-10-22 19:52:33.481673,41,M,24.6,Bread/Pasta,Magnesium,Iron,Kale,3,1,0
+2024-02-06 19:52:33.481685,35,M,24.8,Citrus Fruits,Vitamin B12,Calcium,Salmon,9,1,1
+2024-06-30 19:52:33.481699,33,F,29.2,Citrus Fruits,Sodium,Potassium,Bananas,2,1,0
+2024-03-28 19:52:33.481712,74,F,34.6,Ice,Calcium,Potassium,Avocado,3,1,0
+2024-08-30 19:52:33.481723,58,F,23.9,Sugary Foods,Chromium,,Sweet Potatoes,10,1,1
+2024-05-21 19:52:33.481734,50,F,32.9,Fatty Foods,Magnesium,,Almonds,1,1,0
+2024-07-01 19:52:33.481747,29,M,32.6,Salty Foods,Sodium,Vitamin C,Oranges,9,0,0
+2023-12-27 19:52:33.481759,56,M,22.6,Ice,Calcium,Potassium,Avocado,3,0,0
+2024-05-30 19:52:33.481771,66,F,32.4,Ice,Potassium,Magnesium,Almonds,4,1,0
+2024-02-21 19:52:33.481784,31,M,31.6,Sugary Foods,Chromium,Iron,Dark Chocolate,6,1,0
+2024-04-06 19:52:33.481797,52,F,22.2,Ice,Potassium,Magnesium,Dark Chocolate,8,1,1
+2024-03-17 19:52:33.481809,69,M,33.8,Red Meat,Vitamin C,Sodium,Sweet Potatoes,1,1,0
+2024-07-07 19:52:33.481821,48,M,31.7,Bread/Pasta,Calcium,Sodium,Almonds,8,0,0
+2024-02-15 19:52:33.481832,62,F,30.5,Chocolate,Calcium,Sodium,Almonds,10,1,1
+2024-04-20 19:52:33.481844,54,M,22.4,Salty Foods,Iron,Chromium,Lentils,9,1,1
+2024-06-17 19:52:33.481855,39,F,29.6,Citrus Fruits,Calcium,,Kale,8,1,1
+2024-10-01 19:52:33.481866,50,M,29.2,Red Meat,Sodium,Chromium,Almonds,2,1,0
+2024-03-18 19:52:33.481877,55,M,24.3,Citrus Fruits,Magnesium,,Quinoa,9,1,1
+2024-08-25 19:52:33.481887,67,M,29.1,Salty Foods,Vitamin B12,,Salmon,6,1,0
+2024-08-15 19:52:33.481899,55,M,25.8,Red Meat,Vitamin B,Vitamin B12,Eggs,10,1,1
+2024-09-25 19:52:33.481910,37,M,32.2,Ice,Vitamin C,Vitamin B12,Salmon,4,1,0
+2024-01-31 19:52:33.481920,53,F,28.8,Citrus Fruits,Magnesium,,Dark Chocolate,10,1,1
+2024-03-17 19:52:33.481932,45,F,18.8,Citrus Fruits,Vitamin B,Magnesium,Sweet Potatoes,7,1,1
+2024-01-05 19:52:33.481943,28,M,33.2,Salty Foods,Chromium,Vitamin B12,Eggs,7,1,1
+2023-11-29 19:52:33.481954,37,M,24.4,Red Meat,Zinc,,Brazil Nuts,5,1,0
+2024-09-15 19:52:33.481964,50,F,33.4,Red Meat,Iron,,Dark Chocolate,6,1,0
+2024-02-08 19:52:33.481976,54,M,26.6,Chocolate,Magnesium,Vitamin C,Brazil Nuts,4,0,0
+2024-11-20 19:52:33.481988,51,M,27.7,Salty Foods,Sodium,Potassium,Avocado,1,1,0
+2024-05-18 19:52:33.482000,75,F,19.8,Salty Foods,Zinc,Calcium,Sardines,6,0,0
+2024-09-10 19:52:33.482013,44,M,34.9,Chocolate,Calcium,Zinc,Greek Yogurt,4,1,0
+2024-11-10 19:52:33.482024,26,M,25.7,Chocolate,Vitamin B12,Potassium,Oranges,8,1,1
+2023-12-11 19:52:33.482034,72,M,24.2,Bread/Pasta,Chromium,,Bananas,5,0,0
+2024-04-20 19:52:33.482045,22,M,33.2,Salty Foods,Vitamin B,,Spinach,3,1,0
+2024-05-24 19:52:33.482057,67,F,26.9,Chocolate,Magnesium,Vitamin C,Sardines,1,1,0
+2024-05-15 19:52:33.482067,19,M,33.8,Citrus Fruits,Magnesium,,Spinach,4,1,0
+2024-10-28 19:52:33.482080,38,F,31.4,Salty Foods,Magnesium,Potassium,Brazil Nuts,1,0,0
+2024-08-19 19:52:33.482091,40,F,20.6,Salty Foods,Magnesium,Calcium,Sweet Potatoes,8,1,1
+2024-10-03 19:52:33.482103,68,F,32.2,Sugary Foods,Iron,Chromium,Lentils,8,1,1
+2024-07-07 19:52:33.482112,70,M,23.1,Citrus Fruits,Zinc,,Brazil Nuts,3,0,0
+2024-11-21 19:52:33.482123,66,F,20.7,Sugary Foods,Magnesium,Sodium,Sweet Potatoes,9,1,1
+2024-08-10 19:52:33.482135,27,F,33.5,Sugary Foods,Calcium,Chromium,Sardines,3,1,0
+2024-11-06 19:52:33.482145,45,M,30.5,Sugary Foods,Vitamin B,,Spinach,10,1,1
+2024-07-15 19:52:33.482158,63,F,28.5,Bread/Pasta,Sodium,Potassium,Eggs,4,1,0
+2024-05-21 19:52:33.482168,37,M,27.7,Chocolate,Magnesium,,Bananas,10,1,1
+2023-12-04 19:52:33.482181,55,M,29.2,Fatty Foods,Vitamin B,Chromium,Bananas,3,1,0
+2024-06-25 19:52:33.482193,52,M,22.1,Fatty Foods,Chromium,Magnesium,Sweet Potatoes,1,1,0
+2024-09-16 19:52:33.482205,31,M,25.6,Chocolate,Vitamin B12,Iron,Oranges,7,0,0
+2023-12-02 19:52:33.482215,65,F,25.8,Ice,Magnesium,,Almonds,2,1,0
+2024-10-26 19:52:33.482227,51,M,32.9,Ice,Sodium,Chromium,Almonds,3,1,0
+2024-08-10 19:52:33.482237,28,M,21.0,Bread/Pasta,Vitamin B12,,Eggs,1,0,0
+2024-09-14 19:52:33.482249,39,F,25.2,Bread/Pasta,Zinc,Sodium,Eggs,6,0,0
+2024-03-30 19:52:33.482261,36,F,26.4,Red Meat,Zinc,Vitamin C,Brazil Nuts,1,1,0
+2023-12-23 19:52:33.482271,37,M,28.4,Red Meat,Sodium,,Sardines,5,0,0
+2024-09-20 19:52:33.482284,44,F,19.6,Sugary Foods,Sodium,Magnesium,Dark Chocolate,9,1,1
+2024-10-06 19:52:33.482294,39,M,24.0,Salty Foods,Zinc,,Brazil Nuts,6,1,0
+2024-10-12 19:52:33.482305,58,F,20.9,Salty Foods,Magnesium,Sodium,Dark Chocolate,7,1,1
+2024-07-26 19:52:33.482315,56,M,27.7,Ice,Chromium,,Quinoa,3,1,0
+2023-12-26 19:52:33.482327,60,M,31.8,Salty Foods,Zinc,Iron,Eggs,5,1,0
+2024-02-23 19:52:33.482339,26,M,23.1,Sugary Foods,Potassium,Magnesium,Almonds,5,1,0
+2024-05-06 19:52:33.482352,32,F,22.9,Salty Foods,Vitamin B,Potassium,Oranges,9,0,0
+2024-09-04 19:52:33.482363,37,M,19.8,Ice,Vitamin B12,Iron,Kale,5,1,0
+2024-10-22 19:52:33.482374,36,F,23.4,Red Meat,Vitamin C,,Sweet Potatoes,1,1,0
+2024-01-16 19:52:33.482386,52,F,30.7,Salty Foods,Iron,Vitamin B,Almonds,2,1,0
+2024-06-18 19:52:33.482397,34,F,35.0,Chocolate,Chromium,Potassium,Oranges,5,0,0
+2024-03-28 19:52:33.482408,29,F,19.6,Red Meat,Chromium,,Greek Yogurt,5,0,0
+2024-01-08 19:52:33.482425,38,F,27.4,Red Meat,Magnesium,Iron,Sweet Potatoes,1,0,0
+2024-04-08 19:52:33.482437,30,M,26.5,Chocolate,Vitamin C,Zinc,Sweet Potatoes,1,1,0
+2024-01-25 19:52:33.482448,59,M,26.1,Ice,Potassium,Sodium,Oranges,9,0,0
+2024-04-11 19:52:33.482459,28,F,27.0,Red Meat,Vitamin B12,Potassium,Oranges,2,1,0
+2024-03-09 19:52:33.482470,23,M,22.1,Sugary Foods,Chromium,Iron,Spinach,5,1,0
+2024-08-05 19:52:33.482481,68,F,22.3,Salty Foods,Zinc,Sodium,Brazil Nuts,9,1,1
+2024-10-04 19:52:33.482492,65,F,27.4,Bread/Pasta,Zinc,Vitamin C,Brazil Nuts,6,1,0
+2024-09-21 19:52:33.482503,29,M,31.7,Chocolate,Potassium,Chromium,Bananas,7,1,1
+2024-07-25 19:52:33.482514,20,F,33.6,Chocolate,Sodium,,Avocado,7,1,1
+2024-08-27 19:52:33.482526,75,M,30.0,Sugary Foods,Chromium,Vitamin C,Oranges,7,0,0
+2024-07-23 19:52:33.482538,45,F,29.6,Chocolate,Vitamin C,Vitamin B12,Salmon,10,0,0
+2024-10-26 19:52:33.482549,60,M,32.6,Fatty Foods,Potassium,Chromium,Avocado,9,0,0
+2023-12-23 19:52:33.482560,58,F,19.5,Ice,Potassium,Sodium,Bananas,8,0,0
+2024-10-16 19:52:33.482571,54,F,31.6,Bread/Pasta,Vitamin C,Chromium,Oranges,4,0,0
+2024-02-21 19:52:33.482583,46,F,22.0,Ice,Potassium,Vitamin C,Almonds,4,1,0
+2024-03-04 19:52:33.482596,35,F,26.4,Bread/Pasta,Chromium,Vitamin B12,Salmon,2,1,0
+2024-11-16 19:52:33.482608,24,M,25.9,Red Meat,Vitamin C,Magnesium,Bananas,10,1,1
+2024-05-31 19:52:33.482618,29,F,29.7,Bread/Pasta,Vitamin B12,,Eggs,8,1,1
+2024-03-27 19:52:33.482628,42,M,25.4,Chocolate,Vitamin C,,Oranges,4,1,0
+2024-04-16 19:52:33.482639,60,M,25.9,Salty Foods,Potassium,Vitamin B12,Bananas,1,0,0
+2024-03-04 19:52:33.482652,25,F,29.3,Chocolate,Potassium,Vitamin B12,Avocado,9,1,1
+2024-07-12 19:52:33.482663,23,F,23.1,Chocolate,Magnesium,Vitamin B,Sweet Potatoes,4,1,0
+2024-06-10 19:52:33.482673,53,F,21.2,Sugary Foods,Calcium,,Almonds,5,1,0
+2023-12-13 19:52:33.482685,61,F,29.0,Ice,Sodium,Vitamin B,Eggs,2,0,0
+2024-11-21 19:52:33.482696,62,M,20.8,Bread/Pasta,Vitamin C,,Oranges,4,1,0
+2024-04-12 19:52:33.482708,63,F,29.6,Red Meat,Potassium,Sodium,Dark Chocolate,5,1,0
+2024-11-22 19:52:33.482718,58,M,22.7,Bread/Pasta,Vitamin B,,Spinach,8,1,1
+2024-09-18 19:52:33.482728,41,F,19.0,Fatty Foods,Zinc,,Brazil Nuts,4,1,0
+2024-06-25 19:52:33.482740,19,M,31.9,Chocolate,Magnesium,Potassium,Avocado,3,1,0
+2024-08-02 19:52:33.482750,72,M,23.1,Ice,Chromium,,Brazil Nuts,8,0,0
+2024-05-01 19:52:33.482762,55,M,20.5,Chocolate,Vitamin C,Potassium,Sweet Potatoes,3,1,0
+2024-02-23 19:52:33.482775,44,F,31.2,Bread/Pasta,Vitamin C,Vitamin B12,Sweet Potatoes,1,1,0
+2023-12-13 19:52:33.482786,52,F,32.4,Citrus Fruits,Magnesium,,Quinoa,10,1,1
+2024-03-26 19:52:33.482796,38,M,24.8,Chocolate,Zinc,,Brazil Nuts,8,1,1
+2024-07-10 19:52:33.482808,60,M,20.1,Sugary Foods,Vitamin B,Sodium,Brazil Nuts,8,0,0
+2024-04-15 19:52:33.482819,33,M,20.1,Salty Foods,Zinc,Iron,Brazil Nuts,3,1,0
+2024-11-07 19:52:33.482831,32,F,34.2,Chocolate,Zinc,Vitamin B12,Eggs,9,1,1
+2024-07-16 19:52:33.482842,60,M,21.1,Chocolate,Iron,,Eggs,5,1,0
+2024-08-02 19:52:33.482854,62,M,23.0,Chocolate,Iron,Calcium,Almonds,10,1,1
+2024-08-10 19:52:33.482866,50,F,24.5,Citrus Fruits,Chromium,Magnesium,Brazil Nuts,4,1,0
+2023-12-03 19:52:33.482878,53,F,29.4,Red Meat,Chromium,Potassium,Avocado,10,1,1
+2024-11-23 19:52:33.482888,65,F,34.1,Citrus Fruits,Iron,Sodium,Kale,6,1,0
+2024-03-19 19:52:33.482900,20,M,26.9,Fatty Foods,Vitamin B12,Vitamin C,Oranges,1,1,0
+2023-12-10 19:52:33.482912,50,F,25.1,Fatty Foods,Vitamin C,Potassium,Sweet Potatoes,2,1,0
+2023-12-14 19:52:33.482922,32,F,20.0,Chocolate,Vitamin B12,,Salmon,1,1,0
+2024-10-26 19:52:33.482933,70,M,23.4,Fatty Foods,Magnesium,,Almonds,8,1,1
+2024-02-18 19:52:33.482944,18,F,28.3,Red Meat,Vitamin B,Vitamin C,Sweet Potatoes,3,1,0
+2024-01-23 19:52:33.482955,23,F,22.7,Fatty Foods,Magnesium,Potassium,Avocado,7,1,1
+2024-10-21 19:52:33.482966,61,M,23.8,Citrus Fruits,Potassium,,Sweet Potatoes,4,1,0
+2024-01-13 19:52:33.482977,72,F,18.8,Citrus Fruits,Vitamin B,Sodium,Spinach,1,0,0
+2024-11-22 19:52:33.482988,71,F,24.5,Fatty Foods,Sodium,,Brazil Nuts,2,1,0
+2024-06-25 19:52:33.483000,52,M,20.1,Sugary Foods,Chromium,Calcium,Almonds,5,1,0
+2024-04-07 19:52:33.483010,49,M,32.8,Bread/Pasta,Sodium,Calcium,Kale,6,0,0
+2024-05-21 19:52:33.483022,70,F,21.1,Fatty Foods,Magnesium,Sodium,Bananas,10,1,1
+2024-03-01 19:52:33.483034,63,M,25.9,Red Meat,Vitamin C,Calcium,Sweet Potatoes,2,0,0
+2024-07-19 19:52:33.483045,22,F,27.7,Sugary Foods,Iron,Vitamin C,Lentils,1,1,0
+2024-10-04 19:52:33.483056,41,M,19.6,Fatty Foods,Potassium,Zinc,Bananas,10,0,0
+2024-01-19 19:52:33.483067,50,F,32.1,Sugary Foods,Sodium,,Kale,2,0,0
+2024-10-22 19:52:33.483079,55,F,31.3,Fatty Foods,Vitamin C,Sodium,Oranges,7,1,1
+2024-07-21 19:52:33.483089,26,M,34.2,Sugary Foods,Vitamin B12,Sodium,Salmon,5,0,0
+2023-12-09 19:52:33.483100,60,F,19.0,Salty Foods,Calcium,,Greek Yogurt,4,1,0
+2024-08-11 19:52:33.483112,18,F,27.1,Chocolate,Zinc,Vitamin B12,Quinoa,3,0,0
+2024-04-05 19:52:33.483123,70,M,23.6,Sugary Foods,Vitamin B12,Magnesium,Brazil Nuts,6,1,0
+2024-06-04 19:52:33.483135,59,M,19.7,Fatty Foods,Calcium,Vitamin B,Sardines,1,0,0
+2024-06-26 19:52:33.483146,21,F,24.8,Fatty Foods,Vitamin C,,Sweet Potatoes,10,0,0
+2024-09-28 19:52:33.483157,35,F,29.2,Red Meat,Chromium,Vitamin B,Spinach,10,1,1
+2024-02-04 19:52:33.483169,71,M,32.2,Citrus Fruits,Vitamin B,Chromium,Eggs,6,1,0
+2024-01-03 19:52:33.483181,32,F,31.6,Ice,Sodium,Potassium,Sweet Potatoes,5,1,0
+2023-12-14 19:52:33.483191,21,F,25.0,Chocolate,Iron,Vitamin C,Quinoa,6,1,0
+2024-07-29 19:52:33.483203,60,F,21.1,Fatty Foods,Vitamin B12,Chromium,Salmon,3,0,0
+2023-12-16 19:52:33.483213,22,M,29.1,Bread/Pasta,Sodium,,Almonds,10,1,1
+2024-09-14 19:52:33.483225,27,M,33.8,Fatty Foods,Vitamin B12,Zinc,Eggs,8,1,1
+2024-03-30 19:52:33.483236,61,M,25.1,Sugary Foods,Vitamin B12,Calcium,Kale,1,0,0
+2024-10-15 19:52:33.483247,26,F,21.5,Chocolate,Vitamin B12,Vitamin B,Salmon,2,1,0
+2024-09-02 19:52:33.483259,72,F,31.0,Ice,Calcium,Chromium,Eggs,1,0,0
+2024-08-25 19:52:33.483269,51,F,20.8,Citrus Fruits,Vitamin C,,Oranges,9,1,1
+2024-08-15 19:52:33.483282,41,M,33.6,Fatty Foods,Vitamin B,Iron,Spinach,10,0,0
+2024-05-19 19:52:33.483294,69,F,24.1,Ice,Zinc,Magnesium,Greek Yogurt,8,1,1
+2024-08-17 19:52:33.483305,42,F,32.4,Ice,Magnesium,Vitamin B12,Brazil Nuts,10,0,0
+2024-03-07 19:52:33.483316,58,F,22.4,Citrus Fruits,Iron,Chromium,Eggs,6,0,0
+2024-09-11 19:52:33.483328,39,M,25.9,Bread/Pasta,Magnesium,Vitamin C,Spinach,5,1,0
+2024-10-05 19:52:33.483340,56,M,22.8,Salty Foods,Potassium,Sodium,Oranges,7,0,0
+2024-05-25 19:52:33.483350,19,M,25.5,Salty Foods,Vitamin B12,,Salmon,3,1,0
+2024-05-18 19:52:33.483360,19,F,27.7,Red Meat,Iron,,Kale,2,1,0
+2024-11-18 19:52:33.483370,72,F,31.1,Chocolate,Magnesium,Sodium,Bananas,7,1,1
+2024-04-28 19:52:33.483385,29,F,30.1,Bread/Pasta,Vitamin C,Vitamin B,Oranges,4,1,0
+2023-12-21 19:52:33.483396,48,M,33.2,Citrus Fruits,Iron,Vitamin B12,Eggs,6,1,0
+2024-02-02 19:52:33.483408,51,F,24.7,Red Meat,Zinc,Potassium,Avocado,10,1,1
+2024-05-28 19:52:33.483419,44,M,32.2,Ice,Calcium,Sodium,Greek Yogurt,2,1,0
+2024-11-02 19:52:33.483431,51,M,18.7,Salty Foods,Vitamin B12,Vitamin B,Spinach,3,0,0
+2024-02-20 19:52:33.483443,71,F,34.8,Citrus Fruits,Calcium,Zinc,Oranges,2,1,0
+2024-02-23 19:52:33.483454,49,F,29.9,Sugary Foods,Iron,Potassium,Sweet Potatoes,7,1,1
+2024-09-27 19:52:33.483466,31,F,27.3,Salty Foods,Potassium,Magnesium,Kale,10,1,1
+2024-02-15 19:52:33.483489,22,F,32.3,Salty Foods,Magnesium,Iron,Almonds,5,1,0
+2024-08-02 19:52:33.483501,42,F,20.3,Salty Foods,Sodium,Magnesium,Quinoa,2,1,0
+2024-05-28 19:52:33.483513,34,M,27.8,Fatty Foods,Calcium,Chromium,Dark Chocolate,8,1,1
+2024-03-15 19:52:33.483524,41,F,25.1,Ice,Chromium,Magnesium,Spinach,8,1,1
+2024-05-23 19:52:33.483536,63,M,22.2,Red Meat,Zinc,Iron,Spinach,4,0,0
+2024-05-04 19:52:33.483548,60,F,22.2,Salty Foods,Calcium,Potassium,Oranges,8,1,1
+2024-09-24 19:52:33.483560,28,M,21.5,Red Meat,Vitamin B12,Zinc,Brazil Nuts,9,1,1
+2024-07-18 19:52:33.483573,47,M,21.1,Red Meat,Iron,Vitamin C,Avocado,5,0,0
+2024-07-09 19:52:33.483584,73,M,30.0,Ice,Vitamin C,Chromium,Oranges,9,1,1
+2024-06-08 19:52:33.483595,68,M,30.7,Ice,Vitamin B12,Sodium,Salmon,3,1,0
+2024-08-16 19:52:33.483606,21,F,19.5,Citrus Fruits,Iron,Magnesium,Quinoa,6,1,0
+2024-07-13 19:52:33.483617,22,F,29.6,Bread/Pasta,Potassium,,Avocado,10,1,1
+2023-12-05 19:52:33.483628,63,F,33.6,Chocolate,Iron,Zinc,Spinach,8,1,1
+2024-07-03 19:52:33.483639,47,F,20.6,Bread/Pasta,Potassium,Sodium,Avocado,6,0,0
+2023-12-17 19:52:33.483651,36,F,33.0,Chocolate,Vitamin B,Calcium,Spinach,2,1,0
+2024-04-18 19:52:33.483662,66,F,20.1,Chocolate,Potassium,Chromium,Avocado,7,0,0
+2023-12-29 19:52:33.483673,36,F,31.9,Sugary Foods,Vitamin B12,Calcium,Sardines,4,1,0
+2024-05-12 19:52:33.483683,73,M,26.0,Fatty Foods,Zinc,,Brazil Nuts,8,0,0
+2024-08-05 19:52:33.483694,44,F,20.4,Bread/Pasta,Zinc,Iron,Eggs,5,1,0
+2024-09-07 19:52:33.483705,34,F,24.4,Ice,Zinc,Vitamin C,Brazil Nuts,4,1,0
+2024-11-26 19:52:33.483716,30,F,33.0,Ice,Vitamin B12,Sodium,Eggs,3,1,0
+2024-02-21 19:52:33.483730,32,F,27.0,Chocolate,Sodium,Calcium,Sardines,10,1,1
+2024-04-18 19:52:33.483742,55,F,31.7,Ice,Vitamin C,Magnesium,Bananas,7,1,1
+2024-03-10 19:52:33.483754,60,M,30.2,Fatty Foods,Zinc,Vitamin C,Oranges,10,1,1
+2024-03-25 19:52:33.483764,61,F,25.5,Fatty Foods,Zinc,,Brazil Nuts,6,1,0
+2024-11-25 19:52:33.483774,18,M,27.5,Ice,Vitamin C,,Oranges,8,1,1
+2024-10-17 19:52:33.483785,31,M,30.0,Chocolate,Potassium,Vitamin B12,Bananas,4,1,0
+2024-05-18 19:52:33.483797,27,F,24.4,Salty Foods,Vitamin B,Potassium,Bananas,8,1,1
+2024-01-06 19:52:33.483809,22,M,24.6,Red Meat,Magnesium,Zinc,Almonds,10,0,0
+2024-01-21 19:52:33.483820,75,M,20.7,Red Meat,Vitamin B,Vitamin C,Sweet Potatoes,10,1,1
+2024-04-27 19:52:33.483832,34,M,25.6,Fatty Foods,Vitamin C,Sodium,Brazil Nuts,4,0,0
+2024-04-10 19:52:33.483842,38,F,24.5,Citrus Fruits,Iron,,Dark Chocolate,3,1,0
+2024-07-24 19:52:33.483853,40,M,21.8,Bread/Pasta,Zinc,Sodium,Brazil Nuts,7,0,0
+2024-06-12 19:52:33.483864,33,F,22.4,Citrus Fruits,Chromium,Zinc,Brazil Nuts,1,1,0
+2024-08-15 19:52:33.483876,47,M,27.3,Fatty Foods,Vitamin C,Zinc,Oranges,4,1,0
+2024-07-08 19:52:33.483888,46,F,33.0,Red Meat,Chromium,Iron,Eggs,8,1,1
+2024-03-13 19:52:33.483898,37,F,25.8,Sugary Foods,Chromium,,Dark Chocolate,10,1,1
+2024-01-22 19:52:33.483910,40,F,21.7,Chocolate,Vitamin C,Iron,Lentils,4,1,0
+2024-09-25 19:52:33.483922,20,M,22.5,Red Meat,Iron,Magnesium,Spinach,5,0,0
+2024-06-07 19:52:33.483933,50,M,23.4,Salty Foods,Potassium,,Oranges,4,1,0
+2024-08-30 19:52:33.483944,18,M,29.0,Sugary Foods,Magnesium,Vitamin B12,Bananas,2,1,0
+2024-02-08 19:52:33.483955,51,M,21.7,Red Meat,Potassium,Iron,Kale,4,0,0
+2024-01-12 19:52:33.483966,34,F,22.4,Citrus Fruits,Iron,Vitamin C,Kale,9,1,1
+2024-10-07 19:52:33.483977,37,M,33.1,Citrus Fruits,Vitamin C,Sodium,Sweet Potatoes,6,1,0
+2023-12-14 19:52:33.483988,63,F,32.1,Chocolate,Vitamin B12,Calcium,Almonds,6,0,0
+2024-07-29 19:52:33.484000,39,M,25.0,Chocolate,Magnesium,Vitamin B12,Eggs,10,1,1
+2024-09-16 19:52:33.484011,48,M,24.0,Bread/Pasta,Iron,Vitamin B,Spinach,2,0,0
+2024-09-23 19:52:33.484023,39,F,32.5,Salty Foods,Vitamin C,Vitamin B,Sweet Potatoes,8,0,0
+2024-05-22 19:52:33.484034,63,F,26.0,Chocolate,Vitamin B,Zinc,Spinach,5,1,0
+2024-08-29 19:52:33.484048,69,F,31.3,Fatty Foods,Chromium,Sodium,Quinoa,10,1,1
+2024-03-19 19:52:33.484059,70,F,33.6,Ice,Iron,,Lentils,6,1,0
+2024-03-07 19:52:33.484068,23,M,33.5,Red Meat,Vitamin B12,,Salmon,8,1,1
+2024-04-06 19:52:33.484080,33,M,34.7,Sugary Foods,Calcium,Potassium,Kale,4,1,0
+2024-04-21 19:52:33.484092,31,M,32.3,Bread/Pasta,Zinc,Sodium,Spinach,4,1,0
+2024-08-14 19:52:33.484102,35,M,20.1,Sugary Foods,Zinc,,Brazil Nuts,3,1,0
+2023-12-13 19:52:33.484112,66,M,22.3,Salty Foods,Vitamin B12,,Eggs,3,1,0
+2024-02-19 19:52:33.484122,24,M,29.5,Chocolate,Potassium,,Avocado,8,1,1
+2024-08-05 19:52:33.484135,63,F,20.9,Fatty Foods,Magnesium,Vitamin B,Quinoa,3,1,0
+2024-01-16 19:52:33.484146,67,M,32.8,Red Meat,Iron,Chromium,Quinoa,2,1,0
+2024-09-03 19:52:33.484156,31,M,28.8,Citrus Fruits,Magnesium,,Brazil Nuts,2,1,0
+2024-05-01 19:52:33.484167,72,F,21.2,Red Meat,Calcium,,Almonds,4,1,0
+2024-06-07 19:52:33.484178,57,M,22.3,Ice,Magnesium,Sodium,Bananas,3,1,0
+2024-01-07 19:52:33.484189,36,M,24.1,Bread/Pasta,Calcium,Vitamin B,Almonds,8,1,1
+2024-03-18 19:52:33.484201,64,F,29.9,Sugary Foods,Potassium,Vitamin B,Avocado,1,0,0
+2024-03-10 19:52:33.484211,69,F,21.4,Red Meat,Calcium,,Kale,1,1,0
+2024-02-08 19:52:33.484223,67,F,23.4,Ice,Chromium,Vitamin B12,Quinoa,5,1,0
+2024-08-25 19:52:33.484235,71,F,34.1,Sugary Foods,Calcium,Vitamin C,Brazil Nuts,1,1,0
+2024-09-19 19:52:33.484245,59,F,19.8,Bread/Pasta,Vitamin C,,Oranges,4,0,0
+2024-07-26 19:52:33.484257,39,M,27.1,Salty Foods,Vitamin B12,Zinc,Sweet Potatoes,2,1,0
+2024-01-10 19:52:33.484268,50,F,34.7,Fatty Foods,Magnesium,,Spinach,6,1,0
+2024-07-31 19:52:33.484279,39,M,19.3,Red Meat,Vitamin B,Potassium,Oranges,9,1,1
+2024-06-07 19:52:33.484290,31,M,25.2,Red Meat,Iron,,Spinach,8,1,1
+2024-05-05 19:52:33.484300,30,M,21.4,Salty Foods,Chromium,,Greek Yogurt,8,1,1
+2024-03-17 19:52:33.484313,22,M,25.9,Fatty Foods,Vitamin C,Sodium,Sweet Potatoes,3,1,0
+2024-07-20 19:52:33.484324,30,F,28.7,Fatty Foods,Calcium,Sodium,Sardines,4,0,0
+2024-02-04 19:52:33.484336,29,F,34.8,Bread/Pasta,Potassium,Zinc,Bananas,10,1,1
+2024-10-09 19:52:33.484346,25,F,34.5,Citrus Fruits,Zinc,,Brazil Nuts,5,1,0
+2024-06-06 19:52:33.484357,44,M,20.3,Salty Foods,Potassium,Sodium,Oranges,3,1,0
+2024-01-06 19:52:33.484370,64,M,24.2,Salty Foods,Vitamin B,Iron,Kale,7,0,0
+2024-02-09 19:52:33.484382,66,M,34.4,Citrus Fruits,Vitamin B,Calcium,Greek Yogurt,1,1,0
+2024-02-16 19:52:33.484394,73,M,22.5,Citrus Fruits,Magnesium,Iron,Lentils,1,1,0
+2024-01-18 19:52:33.484406,53,M,25.2,Sugary Foods,Sodium,Vitamin B12,Brazil Nuts,2,0,0
+2024-10-03 19:52:33.484417,35,F,31.4,Citrus Fruits,Potassium,Chromium,Oranges,1,1,0
+2024-07-02 19:52:33.484428,67,F,24.4,Bread/Pasta,Chromium,Vitamin C,Oranges,9,1,1
+2024-06-14 19:52:33.484440,60,F,19.9,Chocolate,Calcium,Potassium,Sardines,6,1,0
+2023-12-29 19:52:33.484450,68,F,26.6,Fatty Foods,Sodium,,Eggs,5,1,0
+2023-11-29 19:52:33.484463,30,M,30.6,Fatty Foods,Zinc,Vitamin B12,Eggs,3,1,0
+2024-04-23 19:52:33.484475,20,M,29.5,Red Meat,Magnesium,Calcium,Quinoa,3,1,0
+2024-07-14 19:52:33.484486,52,F,29.8,Fatty Foods,Vitamin B,Zinc,Spinach,4,1,0
+2024-08-29 19:52:33.484497,35,M,30.8,Citrus Fruits,Vitamin B12,,Salmon,7,1,1
+2024-06-14 19:52:33.484509,49,F,31.1,Ice,Vitamin B,Vitamin B12,Eggs,10,1,1
+2024-06-22 19:52:33.484519,52,F,25.8,Bread/Pasta,Iron,,Lentils,4,1,0
+2024-04-03 19:52:33.484529,40,M,23.4,Citrus Fruits,Zinc,,Brazil Nuts,10,1,1
+2023-11-30 19:52:33.484541,29,F,19.6,Citrus Fruits,Iron,Vitamin B12,Dark Chocolate,4,1,0
+2024-06-30 19:52:33.484552,38,M,33.0,Bread/Pasta,Iron,Chromium,Lentils,3,1,0
+2024-05-29 19:52:33.484562,57,M,31.3,Bread/Pasta,Chromium,Vitamin B12,Salmon,4,1,0
+2024-11-24 19:52:33.484572,33,F,26.6,Fatty Foods,Calcium,,Almonds,4,1,0
+2024-11-23 19:52:33.484582,64,F,19.4,Salty Foods,Potassium,,Bananas,6,1,0
+2024-08-22 19:52:33.484594,46,M,34.4,Citrus Fruits,Zinc,Vitamin C,Oranges,9,1,1
+2024-07-26 19:52:33.484604,67,F,32.0,Salty Foods,Sodium,,Sardines,3,1,0
+2024-04-01 19:52:33.484614,51,F,19.3,Chocolate,Zinc,,Brazil Nuts,8,1,1
+2024-06-04 19:52:33.484625,71,F,30.6,Salty Foods,Chromium,Magnesium,Bananas,5,1,0
+2024-03-22 19:52:33.484638,43,F,32.6,Citrus Fruits,Chromium,Potassium,Oranges,1,1,0
+2024-10-01 19:52:33.484649,21,F,29.3,Ice,Iron,Vitamin B12,Salmon,8,1,1
+2024-07-28 19:52:33.484661,59,F,26.9,Fatty Foods,Iron,Calcium,Kale,8,0,0
+2024-11-26 19:52:33.484674,75,M,28.8,Red Meat,Vitamin B,Zinc,Spinach,5,1,0
+2024-02-01 19:52:33.484685,25,M,30.2,Sugary Foods,Zinc,,Brazil Nuts,6,1,0
+2023-12-29 19:52:33.484698,19,M,28.4,Ice,Sodium,Potassium,Almonds,4,1,0
+2024-01-01 19:52:33.484710,25,F,21.3,Citrus Fruits,Vitamin B12,Magnesium,Dark Chocolate,5,1,0
+2024-11-07 19:52:33.484721,67,F,32.2,Bread/Pasta,Potassium,Vitamin C,Sweet Potatoes,6,1,0
+2024-08-07 19:52:33.484734,33,F,31.2,Red Meat,Vitamin B,Iron,Eggs,8,1,1
+2024-06-11 19:52:33.484745,48,M,27.6,Red Meat,Vitamin C,Zinc,Brazil Nuts,4,0,0
+2024-05-01 19:52:33.484756,22,F,29.8,Sugary Foods,Iron,Vitamin B12,Spinach,5,1,0
+2024-05-30 19:52:33.484766,53,F,32.8,Bread/Pasta,Vitamin C,,Sweet Potatoes,1,1,0
+2024-02-08 19:52:33.484778,68,F,25.5,Fatty Foods,Vitamin B12,Iron,Almonds,6,0,0
+2024-06-22 19:52:33.484790,35,M,26.7,Salty Foods,Magnesium,Sodium,Dark Chocolate,8,1,1
+2024-10-29 19:52:33.484802,39,F,23.2,Citrus Fruits,Vitamin B,Potassium,Spinach,9,1,1
+2024-09-04 19:52:33.484813,37,M,31.8,Bread/Pasta,Vitamin C,Iron,Oranges,2,0,0
+2024-01-24 19:52:33.484824,19,F,25.3,Fatty Foods,Iron,Vitamin B12,Kale,8,1,1
+2024-07-22 19:52:33.484836,22,M,21.1,Sugary Foods,Vitamin B,Chromium,Spinach,8,1,1
+2024-05-23 19:52:33.484848,44,F,24.8,Citrus Fruits,Vitamin B12,Chromium,Oranges,8,1,1
+2024-03-07 19:52:33.484860,72,F,28.0,Fatty Foods,Vitamin C,Magnesium,Bananas,2,1,0
+2024-07-16 19:52:33.484871,56,F,24.6,Fatty Foods,Zinc,Calcium,Brazil Nuts,2,0,0
+2024-07-23 19:52:33.484883,62,F,25.7,Sugary Foods,Iron,Zinc,Lentils,6,0,0
+2024-03-05 19:52:33.484893,20,F,22.3,Red Meat,Iron,,Spinach,7,0,0
+2024-01-20 19:52:33.484905,36,F,19.7,Fatty Foods,Sodium,Zinc,Quinoa,1,1,0
+2024-08-31 19:52:33.484917,47,F,34.7,Ice,Vitamin B,Potassium,Spinach,5,1,0
+2024-09-03 19:52:33.484927,54,F,20.7,Fatty Foods,Chromium,,Oranges,2,0,0
+2024-07-21 19:52:33.484939,41,M,21.4,Ice,Sodium,Potassium,Sweet Potatoes,10,1,1
+2024-02-29 19:52:33.484951,44,M,32.0,Chocolate,Vitamin B,Iron,Kale,3,1,0
+2024-02-09 19:52:33.484962,59,M,28.3,Ice,Vitamin C,Zinc,Sweet Potatoes,5,1,0
+2024-03-30 19:52:33.484972,47,F,34.1,Red Meat,Vitamin C,,Sweet Potatoes,7,1,1
+2024-07-18 19:52:33.484982,18,M,27.0,Red Meat,Sodium,,Avocado,2,1,0
+2024-01-29 19:52:33.484992,46,F,21.9,Red Meat,Iron,,Spinach,10,1,1
+2024-03-28 19:52:33.485008,66,M,29.2,Bread/Pasta,Calcium,Magnesium,Brazil Nuts,5,1,0
+2024-03-30 19:52:33.485020,53,M,20.1,Red Meat,Potassium,Calcium,Kale,7,1,1
+2024-03-25 19:52:33.485030,65,M,24.7,Ice,Magnesium,,Almonds,6,1,0
+2023-12-27 19:52:33.485041,57,F,28.9,Citrus Fruits,Vitamin B,Sodium,Spinach,3,1,0
+2024-09-27 19:52:33.485051,61,F,23.6,Citrus Fruits,Chromium,,Oranges,4,1,0
+2023-12-28 19:52:33.485064,56,F,25.1,Chocolate,Vitamin C,Vitamin B12,Sweet Potatoes,2,1,0
+2024-05-18 19:52:33.485076,58,F,22.8,Bread/Pasta,Vitamin B,Calcium,Greek Yogurt,8,0,0
+2024-02-12 19:52:33.485087,56,F,33.7,Salty Foods,Vitamin B12,Potassium,Bananas,9,1,1
+2024-08-23 19:52:33.485098,38,F,26.6,Bread/Pasta,Iron,Vitamin C,Quinoa,9,1,1
+2024-05-01 19:52:33.485111,21,M,24.5,Citrus Fruits,Vitamin C,Vitamin B12,Sardines,4,1,0
+2024-07-16 19:52:33.485123,37,F,20.3,Ice,Iron,Vitamin B,Sweet Potatoes,9,0,0
+2024-11-11 19:52:33.485134,72,F,20.0,Red Meat,Vitamin C,Chromium,Sweet Potatoes,1,1,0
+2024-08-31 19:52:33.485144,25,M,33.1,Ice,Vitamin B,,Spinach,3,1,0
+2024-05-31 19:52:33.485154,28,F,19.8,Salty Foods,Zinc,,Brazil Nuts,4,1,0
+2024-03-15 19:52:33.485164,48,M,26.0,Fatty Foods,Calcium,,Kale,1,1,0
+2024-02-08 19:52:33.485176,68,M,32.3,Sugary Foods,Zinc,Sodium,Spinach,3,1,0
+2024-01-03 19:52:33.485190,40,M,24.2,Salty Foods,Vitamin B12,Vitamin C,Salmon,1,1,0
+2024-02-21 19:52:33.485200,38,M,33.1,Bread/Pasta,Vitamin C,,Oranges,1,1,0
+2024-08-12 19:52:33.485212,20,F,25.4,Fatty Foods,Potassium,Iron,Sweet Potatoes,2,1,0
+2024-03-23 19:52:33.485223,71,F,25.3,Red Meat,Magnesium,Calcium,Quinoa,10,1,1
+2024-10-06 19:52:33.485234,74,M,26.0,Chocolate,Vitamin C,,Sweet Potatoes,3,1,0
+2024-04-13 19:52:33.485245,68,F,19.3,Fatty Foods,Chromium,Vitamin B,Spinach,3,1,0
+2024-07-04 19:52:33.485256,23,M,22.8,Red Meat,Magnesium,Sodium,Spinach,3,1,0
+2023-12-24 19:52:33.485267,53,F,32.5,Bread/Pasta,Zinc,,Brazil Nuts,1,0,0
+2024-02-04 19:52:33.485278,31,M,28.8,Ice,Calcium,Potassium,Avocado,1,1,0
+2023-12-18 19:52:33.485288,38,M,28.0,Fatty Foods,Vitamin C,,Sweet Potatoes,7,1,1
+2024-08-20 19:52:33.485299,53,F,33.9,Bread/Pasta,Magnesium,,Brazil Nuts,6,0,0
+2024-10-22 19:52:33.485309,60,M,24.7,Sugary Foods,Iron,,Quinoa,10,1,1
+2024-02-28 19:52:33.485319,56,M,22.2,Fatty Foods,Vitamin C,,Sweet Potatoes,6,1,0
+2024-07-07 19:52:33.485332,21,M,22.9,Citrus Fruits,Magnesium,Calcium,Quinoa,7,1,1
+2023-11-27 19:52:33.485343,75,F,32.9,Chocolate,Magnesium,Potassium,Quinoa,4,0,0
+2024-11-08 19:52:33.485355,43,F,27.2,Citrus Fruits,Iron,Sodium,Spinach,7,1,1
+2024-04-20 19:52:33.485367,56,F,19.3,Citrus Fruits,Zinc,Potassium,Almonds,2,0,0
+2024-03-09 19:52:33.485379,72,F,25.7,Chocolate,Vitamin C,Magnesium,Almonds,1,0,0
+2024-11-08 19:52:33.485390,33,M,30.3,Bread/Pasta,Potassium,,Bananas,5,1,0
+2023-12-24 19:52:33.485401,55,F,19.9,Salty Foods,Vitamin C,Iron,Oranges,6,1,0
+2024-06-23 19:52:33.485411,29,F,27.9,Red Meat,Sodium,,Oranges,4,1,0
+2024-09-17 19:52:33.485422,36,M,20.6,Chocolate,Magnesium,Vitamin B12,Brazil Nuts,10,1,1
+2024-10-03 19:52:33.485433,31,M,33.7,Chocolate,Magnesium,,Brazil Nuts,9,0,0
+2024-06-27 19:52:33.485445,69,F,27.7,Salty Foods,Sodium,Vitamin B12,Quinoa,10,1,1
+2024-07-21 19:52:33.485457,41,F,27.6,Fatty Foods,Magnesium,Calcium,Dark Chocolate,4,1,0
+2024-11-07 19:52:33.485468,53,M,23.6,Sugary Foods,Sodium,Chromium,Quinoa,1,1,0
+2024-05-08 19:52:33.485479,45,M,18.8,Citrus Fruits,Potassium,Vitamin B12,Salmon,8,1,1
+2024-03-19 19:52:33.485489,58,F,26.8,Citrus Fruits,Sodium,,Kale,4,1,0
+2024-09-27 19:52:33.485501,56,F,18.7,Citrus Fruits,Vitamin B12,Vitamin B,Oranges,3,1,0
+2024-08-09 19:52:33.485512,28,M,25.9,Bread/Pasta,Magnesium,Vitamin B,Quinoa,8,0,0
+2024-11-15 19:52:33.485523,34,M,24.9,Ice,Magnesium,Zinc,Quinoa,10,1,1
+2024-04-01 19:52:33.485534,30,M,33.2,Chocolate,Vitamin C,Vitamin B,Oranges,5,0,0
+2024-07-06 19:52:33.485544,33,M,22.5,Sugary Foods,Vitamin B12,,Salmon,9,1,1
+2024-02-07 19:52:33.485556,47,M,31.2,Salty Foods,Zinc,Calcium,Brazil Nuts,4,0,0
+2024-09-08 19:52:33.485567,74,M,34.6,Bread/Pasta,Iron,Calcium,Kale,2,0,0
+2024-02-09 19:52:33.485578,64,F,22.3,Bread/Pasta,Magnesium,Chromium,Quinoa,4,1,0
+2024-01-27 19:52:33.485589,24,F,19.2,Fatty Foods,Zinc,Vitamin C,Oranges,1,1,0
+2024-11-06 19:52:33.485599,52,F,22.4,Red Meat,Chromium,,Dark Chocolate,9,1,1
+2024-03-04 19:52:33.485611,30,M,34.5,Salty Foods,Vitamin B12,Sodium,Eggs,10,1,1
+2024-09-12 19:52:33.485623,53,M,21.9,Chocolate,Potassium,Zinc,Oranges,1,1,0
+2023-12-28 19:52:33.485635,57,F,19.3,Ice,Chromium,Iron,Brazil Nuts,10,0,0
+2024-03-10 19:52:33.485647,40,M,18.8,Red Meat,Vitamin B,,Spinach,8,0,0
+2024-03-01 19:52:33.485657,26,M,33.5,Fatty Foods,Sodium,,Lentils,8,1,1
+2024-09-03 19:52:33.485669,60,F,21.8,Sugary Foods,Chromium,Iron,Oranges,9,1,1
+2024-01-19 19:52:33.485680,47,M,21.1,Chocolate,Potassium,Iron,Greek Yogurt,3,1,0
+2024-03-04 19:52:33.485693,62,F,28.0,Salty Foods,Vitamin B,Sodium,Bananas,8,1,1
+2024-11-17 19:52:33.485703,75,M,26.5,Ice,Iron,,Quinoa,5,1,0
+2024-01-14 19:52:33.485715,18,M,29.7,Bread/Pasta,Vitamin B12,Vitamin C,Eggs,2,1,0
+2024-05-21 19:52:33.485728,45,F,23.9,Citrus Fruits,Zinc,Vitamin B12,Sardines,5,1,0
+2023-12-30 19:52:33.485739,74,F,31.1,Citrus Fruits,Iron,Vitamin C,Quinoa,2,1,0
+2024-09-26 19:52:33.485750,25,F,19.4,Chocolate,Iron,,Eggs,9,1,1
+2024-04-22 19:52:33.485762,70,F,29.8,Ice,Vitamin B,Zinc,Sardines,4,1,0
+2024-08-10 19:52:33.485774,64,M,31.3,Sugary Foods,Vitamin B12,Vitamin B,Salmon,6,0,0
+2024-08-01 19:52:33.485785,49,F,22.6,Chocolate,Chromium,Sodium,Greek Yogurt,6,1,0
+2024-05-20 19:52:33.485796,31,M,27.5,Sugary Foods,Potassium,Chromium,Sweet Potatoes,6,1,0
+2024-04-17 19:52:33.485806,32,F,26.7,Citrus Fruits,Vitamin B,,Spinach,4,1,0
+2024-01-26 19:52:33.485817,32,M,20.2,Salty Foods,Vitamin B12,Vitamin C,Oranges,7,1,1
+2024-04-20 19:52:33.485831,68,F,29.1,Citrus Fruits,Chromium,Calcium,Greek Yogurt,2,1,0
+2024-01-10 19:52:33.485842,63,M,26.5,Citrus Fruits,Calcium,,Almonds,10,1,1
+2024-07-24 19:52:33.485852,33,M,23.5,Sugary Foods,Iron,,Quinoa,7,1,1
+2024-06-25 19:52:33.485863,61,F,30.9,Citrus Fruits,Vitamin B12,Sodium,Eggs,3,1,0
+2024-07-22 19:52:33.485872,63,F,21.5,Red Meat,Vitamin B12,,Salmon,4,1,0

@@ -1,0 +1,34 @@
+{
+    "Spinach": {
+        "nutrients": ["Iron", "Magnesium", "Vitamin B"],
+        "description": "Leafy green vegetable rich in iron and other essential nutrients. Great in salads or smoothies."
+    },
+    "Salmon": {
+        "nutrients": ["Essential Fatty Acids", "Vitamin B12", "Protein"],
+        "description": "Fatty fish high in omega-3s and protein. Excellent for brain and heart health."
+    },
+    "Bananas": {
+        "nutrients": ["Magnesium", "Potassium", "Vitamin B6"],
+        "description": "Sweet fruit that's great for energy and muscle function."
+    },
+    "Dark Chocolate": {
+        "nutrients": ["Magnesium", "Iron", "Antioxidants"],
+        "description": "Rich in magnesium and antioxidants. Choose 70% or higher cocoa content for best benefits."
+    },
+    "Sweet Potatoes": {
+        "nutrients": ["Vitamin C", "Magnesium", "Potassium"],
+        "description": "Nutritious root vegetable rich in vitamins and minerals."
+    },
+    "Almonds": {
+        "nutrients": ["Magnesium", "Calcium", "Healthy Fats"],
+        "description": "Nutrient-dense nuts that are great for snacking and brain health."
+    },
+    "Oranges": {
+        "nutrients": ["Vitamin C", "Fiber", "Potassium"],
+        "description": "Citrus fruit packed with vitamin C and immune-boosting properties."
+    },
+    "Lentils": {
+        "nutrients": ["Iron", "Protein", "Fiber"],
+        "description": "Plant-based protein source rich in iron and fiber."
+    }
+} 

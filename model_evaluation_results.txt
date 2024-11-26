@@ -1,0 +1,20 @@
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.93      0.97      0.95      1744
+           1       0.93      0.84      0.88       756
+
+    accuracy                           0.93      2500
+   macro avg       0.93      0.91      0.92      2500
+weighted avg       0.93      0.93      0.93      2500
+
+
+Accuracy by Gender:
+Gender M: 93.48%
+Gender F: 93.02%
+
+Accuracy by Age Group:
+26-35: 91.57%
+36-50: 93.47%
+50+: 93.28%
+18-25: 94.71%
